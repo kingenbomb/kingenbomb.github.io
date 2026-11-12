@@ -147,6 +147,17 @@ ssh instabox 'rm -rf /data/home/splittext-web/* && tar -xzf /data/home/splittext
 修复：`src/css/layers.css` 作为 `main.jsx` 的**第一个** CSS import，显式声明
 `@layer reset, theme, base, components, utilities;`（reset 最低）。项目手写样式都是无层 CSS，仍压过全部层，所以既有 217 个 demo 不受影响（prod 复核：h1 36px、侧栏 252px、body 背景 `#120f17` 不变、0 报错）。
 
+### 第五轮：部署（2026-11-12 16:45）
+
+推到 `main` = 上线，因为 `.github/workflows/deploy.yml` 是 `on: push: main`（build → upload-pages-artifact → deploy-pages），不用手动跑命令。
+
+- 仓库：`kingenbomb/kingenbomb.github.io`（user site，域名在根，所以 `base:'./'` + 绝对 `/assets/...` 都对）
+- 提交：`379c1e2`，2127 个文件，152.7MB（.gitignore 里排掉了 `RECON/pro/tmp/` 74.7MB 的原始视频下载和 `RECON/pro/shots/` 8.2MB 的验证截图）
+- 线上：<https://kingenbomb.github.io/> · <https://kingenbomb.github.io/#/pro/docs/components>
+- Pages 站点 171.7MB（54MB 是免费站的 432 个 demo 视频，78MB 是 pro 截图），远低于 1GB 上限
+- 线上校验（`sweep_live_site.mjs`）：**104 个页面 0 问题 0 console error**；首页 100 卡、目录 230 卡、组件页 canvas 在跑（luma 23）、Code tab 3412 字符、变体页 46 个 DOM 节点、Ctrl+K 搜"光标"出 Cursor 系列、回车落到 `ascii-cursor`
+- 坑：`page.goto()` 只改 hash **不会重新加载文档**，所以批量扫线上必须给 URL 加个 `?r=N` 强制重载，否则会误报一片"白页"
+
 ### 第四轮：中英文搜索（2026-11-12 傍晚）
 
 全站（`/pro/*` 每一页）一个搜索框，`Ctrl/⌘ K` 或点导航 Search 打开，**中英文同一个输入框**：941 条索引，覆盖 230 组件 + 600 变体 + 60 分类 + 15 模板 + 20 agent-kit + 16 个文档/页面。
