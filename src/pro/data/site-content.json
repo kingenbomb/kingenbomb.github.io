@@ -1,0 +1,1937 @@
+{
+ "about": {
+  "title": "About",
+  "headline": "The premium React UI library you'll actually ship with",
+  "desc": "React Bits Pro is the premium animated React and Next.js component library: 230 components, 300 pre-built page blocks, 300 app UI blocks, 15 full landing-page templates and an agent kit.",
+  "blocks": [
+   {
+    "type": "h2",
+    "text": "What you get"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "230 animated React components. Hero shaders, particle text, fluid cursors, scroll-driven reveals, 3D scenes, glitch and scramble text. Built for production, not for a demo reel.",
+     "300 page blocks across 22 categories. Heroes, feature grids, pricing tables, FAQs, testimonials, CTAs and footers. Drop them in and ship.",
+     "300 app UI blocks across 38 categories. Dashboards, sidebars, data tables, settings forms, dialogs and AI agent surfaces, all on one design system and in two styles, Default and Sorbet. The product behind the marketing site, not just the marketing site.",
+     "15 full Next.js landing-page templates. SaaS, AI SaaS, AI app, agency, shader, security, 8-bit and more. Deploy in an afternoon.",
+     "An Agent Kit of 20 design skills, page prompts and recipes. Design judgment your AI agent can apply on its own, and that composes with the library when you own it. See the Agent Kit.",
+     "Two CSS variants per component. Tailwind and vanilla CSS, so you can adopt React Bits Pro on whatever stack you already run.",
+     "TypeScript-first. React 19 and Next.js 16 ready, strict types, predictable APIs.",
+     "AI-agent ready. A published SKILL.md so Cursor, Claude Code, v0, Bolt.new, Lovable and Replit install components correctly on the first try.",
+     "Lifetime updates. New components and blocks ship every month."
+    ]
+   },
+   {
+    "type": "h2",
+    "text": "How it works"
+   },
+   {
+    "type": "p",
+    "text": "React Bits Pro is distributed through the shadcn registry protocol. After activating your license, an install looks like this:"
+   },
+   {
+    "type": "code",
+    "text": "npx shadcn@latest add @reactbits-pro/hero-7"
+   },
+   {
+    "type": "p",
+    "text": "The code lands in your repo as plain React and TypeScript. You edit it like any other file. There is no runtime npm dependency to version-lock, no black box, and no breaking-change anxiety."
+   },
+   {
+    "type": "h2",
+    "text": "Who it's built for"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "Indie hackers shipping SaaS, AI and content products who need a high-quality landing page without a designer.",
+     "Startup founders who want a production-grade marketing site in days, not weeks.",
+     "Agencies and freelancers delivering polished React UI to clients on tight timelines.",
+     "Developers using AI coding agents who want a library their agents install reliably the first time."
+    ]
+   },
+   {
+    "type": "h2",
+    "text": "Why teams choose React Bits Pro"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "You own the code. Source-code delivery, not a runtime dependency. Nothing breaks when a package maintainer ships v2.",
+     "One payment, lifetime updates. No subscription, no seat fees, no expiring license.",
+     "Tailwind and vanilla CSS. Two functionally identical variants per component, so the library fits any project.",
+     "Marketing and product in one library. The page blocks cover the site you sell with. The app UI blocks cover the product people log into.",
+     "AI-agent friendly by design. Plain React and Tailwind, predictable structure, a published SKILL.md, and an Agent Kit that teaches taste rather than syntax.",
+     "Built by the author of reactbits.dev. The same quality bar that made the free library popular, now with the blocks, templates and commercial license real products need."
+    ]
+   },
+   {
+    "type": "h2",
+    "text": "Pricing"
+   },
+   {
+    "type": "p",
+    "text": "One-time payment. Lifetime updates. Unlimited projects."
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "Starter, $129. 230 animated components in both CSS variants.",
+     "Pro, $249. Everything in Starter, plus 300 page blocks across 22 categories, 300 app UI blocks and the Agent Kit.",
+     "Ultimate, $349. Everything in Pro, plus 15 full landing-page templates and priority email support."
+    ]
+   },
+   {
+    "type": "p",
+    "text": "One license covers one developer across unlimited commercial projects, including client work. See the license agreement. Volume and team pricing are available: email pro@reactbits.dev."
+   },
+   {
+    "type": "h2",
+    "text": "Tech stack"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "React 19 and 18, Next.js 16, 15 and 14 (App Router).",
+     "TypeScript (strict).",
+     "Tailwind CSS 4, or vanilla CSS, your choice.",
+     "Animation: motion/react, GSAP, three.js with @react-three/fiber and drei, matter-js, lenis, d3 and smooothy. Each component only pulls the dependencies it actually uses.",
+     "Distribution: the shadcn registry protocol, so it works wherever shadcn add works.",
+     "AI tools: Cursor, Claude Code, v0, Bolt.new, Lovable and Replit."
+    ]
+   },
+   {
+    "type": "h2",
+    "text": "Use cases"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "SaaS marketing sites and product landing pages",
+     "AI product launches with shader and WebGL aesthetics",
+     "Agency portfolios and creative one-pagers",
+     "General landing pages: heroes, pricing, FAQ, CTA"
+    ]
+   },
+   {
+    "type": "h2",
+    "text": "Where to next"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "Documentation",
+     "Installation guide",
+     "Components catalog",
+     "Blocks catalog",
+     "App UI catalog",
+     "Templates catalog",
+     "Agent Kit",
+     "Pricing",
+     "Changelog",
+     "Roadmap"
+    ]
+   },
+   {
+    "type": "h2",
+    "text": "Build something polished this week"
+   },
+   {
+    "type": "p",
+    "text": "Buy once. Own the source. Lifetime updates. The fastest path from idea to a credible product site."
+   }
+  ]
+ },
+ "license": {
+  "title": "License Agreement",
+  "headline": "License Agreement",
+  "desc": "The terms that come with a React Bits Pro licence.",
+  "blocks": [
+   {
+    "type": "p",
+    "text": "Last updated: September 11, 2026"
+   },
+   {
+    "type": "p",
+    "text": "This License Agreement (\"Agreement\") is a legal contract between React Bits Pro (\"Licensor\") and the purchaser or user (\"Licensee\"). By purchasing, accessing, downloading, or using React Bits Pro or any related files made available through pro.reactbits.dev (collectively, the \"Product\"), you agree to be bound by this Agreement."
+   },
+   {
+    "type": "p",
+    "text": "This Agreement applies to every part of the Product, including parts added after the date you purchased. Section 1 defines what the Product includes."
+   },
+   {
+    "type": "h2",
+    "text": "1. Definitions"
+   },
+   {
+    "type": "p",
+    "text": "\"Product\" means the whole of React Bits Pro as made available through pro.reactbits.dev, in any form and by any delivery method, including:"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "Components: the animated React components, in both their Tailwind CSS and vanilla CSS variants.",
+     "Blocks: the marketing and page-section blocks.",
+     "App UI blocks: the application-interface blocks, including app shells, navigation, data tables, dashboards, dialogs, settings surfaces, and AI and agent interfaces.",
+     "Templates: the downloadable full project templates.",
+     "Agent Kit: the design skills, prompts, and Prompt-to-Page recipes, together with any accompanying plan or metadata files. Agent Kit material is written content and instructions rather than executable code, and is licensed on the same terms as the rest of the Product except where this Agreement says otherwise.",
+     "Landing Builder: the hosted page composition tool at pro.reactbits.dev and the project files it generates.",
+     "Registries and tooling: the license-authenticated registry endpoints, the React Bits Pro agent integration skill, installation tooling, and the documentation, code samples, previews, and preview assets published on pro.reactbits.dev."
+    ]
+   },
+   {
+    "type": "p",
+    "text": "\"Output\" means the pages, applications, and source code that Licensee produces using the Product, including files exported from the Landing Builder and code written by an AI agent that Licensee has directed while using the Agent Kit."
+   },
+   {
+    "type": "p",
+    "text": "\"Plan\" means the tier purchased by Licensee (Starter, Pro, or Ultimate) and the billing model chosen (a one-time lifetime purchase or an annual subscription). The parts of the Product a Licensee may access are determined by their Plan, as described on pro.reactbits.dev at the time of purchase."
+   },
+   {
+    "type": "h2",
+    "text": "2. License Grant"
+   },
+   {
+    "type": "h3",
+    "text": "2.1 Single Developer License"
+   },
+   {
+    "type": "p",
+    "text": "Subject to full payment and compliance with this Agreement, Licensor grants Licensee a personal, non-exclusive, non-transferable license to use the Product. Each purchase grants usage rights to one individual developer."
+   },
+   {
+    "type": "p",
+    "text": "If multiple developers within a company, team, or organization need to use the Product, additional licenses are required or a separate team or volume agreement must be arranged by contacting Licensor."
+   },
+   {
+    "type": "h3",
+    "text": "2.2 Permitted Use"
+   },
+   {
+    "type": "p",
+    "text": "Subject to the Seat rule above, the licensed developer may:"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "Use the Product to build landing pages, websites, applications, or other digital products for personal projects or for an unlimited number of clients and commercial projects.",
+     "Install the Product into an unlimited number of their own or their clients' codebases, through the registry or by any other method Licensor provides.",
+     "Modify, adapt, or extend the Product to fit their own projects or client work.",
+     "Use the Agent Kit as context or instructions for an AI coding agent, editor, or other tooling of their choice, while working on projects covered by this Agreement. This is an intended use of the Agent Kit.",
+     "Continue to use any version of the Product downloaded while their license was active, including in projects already delivered, even if they later stop paying for updates, provided that the purchase through which the Product was obtained has not been refunded. Section 6.4 applies to refunded purchases."
+    ]
+   },
+   {
+    "type": "p",
+    "text": "Delivering Output to a client is permitted and does not require the client to hold their own license. Giving a client or any other party access to the Product itself, separately from a project built with it, is not permitted and is governed by Section 2.4."
+   },
+   {
+    "type": "h3",
+    "text": "2.3 Ownership of Output"
+   },
+   {
+    "type": "p",
+    "text": "Output belongs to Licensee. Licensor claims no ownership of, and asserts no license over, the pages, applications, and projects Licensee builds using the Product. No attribution, royalty, or revenue share is required for Output."
+   },
+   {
+    "type": "p",
+    "text": "This Agreement governs the Product itself, not what Licensee builds with it. Output that reproduces the Product substantially unchanged, and in a way that makes the Product itself the thing being delivered rather than a project built with it, remains subject to Section 2.4."
+   },
+   {
+    "type": "h3",
+    "text": "2.4 Prohibited Use"
+   },
+   {
+    "type": "p",
+    "text": "Licensee may not:"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "Distribute, resell, share, sublicense, rent, lease, publish, or otherwise make the Product or any substantial part of it available to any third party, whether in original, modified, or partial form, including as part of open source repositories, public gists, pastebins, file-sharing services, starter kits, or boilerplates.",
+     "Post the Product, or any substantial part of it, in a public or shared forum, chat server, or community, or publish a video or article that displays its full source or full text.",
+     "Claim authorship or ownership of the Product, even if it has been modified or combined with other work.",
+     "Use the Product to create, sell, or distribute a product or service whose purpose is to reproduce, redistribute, expose, or provide reusable access to the Product itself or any substantial part of it. This includes template packs, UI kits, component libraries, block libraries, prompt packs, skill or agent-skill libraries, agent marketplace listings, courses, or software-as-a-service offerings that enable users to browse, extract, download, generate, or otherwise obtain the Product in source or reusable form.",
+     "Serve the Product from their own endpoint, mirror it, or proxy, wrap, or re-expose the React Bits Pro registry so that parties without their own license can obtain it.",
+     "Share, publish, or resell their license key, registry credentials, or account access, or use them on behalf of anyone other than the licensed developer.",
+     "Remove, obscure, or alter any copyright notice, license file, version or attribution metadata included with the Product.",
+     "Circumvent, disable, or attempt to defeat any licensing, authentication, rate limiting, or access control mechanism protecting the Product."
+    ]
+   },
+   {
+    "type": "p",
+    "text": "For clarity, Licensee may use the Product to build and operate a software-as-a-service application or other digital product when the Product is used as part of that application's interface or implementation and the application does not make the Product itself available to its users in source or reusable form."
+   },
+   {
+    "type": "h3",
+    "text": "2.5 Artificial Intelligence and Machine Learning"
+   },
+   {
+    "type": "p",
+    "text": "Licensee may use the Product with AI coding agents, assistants, and editors while working on their own or their clients' projects. This applies to the whole Product, not only the Agent Kit, and is an intended use."
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "Use the Product as training data, or submit it to any third party for the purpose of training, fine-tuning, distilling, or evaluating a machine learning model whose weights, outputs, or derived artifacts are made available to others.",
+     "Include the Product in any dataset, corpus, index, or retrieval system that is published, sold, or otherwise made accessible to parties without their own license.",
+     "Publish, host, or expose the Product so that AI agents belonging to unlicensed third parties can retrieve it. This is treated as redistribution under Section 2.4."
+    ]
+   },
+   {
+    "type": "p",
+    "text": "Nothing in this section restricts Licensee's use of Output, or of models and tools that Licensee runs privately against their own codebase."
+   },
+   {
+    "type": "h3",
+    "text": "2.6 Enforcement of Violations"
+   },
+   {
+    "type": "p",
+    "text": "If Licensor reasonably believes that Licensee has engaged in unauthorized redistribution, sharing, unauthorized access to protected content, extraction of source code through browser developer tools or other technical means, or any other prohibited use, Licensor may:"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "Submit copyright or DMCA-style takedown notices to hosting providers and platforms to remove infringing content.",
+     "Pursue any remedies available under applicable law, including injunctive relief and claims for damages."
+    ]
+   },
+   {
+    "type": "p",
+    "text": "While public demos and previews may be displayed on pro.reactbits.dev for marketing purposes, this does not grant any license to use, copy, extract, or replicate the underlying source code, components, or implementation details. The same applies to any summary, outline, excerpt, or teaser of Agent Kit content shown to visitors who do not hold the required Plan. Unauthorized attempts to access, extract, reverse engineer, deobfuscate, or steal code through browser developer tools, network inspection, automated scraping, or any other technical means without a valid paid license will be considered a material violation of this Agreement and may constitute copyright infringement under applicable law."
+   },
+   {
+    "type": "h3",
+    "text": "2.7 License Keys, Registry Access, and Usage Monitoring"
+   },
+   {
+    "type": "p",
+    "text": "Access to the Product is granted through a license key issued to Licensee. The license key identifies the Licensee and is personal to them. Licensee is responsible for keeping it confidential and for all activity carried out with it, including activity by AI agents or automated tooling acting on Licensee's behalf."
+   },
+   {
+    "type": "p",
+    "text": "Licensor records requests made to the registry, including the license key used, the associated email address, the resource requested, the time of the request, the IP address, the user agent, and the approximate location derived from the IP address. This record is kept to verify entitlement, to operate and support the Product, and to detect license key sharing and other unauthorized access. Licensor's handling of this information is described in the Privacy Policy."
+   },
+   {
+    "type": "p",
+    "text": "Licensor may apply reasonable rate limits, and may suspend or revoke a license key where it reasonably believes the key is being shared, resold, or otherwise used in breach of this Agreement. Where practical and appropriate, Licensor will contact Licensee before revoking access."
+   },
+   {
+    "type": "h3",
+    "text": "2.8 Transfer and Reassignment Requests"
+   },
+   {
+    "type": "p",
+    "text": "The license is personal to the purchasing developer and is not freely assignable or transferable to another person or entity without Licensor's consent."
+   },
+   {
+    "type": "p",
+    "text": "If Licensee needs to change the contact email for the license or request a reassignment, they must contact Licensor at pro@reactbits.dev. Licensor will make reasonable efforts to assist with such requests."
+   },
+   {
+    "type": "h2",
+    "text": "3. Supplemental and Bundled License Files"
+   },
+   {
+    "type": "p",
+    "text": "Some parts of the Product are delivered with their own license file. In particular, Agent Kit items are installed together with a file named LICENSE.md (the \"Agent Kit License\"), which restates the terms that apply to that content in the place where Licensee will actually read it."
+   },
+   {
+    "type": "p",
+    "text": "Any such bundled license file is supplemental to this Agreement and is to be read together with it. This Agreement is the governing document. Where a bundled license file and this Agreement address the same subject and cannot be read consistently, this Agreement controls, except that any additional restriction stated in a bundled license file applies in addition to the restrictions in this Agreement."
+   },
+   {
+    "type": "p",
+    "text": "No bundled license file grants rights beyond those granted here. In particular, the number of developers permitted to use the Product is governed by Section 2.1 in all cases."
+   },
+   {
+    "type": "h2",
+    "text": "4. Ownership"
+   },
+   {
+    "type": "p",
+    "text": "All intellectual property rights in and to the Product are owned by Licensor. The Product is licensed, not sold. This Agreement grants Licensee only the rights expressly stated in it. All other rights are reserved by Licensor."
+   },
+   {
+    "type": "h2",
+    "text": "5. Third-Party Materials"
+   },
+   {
+    "type": "h3",
+    "text": "5.1 Open Source Dependencies"
+   },
+   {
+    "type": "p",
+    "text": "The Product is built on, and expects Licensee to install, third-party open source packages such as React, Next.js, Tailwind CSS, Motion, GSAP, Three.js, and lucide. Those packages are not part of the Product, are not licensed by Licensor, and remain subject to their own licenses. Licensee is responsible for complying with them."
+   },
+   {
+    "type": "h3",
+    "text": "5.2 Placeholder and Demonstration Content"
+   },
+   {
+    "type": "p",
+    "text": "The Product includes placeholder images, sample copy, sample data, icons, logos, and names used purely to demonstrate layout. This material is illustrative only. It may reference or resemble third-party brands, and no rights to any third-party trademark, logo, photograph, typeface, or other protected work are granted by this Agreement. Licensee is responsible for replacing placeholder and demonstration content with material they are entitled to use before publishing any Output."
+   },
+   {
+    "type": "h3",
+    "text": "5.3 Third-Party Services"
+   },
+   {
+    "type": "p",
+    "text": "Purchases, license issuance, authentication, hosting, delivery, and affiliate attribution rely on third-party services, including Polar.sh, Supabase, Vercel, and Affonso. Licensor is not responsible for the availability, performance, or acts of those services, and their own terms apply to Licensee's use of them."
+   },
+   {
+    "type": "h2",
+    "text": "6. Refunds and Right of Withdrawal"
+   },
+   {
+    "type": "h3",
+    "text": "6.1 Immediate Access and Consent"
+   },
+   {
+    "type": "p",
+    "text": "The Product is digital content that is supplied immediately on purchase. By completing a purchase, Licensee expressly requests that supply of the Product begins immediately, and acknowledges that they thereby lose any statutory right of withdrawal or cooling-off period that would otherwise apply to digital content once supply has begun."
+   },
+   {
+    "type": "h3",
+    "text": "6.2 Refund Policy"
+   },
+   {
+    "type": "p",
+    "text": "Subject to Section 6.3, all sales are final and no refunds, returns, or exchanges are offered."
+   },
+   {
+    "type": "p",
+    "text": "For annual subscriptions, cancelling stops future billing. It does not shorten the paid period already in progress and does not create a right to a pro-rated refund."
+   },
+   {
+    "type": "p",
+    "text": "Annual subscriptions renew automatically each year unless cancelled before the renewal date. The annual price accepted at the initial checkout remains the renewal price while the subscription stays continuously active. If a subscription is cancelled, expires, or otherwise lapses, a later purchase or reactivation is offered at the price then available. Taxes, exchange rates, and payment-provider charges are not part of the locked product price and may change."
+   },
+   {
+    "type": "h3",
+    "text": "6.3 Mandatory Consumer Rights"
+   },
+   {
+    "type": "p",
+    "text": "Nothing in this Agreement excludes or limits any right that cannot be excluded or limited under the consumer protection law applicable to Licensee, including any right to a remedy where digital content is faulty, not as described, or not fit for purpose. If Licensee believes a mandatory right applies to their purchase, they may contact Licensor at pro@reactbits.dev."
+   },
+   {
+    "type": "h3",
+    "text": "6.4 Effect of a Refund"
+   },
+   {
+    "type": "p",
+    "text": "If Licensor issues a full refund for a purchase, the license granted through that purchase terminates immediately and the associated license key may be revoked. From that point, Licensee has no license or right to access or use any Product content obtained through the refunded purchase, whether obtained through a registry, the documentation code tab, a download, an export, or any other delivery method."
+   },
+   {
+    "type": "p",
+    "text": "Licensee must immediately stop using the affected Product content and permanently delete every copy in their possession or control, including copies stored in source code repositories, local files, backups, generated projects, or other Output. That content may not thereafter be used, reproduced, modified, distributed, published, or incorporated into any project."
+   },
+   {
+    "type": "p",
+    "text": "Any continued use following a refund is unauthorized use of copyrighted React Bits Pro material. Licensor reserves all rights and remedies available for that unauthorized use, including appropriate copyright and legal remedies. This Section 6.4 controls over any provision that would otherwise permit continued use of content downloaded while a license was active or preserve Product content within Output."
+   },
+   {
+    "type": "h3",
+    "text": "6.5 Regional Pricing and Discounts"
+   },
+   {
+    "type": "p",
+    "text": "Licensor may, at its discretion, offer reduced pricing to customers located in specific countries or regions (\"Regional Pricing\"), typically by presenting a discount code based on the customer's detected location. Regional Pricing is a courtesy intended to make the Product accessible where purchasing power is lower. It is offered solely to persons who genuinely reside in, and make the purchase from, the eligible country or region."
+   },
+   {
+    "type": "p",
+    "text": "Licensee may not use a Regional Pricing discount code that was not presented to Licensee for their own actual location, including by obtaining a code shared by another person, using a VPN, proxy, or similar tool to appear located elsewhere, providing a false billing address or country, or otherwise misrepresenting their location or eligibility. Licensee may not share, publish, or distribute Regional Pricing discount codes."
+   },
+   {
+    "type": "p",
+    "text": "A purchase made in breach of this Section 6.5 is a breach of this Agreement. Licensor may, at its option, require payment of the difference between the price paid and the price applicable to Licensee's actual location as a condition of continued access, or suspend or revoke the associated license key in accordance with Sections 2.7 and 11. Where practical, Licensor will contact Licensee before taking such action."
+   },
+   {
+    "type": "h2",
+    "text": "7. Updates and Support"
+   },
+   {
+    "type": "h3",
+    "text": "7.1 Updates"
+   },
+   {
+    "type": "p",
+    "text": "Lifetime license holders receive access to all updates, improvements, and bug fixes for React Bits Pro, including all future versions, for as long as the Product exists. Annual subscribers receive access to updates for the duration of their active subscription. In either case, all updates are governed by this Agreement. Licensor may release updates at its discretion with no guaranteed schedule."
+   },
+   {
+    "type": "p",
+    "text": "Licensor may add to, change, deprecate, or remove any part of the Product, including individual components, blocks, App UI blocks, templates, Agent Kit items, or the Landing Builder. No particular item is guaranteed to remain available. Licensee's right to keep using anything already downloaded is not affected by its later removal."
+   },
+   {
+    "type": "h3",
+    "text": "7.2 Support and \"Priority Email Support\""
+   },
+   {
+    "type": "p",
+    "text": "Support may be provided by email at pro@reactbits.dev on an \"as available\" basis."
+   },
+   {
+    "type": "p",
+    "text": "Any references on pro.reactbits.dev, in pricing pages, or in plan descriptions (including wording such as \"Priority Email Support\" or similar phrases) describe Licensor's general intention to prioritize some customers, but they:"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "Do not create a guaranteed response time, resolution time, or service level agreement.",
+     "Do not obligate Licensor to respond to every inquiry or to resolve any particular issue."
+    ]
+   },
+   {
+    "type": "p",
+    "text": "Nothing in any marketing, sales copy, or plan description modifies or overrides the limitations and disclaimers in this Agreement."
+   },
+   {
+    "type": "h2",
+    "text": "8. Disclaimer of Warranties"
+   },
+   {
+    "type": "p",
+    "text": "The Product is provided \"as is\" and \"as available\". Licensor makes no warranties of any kind, express or implied, including without limitation any implied warranties of merchantability, fitness for a particular purpose, or non-infringement."
+   },
+   {
+    "type": "p",
+    "text": "Licensor does not guarantee that the Product will meet your specific requirements, operate without interruption, be error-free, or be compatible with any particular technology stack, browser, or third-party service."
+   },
+   {
+    "type": "p",
+    "text": "The Agent Kit consists of instructions and guidance for AI agents. AI agents are non-deterministic. Licensor does not warrant that any agent will follow the Agent Kit correctly, or that code produced by an agent will be correct, secure, accessible, performant, or fit for any purpose. The same applies to projects exported from the Landing Builder. Licensee is responsible for reviewing, testing, and securing all Output before using it in production."
+   },
+   {
+    "type": "p",
+    "text": "Licensee is solely responsible for the legal compliance of any Output they publish, including accessibility, data protection, and advertising requirements."
+   },
+   {
+    "type": "h2",
+    "text": "9. Limitation of Liability"
+   },
+   {
+    "type": "p",
+    "text": "To the maximum extent permitted by law, Licensor will not be liable for any indirect, incidental, special, consequential, or exemplary damages arising out of or related to the use or inability to use the Product, even if Licensor has been advised of the possibility of such damages. This includes, without limitation, loss of revenue, loss of profits, loss of data, or business interruption."
+   },
+   {
+    "type": "p",
+    "text": "Licensor's total aggregate liability for any claim related to the Product or this Agreement will not exceed the total amount actually paid by Licensee for the Product."
+   },
+   {
+    "type": "p",
+    "text": "Nothing in this Agreement excludes or limits liability for death or personal injury caused by negligence, for fraud or fraudulent misrepresentation, or for any other liability that cannot lawfully be excluded or limited."
+   },
+   {
+    "type": "h2",
+    "text": "10. Indemnification"
+   },
+   {
+    "type": "p",
+    "text": "Licensee agrees to indemnify and hold Licensor harmless from any claim, demand, loss, liability, or expense, including reasonable legal fees, arising out of Licensee's breach of this Agreement, Licensee's misuse of the Product, or any Output Licensee publishes or delivers to a client. This does not apply to the extent a claim arises from Licensor's own breach of this Agreement."
+   },
+   {
+    "type": "h2",
+    "text": "11. Term and Termination"
+   },
+   {
+    "type": "p",
+    "text": "This Agreement becomes effective when Licensee first purchases, downloads, or uses the Product and continues until terminated."
+   },
+   {
+    "type": "p",
+    "text": "For annual subscribers, registry access and the right to download new content remains active until the end of the paid subscription period, regardless of when Licensee cancels auto-renewal. Cancelling stops future billing but does not shorten the current paid period. After the subscription period expires, registry access ends. Code already downloaded and incorporated into Licensee's projects prior to expiry may continue to be used under the terms of this Agreement. Licensor is not obligated to provide a pro-rated refund upon cancellation."
+   },
+   {
+    "type": "p",
+    "text": "Licensor may terminate this Agreement immediately if Licensee breaches any of its terms. Upon termination for breach:"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "All rights granted to Licensee under this Agreement will cease.",
+     "Licensee must stop using the Product and delete all copies of the Product in their possession or control."
+    ]
+   },
+   {
+    "type": "p",
+    "text": "Output that Licensee has already built and delivered remains theirs and is unaffected by termination."
+   },
+   {
+    "type": "p",
+    "text": "Sections 2.3, 2.4, 2.5, 4, 5, 8, 9, 10, 13, and 17 survive termination of this Agreement."
+   },
+   {
+    "type": "h2",
+    "text": "12. Design Inspiration and Takedown Requests"
+   },
+   {
+    "type": "h3",
+    "text": "12.1 Use of Inspiration"
+   },
+   {
+    "type": "p",
+    "text": "React Bits Pro may be inspired by publicly visible designs, interaction patterns, and interfaces, including those found on websites, design galleries, and open source projects. However:"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "The Product does not include original third-party proprietary source code on a copy-paste basis.",
+     "The Product is implemented by Licensor using original code that may be influenced by design ideas or patterns seen elsewhere, but never by directly copying the original source code of those works."
+    ]
+   },
+   {
+    "type": "h3",
+    "text": "12.2 Requests for Credit or Removal"
+   },
+   {
+    "type": "p",
+    "text": "If you believe that a component, layout, or pattern in the Product refers too closely to your protected work, or you would like to request attribution or removal, you may contact Licensor at pro@reactbits.dev with:"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "A description of the relevant part of the Product.",
+     "Evidence of your original work and its date.",
+     "The specific action you are requesting, such as credit or removal."
+    ]
+   },
+   {
+    "type": "p",
+    "text": "Licensor will review such requests in good faith and may, at its discretion, update credits, adjust or remove materials, or take other steps considered appropriate. Handling such requests does not constitute an admission of liability and does not create a duty to agree to or implement every request."
+   },
+   {
+    "type": "h2",
+    "text": "13. Governing Law and Jurisdiction"
+   },
+   {
+    "type": "p",
+    "text": "This Agreement is governed by and interpreted in accordance with the laws of Romania, without regard to its conflict of law rules."
+   },
+   {
+    "type": "p",
+    "text": "Any dispute arising out of or in connection with this Agreement shall be submitted to the competent courts of Romania."
+   },
+   {
+    "type": "p",
+    "text": "If Licensee is a consumer resident in the European Union, this choice of law and jurisdiction does not deprive them of the protection of the mandatory consumer law of their country of residence, or of any right to bring proceedings in the courts of that country."
+   },
+   {
+    "type": "h2",
+    "text": "14. Data Collection and Privacy"
+   },
+   {
+    "type": "p",
+    "text": "When you purchase the Product, Licensor collects and stores your email address, license key, and purchase information through Polar and Supabase for license verification, product updates, and customer support. Licensor also records registry activity as described in Section 2.7. Licensor will not sell, rent, or share your personal information with third parties for marketing purposes."
+   },
+   {
+    "type": "p",
+    "text": "If a purchase is made through an affiliate referral, Affonso processes the referral and conversion information needed to attribute the purchase and administer commission, as described in the Privacy Policy."
+   },
+   {
+    "type": "p",
+    "text": "Full details of what is collected, why, how long it is kept, and the rights you have over it are set out in the Privacy Policy, which forms part of this Agreement."
+   },
+   {
+    "type": "h2",
+    "text": "15. Affiliate Program"
+   },
+   {
+    "type": "p",
+    "text": "React Bits Pro offers an affiliate program operated through Affonso. Purchases made through affiliate links are subject to the same terms and conditions as direct purchases. Affiliate commissions do not affect the price, license terms, or rights granted to Licensee."
+   },
+   {
+    "type": "h2",
+    "text": "16. Changes to this Agreement and Notices"
+   },
+   {
+    "type": "p",
+    "text": "Licensor may update or modify this Agreement from time to time. The current version is available through pro.reactbits.dev, and the Effective Date at the foot of this page indicates when it last changed."
+   },
+   {
+    "type": "p",
+    "text": "Changes apply from the date they are published. Where a change materially reduces Licensee's rights, Licensor will make reasonable efforts to notify affected Licensees by email in advance. A Licensee who does not accept a material change may stop using the Product; for annual subscribers, they may cancel and the change will not apply to the paid period already in progress."
+   },
+   {
+    "type": "p",
+    "text": "By purchasing the Product, Licensee agrees that Licensor may send non-marketing, product-related emails (such as changes to this Agreement or important product updates) to the email address associated with the purchase. Contact pro@reactbits.dev with questions about these communications."
+   },
+   {
+    "type": "h2",
+    "text": "17. Miscellaneous"
+   },
+   {
+    "type": "h3",
+    "text": "17.1 Severability"
+   },
+   {
+    "type": "p",
+    "text": "If any provision of this Agreement is held to be invalid or unenforceable, that provision will be enforced to the maximum extent permissible and the remaining provisions will remain in full force and effect."
+   },
+   {
+    "type": "h3",
+    "text": "17.2 No Waiver"
+   },
+   {
+    "type": "p",
+    "text": "A failure or delay by Licensor in enforcing any provision of this Agreement is not a waiver of that provision or of any other. A waiver is effective only if given in writing."
+   },
+   {
+    "type": "h3",
+    "text": "17.3 Assignment"
+   },
+   {
+    "type": "p",
+    "text": "Licensee may not assign or transfer this Agreement, or any rights under it, without Licensor's prior written consent, except as provided in Section 2.8. Licensor may assign this Agreement in connection with a merger, acquisition, or sale of the business, provided the assignee assumes these obligations."
+   },
+   {
+    "type": "h3",
+    "text": "17.4 No Partnership"
+   },
+   {
+    "type": "p",
+    "text": "Nothing in this Agreement creates a partnership, joint venture, employment, or agency relationship between Licensor and Licensee."
+   },
+   {
+    "type": "h3",
+    "text": "17.5 Force Majeure"
+   },
+   {
+    "type": "p",
+    "text": "Licensor is not liable for any failure or delay in performance caused by events beyond its reasonable control, including outages or discontinuation of third-party infrastructure and payment providers, network failures, acts of government, or natural events."
+   },
+   {
+    "type": "h3",
+    "text": "17.6 Entire Agreement"
+   },
+   {
+    "type": "p",
+    "text": "This Agreement, together with the Privacy Policy and any bundled license file as described in Section 3, constitutes the entire agreement between Licensor and Licensee regarding the Product and supersedes all prior or contemporaneous understandings, agreements, or communications related to the Product, whether written or oral."
+   },
+   {
+    "type": "h3",
+    "text": "17.7 Language and Headings"
+   },
+   {
+    "type": "p",
+    "text": "This Agreement is written in English, and the English text governs. Section headings are for convenience only and do not affect interpretation."
+   },
+   {
+    "type": "h2",
+    "text": "18. Contact Information"
+   },
+   {
+    "type": "p",
+    "text": "For questions or concerns about this Agreement or the Product, you can contact:"
+   },
+   {
+    "type": "p",
+    "text": "Email: pro@reactbits.dev"
+   },
+   {
+    "type": "p",
+    "text": "Version 2.2. Effective Date: September 11, 2026."
+   }
+  ]
+ },
+ "privacy": {
+  "title": "Privacy Policy",
+  "headline": "Privacy Policy",
+  "desc": "What this site collects and how it is handled.",
+  "blocks": [
+   {
+    "type": "p",
+    "text": "Last updated: August 25, 2026"
+   },
+   {
+    "type": "p",
+    "text": "This Privacy Policy describes how React Bits Pro (\"we\", \"us\", or \"our\") collects, uses, and protects your personal information when you use our website at pro.reactbits.dev, our documentation, our license authenticated registry, the Landing Builder, and related services (the \"Service\")."
+   },
+   {
+    "type": "p",
+    "text": "We are the data controller for the personal data described here. You can reach us at pro@reactbits.dev for any question about this policy or to exercise the rights in Section 6."
+   },
+   {
+    "type": "h2",
+    "text": "1. Information We Collect"
+   },
+   {
+    "type": "h3",
+    "text": "1.1 Information You Provide"
+   },
+   {
+    "type": "p",
+    "text": "When you use our Service, you may provide us with:"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "Account Information: Email address when you create an account or sign in via Google OAuth or magic link.",
+     "Payment Information: When you purchase a license, payment is processed by Polar.sh. We do not store your credit card details.",
+     "License Information: Your license key, tier, and license status, so we can verify what you have access to.",
+     "Saved Items and Folders: If you save a component, block, App UI block, template, or Agent Kit item, we store which item you saved, which folders it belongs to, and any folder names you create against your email address so your organization follows you between devices.",
+     "Communication Data: Information you provide when contacting us for support."
+    ]
+   },
+   {
+    "type": "h3",
+    "text": "1.2 Registry and Download Activity"
+   },
+   {
+    "type": "p",
+    "text": "Our components, blocks, App UI blocks, templates, and Agent Kit content are delivered through a registry that requires a valid license key. Each request to that registry is recorded, including when the request is made on your behalf by a CLI, an editor, or an AI coding agent. We log:"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "The license key used and the email address associated with it.",
+     "Which item was requested, and the request path and time.",
+     "IP address, user agent, and the approximate location (country, region, and city) derived from that IP address. We do not use precise or device-level location data."
+    ]
+   },
+   {
+    "type": "p",
+    "text": "We use this to confirm your entitlement, to operate and debug the registry, to understand which items are used, and to detect license key sharing and other unauthorized access. This record is what allows us to enforce our License Agreement, and we consider it necessary to protect the Service against piracy."
+   },
+   {
+    "type": "h3",
+    "text": "1.3 Documentation Code Access"
+   },
+   {
+    "type": "p",
+    "text": "Source code shown in the documentation is available only to signed-in customers whose license covers it. When you view the code for an item, we record:"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "Your email address and license tier.",
+     "Which item you viewed, and the time.",
+     "IP address, user agent, approximate location (country and city), and the address of the page the request came from."
+    ]
+   },
+   {
+    "type": "p",
+    "text": "We use this to confirm your entitlement and to detect unauthorized redistribution of paid material, including sites that proxy our documentation to people without a license."
+   },
+   {
+    "type": "h3",
+    "text": "1.4 Reports From Unauthorized Copies of the Service"
+   },
+   {
+    "type": "p",
+    "text": "Third parties sometimes republish our documentation on their own domains without permission, usually behind their own paywall. Because those pages are served from our code, our software can detect that it is running somewhere other than our own website and send us a short report."
+   },
+   {
+    "type": "p",
+    "text": "That report contains the address of the unauthorized site, the page being viewed, and the IP address, user agent and approximate location (country and city) of the request. It is limited to one report per site per browsing session."
+   },
+   {
+    "type": "p",
+    "text": "If you reached such a site, you may never have visited our website at all. We are telling you about this here because we still consider it your personal data. We use it only to identify and stop unauthorized copies of the Service, we do not use it to build any profile of you, and we do not attempt to identify you personally from it. You can ask us to delete it using the contact details in section 12."
+   },
+   {
+    "type": "h3",
+    "text": "1.5 Information Collected Automatically"
+   },
+   {
+    "type": "p",
+    "text": "When you visit our website, we may automatically collect:"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "Usage Data: Pages visited, time spent, and interactions with the Service via Vercel Analytics.",
+     "Device Information: Browser type, operating system, and device identifiers.",
+     "Log Data: IP address, access times, and referring URLs."
+    ]
+   },
+   {
+    "type": "h3",
+    "text": "1.6 Affiliate Referral Data"
+   },
+   {
+    "type": "p",
+    "text": "If you arrive through an affiliate link, Affonso detects the affiliate parameter and creates a privacy-limited referral identifier. Before consent is given where consent is required, no affiliate cookie is set and Affonso does not collect personal data. It may add an affonso_id identifier to the URL and record a minimal entry without IP address, browser, or location data. We preserve that identifier on internal links while your choice is pending so the referral is not lost as you move between pages."
+   },
+   {
+    "type": "p",
+    "text": "Once affiliate tracking is permitted, Affonso may process the referral identifier, IP address, browser and device details, approximate location, URLs and referrers, and purchase, subscription, renewal, refund, or chargeback information needed to attribute a sale and calculate commission. Polar receives the referral identifier with checkout and reports eligible conversion information to Affonso."
+   },
+   {
+    "type": "h3",
+    "text": "1.7 Information Stored on Your Device"
+   },
+   {
+    "type": "p",
+    "text": "Some information is kept in your browser's local storage and is never sent to us:"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "Interface preferences, such as your chosen package manager, styling variant, and list or grid view mode.",
+     "Your recent searches in the documentation search dialog.",
+     "Any drafts you create in the Landing Builder. Builder drafts are stored only on your device. We do not upload, read, or back them up.",
+     "Any image or name you set on your profile card, which stays on your device.",
+     "Your affiliate-tracking choice, so we can remember whether you accepted or declined the referral cookie in this browser."
+    ]
+   },
+   {
+    "type": "p",
+    "text": "Clearing your browser storage removes all of this permanently."
+   },
+   {
+    "type": "h3",
+    "text": "1.8 What We Do Not Collect"
+   },
+   {
+    "type": "p",
+    "text": "We do not collect the contents of your codebase, the projects you build with the Product, or anything an AI agent produces for you. We do not receive or store payment card details."
+   },
+   {
+    "type": "p",
+    "text": "We do apply automated limits to protect the Service: if a single license key or network address makes an unusually large number of requests in a short period, further requests are temporarily refused, and a key used across an unusual number of addresses or countries is flagged for a person to review. Temporary limits lift by themselves. No account is ever suspended automatically: a human reviews the record first, and you can contest any decision using the contact details in section 12."
+   },
+   {
+    "type": "h2",
+    "text": "2. How We Use Your Information"
+   },
+   {
+    "type": "p",
+    "text": "We use the collected information for the following purposes:"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "To provide and maintain access to your purchased license",
+     "To authenticate your account and verify license ownership",
+     "To send transactional emails (purchase confirmations, magic links via Supabase)",
+     "To send occasional product updates and announcements (you can unsubscribe anytime)",
+     "To respond to your inquiries and provide customer support",
+     "To improve our Service and develop new features",
+     "To detect and prevent fraud or unauthorized access",
+     "To verify entitlement to registry content and to detect license key sharing, resale, or other breaches of our License Agreement",
+     "To keep your saved items and folders available across your devices",
+     "To attribute eligible purchases and renewals to affiliate partners, calculate commissions, and administer the affiliate program",
+     "To meet our accounting, tax, and other legal obligations"
+    ]
+   },
+   {
+    "type": "h2",
+    "text": "3. Legal Basis for Processing"
+   },
+   {
+    "type": "p",
+    "text": "If you are in the European Economic Area or the United Kingdom, we rely on the following legal bases under the GDPR:"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "Performance of a contract: to give you access to what you purchased, to authenticate you, to verify your license, and to provide support.",
+     "Legitimate interests: to secure the Service, to detect and prevent license key sharing and piracy, to understand how the Service is used, and to improve it. We balance these against your interests, and limit registry logs to what is needed for that purpose.",
+     "Legal obligation: to keep purchase and tax records for the period required by law.",
+     "Consent: for optional product announcements, and for affiliate tracking where consent is required. You can withdraw consent at any time by unsubscribing, using the affiliate control in Section 7, or contacting us. Withdrawing consent does not affect processing carried out before withdrawal."
+    ]
+   },
+   {
+    "type": "h2",
+    "text": "4. Third-Party Services"
+   },
+   {
+    "type": "p",
+    "text": "We use trusted third-party services to operate our business. These services may have access to your personal information only to perform specific tasks on our behalf:"
+   },
+   {
+    "type": "h3",
+    "text": "Supabase"
+   },
+   {
+    "type": "p",
+    "text": "Authentication, database, and file storage. Stores your account, license record, saved items, registry usage logs, and downloadable template files."
+   },
+   {
+    "type": "h3",
+    "text": "Polar.sh"
+   },
+   {
+    "type": "p",
+    "text": "Payment processing and license key issuance. Handles payment transactions securely and passes eligible conversion events to our affiliate provider when a referral is attached to the checkout."
+   },
+   {
+    "type": "h3",
+    "text": "Affonso"
+   },
+   {
+    "type": "p",
+    "text": "Affiliate referral tracking and program administration. Processes referral identifiers, attributed clicks and conversions, commission records, and the related technical data described in Section 1.6 on our behalf. See Affonso's privacy policy."
+   },
+   {
+    "type": "h3",
+    "text": "Vercel"
+   },
+   {
+    "type": "p",
+    "text": "Hosting and analytics. Provides website hosting and aggregate, cookieless usage analytics."
+   },
+   {
+    "type": "h3",
+    "text": "Google OAuth"
+   },
+   {
+    "type": "p",
+    "text": "Authentication. Allows you to sign in with your Google account. We receive only your email address."
+   },
+   {
+    "type": "p",
+    "text": "We do not sell, rent, or trade your personal information, and we do not share it with third parties for their own marketing. We may disclose information where required by law, or where necessary to establish, exercise, or defend a legal claim, including enforcement of our License Agreement."
+   },
+   {
+    "type": "h2",
+    "text": "5. Data Retention"
+   },
+   {
+    "type": "p",
+    "text": "We keep personal data only for as long as we need it:"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "Account and license records: for as long as your license is valid. Because lifetime licenses do not expire, we retain those records indefinitely so that access continues to work. For annual subscriptions, we retain the record while the subscription is active and for a reasonable period afterwards so it can be renewed or restored.",
+     "Registry usage logs: up to 24 months, after which they are deleted or aggregated so they no longer identify you.",
+     "Documentation code access logs: up to 30 days. These exist to spot unauthorized redistribution as it happens, so they are not useful once stale.",
+     "Reports from unauthorized copies of the Service: up to 24 months, or longer where we need them as evidence in an ongoing copyright or enforcement matter.",
+     "License sharing flags: until the matter is reviewed and closed, and up to 24 months afterwards.",
+     "Saved items and folders: until you remove them or delete your account.",
+     "Support correspondence: up to 24 months after the matter is closed.",
+     "Affiliate referral and commission records: for as long as needed to administer and audit the affiliate program, including renewals, refunds, chargebacks, and payout disputes. Affonso retains referral analytics for the duration of our service relationship and deletes data under its retention procedures and applicable legal obligations when it is no longer required.",
+     "Purchase and invoice records: for the period required by applicable tax and accounting law, typically ten years."
+    ]
+   },
+   {
+    "type": "p",
+    "text": "You may request deletion of your account and associated data at any time by contacting us. Deleting your account ends registry access, and we may need to retain a minimal record of the purchase to meet the legal obligations above."
+   },
+   {
+    "type": "h2",
+    "text": "6. Your Rights"
+   },
+   {
+    "type": "p",
+    "text": "Depending on your location, you may have the following rights regarding your personal data:"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "Access: Request a copy of the personal data we hold about you.",
+     "Correction: Request correction of inaccurate personal data.",
+     "Deletion: Request deletion of your personal data.",
+     "Restriction: Ask us to limit how we use your data while a question about it is resolved.",
+     "Objection: Object to processing we carry out on the basis of legitimate interests, including our registry usage logging.",
+     "Withdraw consent: Withdraw any consent you have given, at any time.",
+     "Opt-out: Unsubscribe from marketing communications at any time.",
+     "Portability: Request a portable copy of your data."
+    ]
+   },
+   {
+    "type": "p",
+    "text": "To exercise any of these rights, please contact us using the information provided below. We will respond within one month. We do not charge for this, and we will not treat you differently for asking."
+   },
+   {
+    "type": "p",
+    "text": "If you are in the European Economic Area or the United Kingdom and believe we have not handled your data properly, you have the right to complain to your local data protection supervisory authority. In Romania this is the National Supervisory Authority for Personal Data Processing (ANSPDCP). We would appreciate the chance to address your concern first."
+   },
+   {
+    "type": "h2",
+    "text": "7. Cookies and Local Storage"
+   },
+   {
+    "type": "p",
+    "text": "We use essential cookies to maintain your session and authentication state. These are required for signing in and cannot be turned off without breaking access to your account."
+   },
+   {
+    "type": "p",
+    "text": "We also use Vercel Analytics to understand how visitors use our website. It reports in aggregate and does not use cookies to identify you across sites."
+   },
+   {
+    "type": "p",
+    "text": "If you reach our site through one of our affiliate partners, our affiliate provider, Affonso, can store a first-party affonso_referral cookie recording the referral, so that the partner can be credited if you later purchase. It expires after 30 days, is only set for an affiliate referral, and is not used to profile you or track you across other websites. If you are in the EEA or the United Kingdom, or if we cannot determine your region, we ask for permission before setting it or enabling personal-data collection. Before you decide, the limited URL continuity and non-personal entry described in Section 1.6 may still be used."
+   },
+   {
+    "type": "p",
+    "text": "Separately, we use your browser's local storage for the preferences, drafts, and affiliate consent choice described in Section 1.7. The stored choice stays on your device; accepting it enables the Affonso processing described above."
+   },
+   {
+    "type": "p",
+    "text": "You can withdraw affiliate consent at any time. Doing so removes the referral cookie from this browser and prevents the referral identifier from being sent with future checkouts. It does not affect processing that occurred before withdrawal."
+   },
+   {
+    "type": "p",
+    "text": "You can disable affiliate tracking and remove its referral cookie from this browser at any time."
+   },
+   {
+    "type": "h2",
+    "text": "8. Data Security"
+   },
+   {
+    "type": "p",
+    "text": "We implement appropriate technical and organizational measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction. All data is transmitted over HTTPS, and sensitive information is encrypted at rest. However, no method of transmission over the Internet is 100% secure, and we cannot guarantee absolute security."
+   },
+   {
+    "type": "p",
+    "text": "If a breach affecting your personal data occurs and is likely to result in a risk to your rights, we will notify the relevant supervisory authority and, where required, you, without undue delay."
+   },
+   {
+    "type": "h2",
+    "text": "9. International Transfers"
+   },
+   {
+    "type": "p",
+    "text": "Your information may be transferred to and processed in countries other than your own. Our service providers, including Supabase, Vercel, Polar.sh, Google, and their subprocessors, may store data in the United States or other jurisdictions. Affonso states that its affiliate-tracking infrastructure is hosted in Frankfurt, Germany. Where data is transferred outside the European Economic Area, we rely on the safeguards the relevant provider has in place, such as the European Commission's Standard Contractual Clauses or an applicable adequacy decision."
+   },
+   {
+    "type": "h2",
+    "text": "10. Children's Privacy"
+   },
+   {
+    "type": "p",
+    "text": "Our Service is not intended for individuals under the age of 18. We do not knowingly collect personal information from children. If you believe we have collected information from a child, please contact us immediately."
+   },
+   {
+    "type": "h2",
+    "text": "11. Changes to This Policy"
+   },
+   {
+    "type": "p",
+    "text": "We may update this Privacy Policy from time to time. We will notify you of any significant changes by posting the new policy on this page and updating the \"Last updated\" date, and where the change materially affects how we use your data, by email. We encourage you to review this Privacy Policy periodically."
+   },
+   {
+    "type": "h2",
+    "text": "12. Contact Us"
+   },
+   {
+    "type": "p",
+    "text": "If you have any questions about this Privacy Policy or our data practices, please contact us at:"
+   },
+   {
+    "type": "p",
+    "text": "Email: pro@reactbits.dev"
+   }
+  ]
+ },
+ "roadmap": {
+  "title": "Roadmap",
+  "headline": "Roadmap",
+  "desc": "What is coming next in React Bits Pro, month by month.",
+  "blocks": [
+   {
+    "type": "h2",
+    "text": "November"
+   },
+   {
+    "type": "h2",
+    "text": "October"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "Two App UI Styles: Default & Sorbet"
+    ]
+   },
+   {
+    "type": "h2",
+    "text": "September"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "Bento Builder: Compose & Export Bento Grids",
+     "Saved Folders & Copy Configuration"
+    ]
+   },
+   {
+    "type": "h2",
+    "text": "August"
+   },
+   {
+    "type": "h3",
+    "text": "Biggest Release Yet"
+   },
+   {
+    "type": "p",
+    "text": "React Bits Pro went live with:"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "Themeable App UI: Accent, Base, Font & Radius",
+     "Landing Builder (Beta) with One-Click Export",
+     "Agent Kit: Skills, Prompts & Recipes for Ultimate-Quality Builds",
+     "Saved Items & Rebuilt Docs Shell"
+    ]
+   },
+   {
+    "type": "h2",
+    "text": "July"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "Redesigned Docs with Instant Search & Filters"
+    ]
+   },
+   {
+    "type": "h2",
+    "text": "June"
+   },
+   {
+    "type": "h2",
+    "text": "May"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "Free Portfolio Template"
+    ]
+   },
+   {
+    "type": "h2",
+    "text": "April"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "New E-Commerce Block Category"
+    ]
+   },
+   {
+    "type": "h2",
+    "text": "March"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "New Changelog Page",
+     "AI Agent Skill Files for Component Integration"
+    ]
+   },
+   {
+    "type": "h2",
+    "text": "February"
+   },
+   {
+    "type": "h3",
+    "text": "Launch"
+   }
+  ]
+ },
+ "changelog": {
+  "title": "Changelog",
+  "headline": "Changelog",
+  "desc": "Everything that shipped in React Bits Pro, newest first.",
+  "blocks": [
+   {
+    "type": "h2",
+    "text": "App UI Styles: Meet Sorbet"
+   },
+   {
+    "type": "p",
+    "text": "Every App UI block now ships in two complete styles. Default stays precise and monochrome, built for AI products and consoles. Sorbet is roomy, warm and tactile, made for consumer apps. Pick a style in the theme panel and every preview switches at once, then install the blocks you want in either style with the same CLI."
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "All 300 App UI blocks in both styles, with the same layout, data, states, keyboard handling and motion",
+     "Sorbet goes a size up: 40px controls, 48px rows and Nunito type, with warm trays, raised tiles, inset fields and a tactile mint primary",
+     "Switch styles from the theme panel; accent, base, font and radius still apply on top of either one",
+     "Install a block in Sorbet by adding the style to its name, such as data-table-1-sorbet, with its own theme item",
+     "The radius knob now shapes Sorbet's pill controls too, and nested corners stay concentric at every setting",
+     "The React Bits Pro Skill teaches your agent to install and switch between both styles"
+    ]
+   },
+   {
+    "type": "h2",
+    "text": "80 New Components & 20 Marketing Blocks"
+   },
+   {
+    "type": "p",
+    "text": "The October release expands the library with animated backgrounds, interactive typography, galleries, cursor effects and image treatments, alongside new hero, feature, stats and about sections. Every component includes Tailwind and vanilla CSS variants, with live controls and copyable configurations."
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "Backgrounds range from glowing 3D drapes and flowing satin to clouds, galaxies and ASCII scenes",
+     "Interactive type stretches, falls, shatters, morphs and writes itself with ghost completions",
+     "Galleries wrap photos around rings, ribbons and helices, with dedicated magnifier, burn and liquid image effects",
+     "Cursor effects include ribbons, ink, electric arcs, confetti and draggable stickers",
+     "New marketing sections cover immersive heroes, product features, data stories and company introductions"
+    ]
+   },
+   {
+    "type": "h3",
+    "text": "TEXT"
+   },
+   {
+    "type": "h3",
+    "text": "BACKGROUNDS"
+   },
+   {
+    "type": "h3",
+    "text": "3D & SHADERS"
+   },
+   {
+    "type": "h3",
+    "text": "CURSOR EFFECTS"
+   },
+   {
+    "type": "h3",
+    "text": "UI & CARDS"
+   },
+   {
+    "type": "h3",
+    "text": "MARKETING BLOCKS"
+   },
+   {
+    "type": "h2",
+    "text": "Four New Templates"
+   },
+   {
+    "type": "p",
+    "text": "Four complete starting points for your next launch: Agentframe for an AI agent platform, Cloudlight for cloud storage, Imageworks for an AI image studio, and Sparkdesign for a creative team. Each includes responsive layouts, light and dark themes, animations, and editable source code."
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "Agentframe: an AI platform with an interactive hero, pricing, and field notes",
+     "Cloudlight: a cloud storage product with a WebGL hero and floating navigation",
+     "Imageworks: an image creation studio with a 3D hero and a scroll-driven gallery",
+     "Sparkdesign: a creative workspace with an interactive workflow and project showcase",
+     "Explore each live preview, then download the complete project with Ultimate or buy the template individually"
+    ]
+   },
+   {
+    "type": "h2",
+    "text": "Folders for Saved Items & Copy Configuration"
+   },
+   {
+    "type": "p",
+    "text": "Two quality-of-life changes for people who live in the docs. Saved items can now be organised into folders, and the Copy menu on every component preview can hand you the exact configuration you dialled in with the controls, not just the default source."
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "Folders on the Saved page: create, rename and delete them, file one item in several folders, and drag items between them",
+     "Save any component or block straight into a folder from its page; folders sync with your account like the rest of your saved items",
+     "Copy configuration: the Copy menu now emits the component as JSX with the props you set in Customize, ready to paste",
+     "The agent prompt variant pairs that configuration with the install command, so your AI agent installs and wires it exactly as previewed"
+    ]
+   },
+   {
+    "type": "h2",
+    "text": "Bento Grids & the Bento Builder"
+   },
+   {
+    "type": "p",
+    "text": "A new Bento category of 42 animated feature tiles built on one shared system, so any combination reads as a single design. Compose them into a grid in the new Bento Builder, then export the section as code or as a prompt for your agent. Bento sections also drop straight into the Landing Builder. Block count is now 280."
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "42 Bento tiles: analytics, integrations, security, AI chat and agents, devices, galleries, marquees and more, each in light and dark, responsive at every footprint",
+     "Bento Builder: drag tiles onto a 2, 3 or 4 column grid, resize from any edge, swap by dragging, and export the section as code or an agent prompt",
+     "Bento sections in the Landing Builder: add a grid as a page section and export it with the rest of the project",
+     "Block count is now 280 across 22 categories"
+    ]
+   },
+   {
+    "type": "h3",
+    "text": "NEW"
+   },
+   {
+    "type": "h2",
+    "text": "16 New Components"
+   },
+   {
+    "type": "p",
+    "text": "The September batch leans into simulation: GPU particles that morph between images, a liquid ASCII surface, a photo relit from an estimated depth field, ray-marched flights and a set of scroll-driven galleries. Every component ships in Tailwind and vanilla CSS variants, bringing the library to 150."
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "Particle Morph flows GPU particles between a sequence of images and silhouettes without respawning",
+     "ASCII Ripple runs a real wave simulation through a page of monospace text, refracting the words under the pointer",
+     "Depth Image relights a flat photo with a pointer driven light, estimating depth on the fly with no model download",
+     "Glass Reveal refracts one image through another behind a square, circle, blob or rippling portal lens",
+     "Four scroll galleries: Bend, Twisting, Dolly and Scroll Portal, plus Tile Reveal for a headline reveal",
+     "Ray-marched and shader scenes: Ravine, Eclipse, Long Exposure, Glowing Ridges and Neural Flash"
+    ]
+   },
+   {
+    "type": "h3",
+    "text": "IMAGE & GALLERY"
+   },
+   {
+    "type": "h3",
+    "text": "SCROLL"
+   },
+   {
+    "type": "h3",
+    "text": "SHADERS & BACKGROUNDS"
+   },
+   {
+    "type": "h2",
+    "text": "The Biggest Update of the Year"
+   },
+   {
+    "type": "p",
+    "text": "React Bits Pro doubles in scope. The library now covers the logged-in product, not just the page that sells it: 300 themeable App UI blocks, a visual Landing Builder in beta that exports real projects, an Agent Kit that teaches your AI agent taste, and 34 new components."
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "300 App UI blocks across 38 categories: dashboards, data tables, sidebars, billing, settings, and a full suite of AI and agent surfaces",
+     "One theme layer restyles all 300 at once: accent, base, font, and corner radius, with a live panel in the docs and copy-paste CSS for your own project",
+     "Landing Builder (Beta): compose a page from blocks and export it as a complete Next.js project, a copy guide, individual files, or an AI prompt",
+     "Agent Kit: 8 design skills, 8 page prompts, and 3 full-page recipes, usable with or without the component library",
+     "34 new animated components, bringing the total to 134",
+     "Saved items across the docs, synced to your account",
+     "The React Bits Pro Skill rewritten so agents install App UI, the Agent Kit, and themes correctly"
+    ]
+   },
+   {
+    "type": "h2",
+    "text": "300 App UI Blocks"
+   },
+   {
+    "type": "p",
+    "text": "The application layer, built as one system. 300 blocks across 38 categories that compose into real product screens, and a single theme layer that restyles every one of them."
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "38 categories spanning navigation, data, workflows, auth, overlays, forms, and AI",
+     "Themeable end to end: 6 accents, 6 base greys, 6 fonts, and 6 radius steps from square to pill, plus 6 ready-made presets",
+     "Corner geometry stays concentric at every radius setting, so nothing warps when you change it",
+     "Install the theme itself as a registry item, or copy the generated CSS into your project",
+     "Built to compose: a sidebar, header, table, dialog, and AI panel line up as one interface",
+     "A dedicated AI and agent group: chat, prompt input, tool calls, approvals, plans, and usage meters"
+    ]
+   },
+   {
+    "type": "h3",
+    "text": "AI & AGENTS"
+   },
+   {
+    "type": "h3",
+    "text": "NAVIGATION"
+   },
+   {
+    "type": "h3",
+    "text": "DATA"
+   },
+   {
+    "type": "h3",
+    "text": "WORKFLOWS"
+   },
+   {
+    "type": "h3",
+    "text": "AUTH & ONBOARDING"
+   },
+   {
+    "type": "h3",
+    "text": "OVERLAYS & FORMS"
+   },
+   {
+    "type": "h2",
+    "text": "Landing Builder (Beta)"
+   },
+   {
+    "type": "p",
+    "text": "Compose a landing page from blocks in the browser, edit the copy in place, then export it as code you own. What you see on the canvas is what ships. It is early, so expect rough edges and tell us what breaks."
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "Drag to reorder, swap variants, and preview at any breakpoint on a real iframe canvas",
+     "Edit headlines and button labels directly on the page; changes are written back into the exported source",
+     "Export four ways: a complete Next.js project, a guide for an existing project, individual files, or an AI prompt",
+     "Dependency versions are read from the real library, so an exported project installs and builds",
+     "Preview and export are the same code path, so the page you assembled is the page you get"
+    ]
+   },
+   {
+    "type": "h2",
+    "text": "The Agent Kit"
+   },
+   {
+    "type": "p",
+    "text": "AI agents are good at wiring logic and bad at inventing taste. The 20-item Agent Kit combines design direction with the React Bits Pro setup skill."
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "8 design skills: Apple Minimal, Swiss Grid, Editorial, Luxury Serif, Neobrutalism, Playful Motion, Corporate Trust, and Terminal Dark",
+     "8 page prompts tuned per vertical: SaaS, fintech, agency, developer tool, ecommerce, real estate, fitness, and consumer hardware",
+     "3 recipes that arrange real blocks into a complete page: SaaS homepage, agency homepage, and product launch",
+     "Works standalone: the skills and prompts improve an agent's output even without the component library",
+     "Installs through the same registry as everything else"
+    ]
+   },
+   {
+    "type": "h2",
+    "text": "34 New Components"
+   },
+   {
+    "type": "p",
+    "text": "The largest component drop since launch: WebGL fields, scroll-driven galleries, particle systems, and carousels. The component count is now 134."
+   },
+   {
+    "type": "h3",
+    "text": "BACKGROUNDS & SHADERS"
+   },
+   {
+    "type": "h3",
+    "text": "PARTICLES & PIXELS"
+   },
+   {
+    "type": "h3",
+    "text": "CAROUSELS & GALLERIES"
+   },
+   {
+    "type": "h3",
+    "text": "SCROLL & MOTION"
+   },
+   {
+    "type": "h2",
+    "text": "Saved Items & a Rebuilt Docs Shell"
+   },
+   {
+    "type": "p",
+    "text": "The docs grew four new sections this release, so the shell around them was rebuilt to keep up: a section switcher, a shortlist that follows your account, and controls that are actually pleasant to drag."
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "Save any component, block, or App UI category and find it again under Saved, synced to your account across devices",
+     "A section switcher for moving between Components, Blocks, App UI, Agent Kit, and Templates",
+     "A live theme panel on every App UI page: accent, base, font, radius, and presets",
+     "Rebuilt Customize controls: drag-anywhere sliders, a proper colour picker, and segmented toggles at one consistent size",
+     "Search now indexes App UI and the Agent Kit alongside everything else",
+     "The React Bits Pro Skill was rewritten so agents install App UI blocks, Agent Kit items, and themes without guessing"
+    ]
+   },
+   {
+    "type": "h2",
+    "text": "Docs Experience Overhaul"
+   },
+   {
+    "type": "p",
+    "text": "A ground-up redesign of the docs: cleaner layouts, a grouped sidebar, and new AI-ready copy tools on every page."
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "Copy for AI on every component and block: install command, page as Markdown, or a ready-to-paste prompt, with full source for licensed users",
+     "Components reorganized into 5 categories: Text, Backgrounds, 3D & Shaders, Cursor Effects, and UI & Cards",
+     "Block categories viewable as a list, 3-column grid, or per-variant pages",
+     "Smarter search with recent items, keyboard navigation, and a roadmap CTA on no results",
+     "Prev/next navigation, related components, and breadcrumbs on every page",
+     "One-click Reset for the Customize controls"
+    ]
+   },
+   {
+    "type": "h2",
+    "text": "80 New Blocks"
+   },
+   {
+    "type": "p",
+    "text": "The biggest blocks release yet, 80 brand-new blocks touching every one of the 21 categories, including WebGL shader heroes, animated stats, and refined navigation menus."
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "Every category grew: 3–7 new blocks in each of the 21 categories",
+     "7 new Hero blocks, including WebGL shader backdrops built on three.js",
+     "Animated stats, pricing switchers, comparison charts, and auto-rotating social proof",
+     "Block count is now 238"
+    ]
+   },
+   {
+    "type": "h3",
+    "text": "NEW BLOCKS"
+   },
+   {
+    "type": "h2",
+    "text": "3 New Templates"
+   },
+   {
+    "type": "p",
+    "text": "Three new landing page templates join the Ultimate tier: a retro pixel-art theme, an AI app landing, and a security page."
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "8 Bit: retro pixel-art landing page with pixel effects and a WebGL globe",
+     "AI App: minimal landing page with scroll-driven set pieces",
+     "Security: dark-first editorial landing page with a WebGL curtain reveal",
+     "Template count is now 11"
+    ]
+   },
+   {
+    "type": "h3",
+    "text": "NEW TEMPLATES"
+   },
+   {
+    "type": "h2",
+    "text": "13 New Components & 3 New Templates"
+   },
+   {
+    "type": "p",
+    "text": "A fresh batch of animated components. Shaders, cursors, carousels, and a magic AI-style hero, plus three brand new landing page templates, including a freebie."
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "13 new components added",
+     "3 new landing page templates: Shader, Wireframe, and Portfolio (free)",
+     "Component count is now 100+"
+    ]
+   },
+   {
+    "type": "h3",
+    "text": "NEW COMPONENTS"
+   },
+   {
+    "type": "h2",
+    "text": "Docs Navigation Overhaul"
+   },
+   {
+    "type": "p",
+    "text": "A focused pass on docs navigation and discovery. Faster ways to jump between sections, dedicated browsers for components and blocks with rich filtering, and a tighter navbar that gets out of the way as you scroll."
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "Quick navigation links for jumping between sections without leaving the page",
+     "Component browser with category, tag, and tier filters",
+     "Block browser with category and tier filters",
+     "Collapsing navbar that maximizes vertical space while you read"
+    ]
+   },
+   {
+    "type": "h2",
+    "text": "57 New Blocks"
+   },
+   {
+    "type": "p",
+    "text": "A huge blocks release, 57 brand-new blocks across 18 categories."
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "New Ecommerce category with 7 ready-to-ship blocks (PDP, catalog, compare, shop-all, categories)",
+     "5 new Pricing blocks, compare tables, single-plan, usage sliders, split layouts",
+     "4 new Hero blocks and 5 new CTA blocks with modern layouts and effects",
+     "Expanded 404, About, Blog, Contact, Download, FAQ, Features, Footer, How It Works, Navigation, Showcase, Social Proof, Stats, and Comparison block collections"
+    ]
+   },
+   {
+    "type": "h2",
+    "text": "AI Agent Skill Files"
+   },
+   {
+    "type": "p",
+    "text": "Shipped AI Agent Skill Files: a SKILL.md file you can install into your project so AI coding assistants always know how to integrate React Bits Pro components and blocks."
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "AI Agent Skill Files for seamless component integration",
+     "Install via CLI: npx shadcn@latest add @reactbits-starter/skill",
+     "Works with Cursor, Windsurf, Copilot, and other AI assistants"
+    ]
+   },
+   {
+    "type": "h2",
+    "text": "22 New Components"
+   },
+   {
+    "type": "p",
+    "text": "A massive component drop: 22 brand-new animated components covering shaders, cursors, cards, galleries, and more. All available in both Tailwind and vanilla CSS variants."
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "22 new components added to the registry",
+     "Shader backgrounds, cursor effects, interactive cards, and galleries",
+     "All components available in Tailwind and CSS variants"
+    ]
+   }
+  ]
+ },
+ "affiliate": {
+  "title": "Affiliates",
+  "headline": "Affiliates",
+  "desc": "Earn on every referral to React Bits Pro.",
+  "blocks": [
+   {
+    "type": "h2",
+    "text": "What you earn per sale"
+   },
+   {
+    "type": "p",
+    "text": "The 35% lifetime rate is available for a limited time. Commission is calculated on the sale price. Lifetime licenses are a single payment, so the whole amount is commissionable at once."
+   },
+   {
+    "type": "table",
+    "rows": [
+     [
+      "Plan",
+      "Lifetime",
+      "You earn",
+      "Annual",
+      "You earn"
+     ],
+     [
+      "Starter",
+      "$129",
+      "$45",
+      "$79/yr",
+      "$23"
+     ],
+     [
+      "Pro",
+      "$249",
+      "$87",
+      "$149/yr",
+      "$44"
+     ],
+     [
+      "Ultimate",
+      "$349",
+      "$122",
+      "$199/yr",
+      "$59"
+     ]
+    ]
+   },
+   {
+    "type": "p",
+    "text": "Ultimate is the most popular plan and most buyers choose a lifetime license, so $122 per conversion is a realistic figure rather than a best case."
+   },
+   {
+    "type": "h2",
+    "text": "Work out what that is worth to you"
+   },
+   {
+    "type": "p",
+    "text": "Drag the slider to your own numbers. Annual subscriptions keep paying, so they overtake lifetime licenses once renewals start landing."
+   },
+   {
+    "type": "p",
+    "text": "Lifetime licenses are a single payment, commissioned once at 35%. Mixed assumes a spread across all three plans, weighted towards the cheaper ones. An estimate, not a guarantee: what you actually earn depends on your audience."
+   },
+   {
+    "type": "h2",
+    "text": "Why it converts"
+   },
+   {
+    "type": "p",
+    "text": "The hard part of affiliate work is usually the product. This one sells to an audience that is already looking for it."
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "The brand is already known. React Bits is one of the most widely used free animated component libraries in the React ecosystem. You are not introducing a stranger, you are pointing people at the paid version of something they have probably already used.",
+     "2,000+ developers have already bought it. The objection handling is largely done for you.",
+     "One-time purchase. No trial, no onboarding drop-off, no seats to expand. Someone decides, pays, and the commission is settled.",
+     "It is genuinely large. 230 animated components, 300 page blocks, 300 app UI blocks, 15 templates and an Agent Kit for AI agents. The value is easy to demonstrate in thirty seconds of screen recording.",
+     "It demos itself. Every component is animated. Recordings of this library perform well precisely because the product is visual."
+    ]
+   },
+   {
+    "type": "h2",
+    "text": "Who this works well for"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "YouTube and course creators teaching React, Next.js or frontend design",
+     "Newsletter writers covering frontend, design engineering or AI tooling",
+     "Developers with an audience on X, Bluesky or LinkedIn",
+     "People selling templates, boilerplates or starter kits",
+     "Agencies and freelancers who recommend a stack to clients",
+     "Anyone running a directory, comparison site or roundup of UI libraries"
+    ]
+   },
+   {
+    "type": "h2",
+    "text": "How it works"
+   },
+   {
+    "type": "list",
+    "ordered": true,
+    "items": [
+     "Apply. Applications are reviewed by hand. Tell us where you would promote it, which takes one line.",
+     "Get your link. You receive a unique tracking link and a dashboard showing clicks, conversions and earnings in real time.",
+     "Share it. In a video description, a newsletter, a blog post, a tutorial or a comparison table, wherever it fits honestly.",
+     "Get paid. Commission is confirmed once the order clears, then paid out through our affiliate platform."
+    ]
+   },
+   {
+    "type": "h2",
+    "text": "Attribution"
+   },
+   {
+    "type": "p",
+    "text": "We use a 30-day, last-click attribution window. If someone follows your link and buys within 30 days, the sale is yours, even if they leave and come back later through a search result. Developer tools are rarely an impulse purchase, so the window matters more here than the click does."
+   },
+   {
+    "type": "p",
+    "text": "Visitors in the EEA and the UK are asked for consent before we store the tracking cookie, because the law requires it. Anyone who declines cannot be attributed. That is a small share of traffic, and it is the only case where a real referral may go uncredited."
+   },
+   {
+    "type": "p",
+    "text": "If your audience includes people in the EEA or the UK, tell them that they need to accept the affiliate cookie for their purchase to credit you. Keep that explanation honest: accepting is optional and is never required to browse the library or complete a purchase."
+   },
+   {
+    "type": "h2",
+    "text": "Program rules"
+   },
+   {
+    "type": "p",
+    "text": "Short version: promote it honestly and you will never run into any of these."
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     "No self-referrals. Buying through your own link does not earn commission, and neither does routing your own team or clients through it to discount their purchase.",
+     "No paid search on our brand terms. Please do not bid on \"React Bits\", \"React Bits Pro\" or close variants. That charges us for traffic which was already ours.",
+     "No coupon, deal or cashback sites, and no browser extensions that inject affiliate links.",
+     "No misrepresentation. Do not advertise the paid library as free, invent discounts that do not exist, or imply you speak for React Bits.",
+     "No spam. No unsolicited email, no comment or DM blasts, no scraped lists.",
+     "Refunds and chargebacks reverse the commission. All sales are final under our license terms, so this is rare."
+    ]
+   },
+   {
+    "type": "p",
+    "text": "We may decline an application or end a partnership, normally for one of the reasons above."
+   },
+   {
+    "type": "h2",
+    "text": "Questions"
+   },
+   {
+    "type": "h3",
+    "text": "Do I need to own React Bits Pro to promote it?"
+   },
+   {
+    "type": "p",
+    "text": "No. It does help, since owning it lets you show real work rather than describe it, and demos convert better than descriptions. But it is not a requirement and it plays no part in whether an application is accepted."
+   },
+   {
+    "type": "h3",
+    "text": "Can I promote the free React Bits instead?"
+   },
+   {
+    "type": "p",
+    "text": "Link to it as much as you like, but the free library at reactbits.dev costs nothing, so there is nothing to commission. It still makes a good top of funnel: send people there, then point out that the paid library exists."
+   },
+   {
+    "type": "h3",
+    "text": "What happens if the buyer uses a discount code?"
+   },
+   {
+    "type": "p",
+    "text": "Commission is calculated on the amount actually paid, so a discounted sale pays a smaller commission rather than none."
+   },
+   {
+    "type": "h3",
+    "text": "Does an annual subscription pay again when it renews?"
+   },
+   {
+    "type": "p",
+    "text": "Yes. Every renewal pays you 30% again, for as long as that customer keeps their subscription active. A referred subscriber is an income stream rather than a one-off payment."
+   },
+   {
+    "type": "h3",
+    "text": "Can I use your screenshots and recordings?"
+   },
+   {
+    "type": "p",
+    "text": "Yes. Anything on this site or on reactbits.dev can be used to promote the library, component recordings included. The one thing you may not do is redistribute the source code itself."
+   },
+   {
+    "type": "h3",
+    "text": "How do I get paid?"
+   },
+   {
+    "type": "p",
+    "text": "Through our affiliate platform, once the order has cleared. Pending and confirmed earnings are shown separately in your dashboard."
+   },
+   {
+    "type": "h2",
+    "text": "Start earning on a recommendation you'd make anyway"
+   },
+   {
+    "type": "p",
+    "text": "Limited-time 35% launch rate on lifetime licenses, 30% on annual subscriptions, and a 30-day attribution window."
+   }
+  ]
+ }
+}

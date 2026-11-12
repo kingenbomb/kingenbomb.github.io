@@ -1,0 +1,80 @@
+{
+  "url": "https://reactbits.dev/c/backgrounds",
+  "title": "Animated React Backgrounds — Free Components | React Bits",
+  "bodyClasses": "",
+  "htmlAttrs": [
+    [
+      "lang",
+      "en"
+    ],
+    [
+      "data-theme",
+      "dark"
+    ],
+    [
+      "data-input-mode",
+      "pointer"
+    ],
+    [
+      "style",
+      "color-scheme: dark;"
+    ]
+  ],
+  "cssHrefs": [
+    "https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=Gochi+Hand&family=Press+Start+2P&family=Google+Sans+Code:ital,wght@0,300..800;1,300..800&display=swap",
+    "/assets/index-Dm9eiIMd.css",
+    "/assets/AnnouncementModal-BIV7mJLF.css",
+    "/assets/ElectricLogo-CPevmvJn.css",
+    "/assets/DocsRoutes-Cy_Goq46.css"
+  ],
+  "videos": [
+    {
+      "src": "https://reactbits.dev/assets/video/ripplegrid.webm",
+      "poster": "/assets/video/ripplegrid.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/scanner.webm",
+      "poster": "/assets/video/scanner.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/squares.webm",
+      "poster": "/assets/video/squares.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/shapewaves.webm",
+      "poster": "/assets/video/shapewaves.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/siderays.webm",
+      "poster": "/assets/video/siderays.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/silk.webm",
+      "poster": "/assets/video/silk.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/slicedwaves.webm",
+      "poster": "/assets/video/slicedwaves.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/softaurora.webm",
+      "poster": "/assets/video/softaurora.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/threads.webm",
+      "poster": "/assets/video/threads.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/topography.webm",
+      "poster": "/assets/video/topography.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/waves.webm",
+      "poster": "/assets/video/waves.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/webthreads.webm",
+      "poster": "/assets/video/webthreads.webp"
+    }
+  ]
+}

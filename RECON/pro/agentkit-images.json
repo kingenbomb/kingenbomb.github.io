@@ -1,0 +1,102 @@
+[
+ {
+  "href": "/docs/agent-kit/agent-skill",
+  "name": "React Bits Pro Skill",
+  "img": "og.png"
+ },
+ {
+  "href": "/docs/agent-kit/skills/apple-minimal",
+  "name": "Apple Minimal",
+  "img": "apple-minimal-hero.webp"
+ },
+ {
+  "href": "/docs/agent-kit/skills/corporate-trust",
+  "name": "Corporate Trust",
+  "img": "corporate-trust-hero.webp"
+ },
+ {
+  "href": "/docs/agent-kit/skills/editorial",
+  "name": "Editorial",
+  "img": "editorial-spread.webp"
+ },
+ {
+  "href": "/docs/agent-kit/skills/luxury-serif",
+  "name": "Luxury Serif",
+  "img": "luxury-serif-hero.webp"
+ },
+ {
+  "href": "/docs/agent-kit/skills/neobrutalism",
+  "name": "Neobrutalism",
+  "img": "neobrutalism-hero.webp"
+ },
+ {
+  "href": "/docs/agent-kit/skills/playful-motion",
+  "name": "Playful Motion",
+  "img": "playful-motion-hero.webp"
+ },
+ {
+  "href": "/docs/agent-kit/skills/swiss-grid",
+  "name": "Swiss Grid",
+  "img": "swiss-hero.webp"
+ },
+ {
+  "href": "/docs/agent-kit/skills/terminal-dark",
+  "name": "Terminal Dark",
+  "img": "td-hero.webp"
+ },
+ {
+  "href": "/docs/agent-kit/prompts/agency",
+  "name": "Agency",
+  "img": "agency-editorial.webp"
+ },
+ {
+  "href": "/docs/agent-kit/prompts/consumer-hardware",
+  "name": "Consumer Hardware",
+  "img": "hardware-apple.webp"
+ },
+ {
+  "href": "/docs/agent-kit/prompts/developer-tool",
+  "name": "Developer Tool",
+  "img": "devtool-terminal.webp"
+ },
+ {
+  "href": "/docs/agent-kit/prompts/ecommerce-brand",
+  "name": "Ecommerce Brand",
+  "img": "bag-luxury.webp"
+ },
+ {
+  "href": "/docs/agent-kit/prompts/fintech",
+  "name": "Fintech",
+  "img": "fintech-corporate.webp"
+ },
+ {
+  "href": "/docs/agent-kit/prompts/fitness",
+  "name": "Fitness",
+  "img": "fitness-swiss.webp"
+ },
+ {
+  "href": "/docs/agent-kit/prompts/real-estate",
+  "name": "Real Estate",
+  "img": "estate-luxury.webp"
+ },
+ {
+  "href": "/docs/agent-kit/prompts/saas",
+  "name": "SaaS Landing Page",
+  "img": "saas-apple.webp"
+ },
+ {
+  "href": "/docs/agent-kit/recipes/agency-homepage",
+  "name": "Agency Homepage",
+  "img": "agency-recipe-page.webp"
+ },
+ {
+  "href": "/docs/agent-kit/recipes/product-launch",
+  "name": "Product Launch Page",
+  "img": "launch-recipe-page.webp"
+ },
+ {
+  "href": "/docs/agent-kit/recipes/saas-homepage",
+  "name": "SaaS Homepage",
+  "img": "saas-recipe-page.webp"
+ }
+]

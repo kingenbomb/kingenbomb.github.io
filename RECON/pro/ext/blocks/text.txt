@@ -1,0 +1,245 @@
+Library
+Resources
+Agents
+Pricing
+Search...
+⌘
+K
+Sign In
+Get Lifetime Access
+Blocks
+300
+Get Started
+Introduction
+Installation
+MCP Server
+Saved
+Tools
+Bento Builder
+New
+Browse
+All Blocks
+20 New
+Categories
+22
+Hero Section
+10 New
+Features
+4 New
+Bento
+42
+Social Proof
+16
+Contact
+12
+Footer
+12
+Comparison
+8
+Navigation
+15
+Auth
+6
+Call To Action
+14
+FAQ
+9
+Pricing
+15
+Stats
+3 New
+404
+8
+Profile
+6
+About
+3 New
+Waitlist
+6
+Showcase
+8
+How It Works
+9
+Download
+8
+Blog
+11
+Ecommerce
+11
+Blocks
+
+22 categories · 300 variants. Pre-built animated page sections. Drop in, customize, ship.
+
+Newest
+A–Z
+Most variants
+
+Showing 22 of 22 categories
+
+Hero Section
+
+Hero sections in many layouts and styles
+
+34 variants
+Browse
+Features
+
+Feature sections in many layouts
+
+17 variants
+Browse
+Bento
+
+Animated feature tiles for bento grids
+
+42 variants
+Browse
+Social Proof
+
+Testimonials, logos and reviews
+
+16 variants
+Browse
+Contact
+
+Contact sections and forms
+
+12 variants
+Browse
+Footer
+
+Footers with links and branding
+
+12 variants
+Browse
+Comparison
+
+Feature, pricing and competitor comparisons
+
+8 variants
+Browse
+Navigation
+
+Navigation bars and menus
+
+15 variants
+Browse
+Auth
+
+Sign-in and sign-up screens
+
+6 variants
+Browse
+Call To Action
+
+Call to action sections
+
+14 variants
+Browse
+FAQ
+
+Frequently asked question sections
+
+9 variants
+Browse
+Pricing
+
+Pricing tables and plans
+
+15 variants
+Browse
+Stats
+
+Statistics and metrics sections
+
+18 variants
+Browse
+404
+404
+
+404 error pages
+
+8 variants
+Browse
+Profile
+
+User profile sections
+
+6 variants
+Browse
+About
+
+Company story, mission and team sections
+
+15 variants
+Browse
+Waitlist
+
+Waitlist sign-up sections
+
+6 variants
+Browse
+Showcase
+
+Product and portfolio showcases
+
+8 variants
+Browse
+How It Works
+
+Step-by-step process sections
+
+9 variants
+Browse
+Download
+
+App and file download sections
+
+8 variants
+Browse
+Blog
+
+Blog and article layouts
+
+11 variants
+Browse
+Ecommerce
+
+Product pages, catalogs and storefronts
+
+11 variants
+Browse
+
+Animated components, blocks, and templates for React. Pay once, ship stunning pages forever.
+
+pro@reactbits.dev
+Site
+Home
+Builder (Beta)
+Pricing
+Testimonials
+FAQs
+Roadmap
+Changelog
+Free Components
+Docs
+Introduction
+Installation
+MCP Server
+Components
+Blocks
+Templates
+Resources
+About
+Use cases
+Comparisons
+Alternatives
+For AI agents
+Legal & Account
+Login
+Affiliate
+License
+Privacy
+Contact
+
+© 2026 pro.reactbits.dev. All rights reserved.

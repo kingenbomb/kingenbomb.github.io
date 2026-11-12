@@ -1,0 +1,617 @@
+{
+ "agentframe-template": {
+  "h1": "Agentframe",
+  "tagline": "AI agent website with a pixel landscape hero",
+  "builtWith": [
+   "Next.js 16+",
+   "React 19",
+   "TypeScript",
+   "Tailwind v4",
+   "Motion",
+   "Canvas 2D",
+   "next-themes",
+   "Lucide"
+  ],
+  "about": "A website for an AI agent platform, with a pixel landscape, cobalt accents, and interactive product storytelling. Agentframe pairs a detailed landing page with dedicated pricing, editorial, and About pages. Task runs, workspace controls, and SDK examples are working frontend demonstrations, ready to adapt to your own product.",
+  "features": [
+   "Animated pixel landscape with water ripples and pointer interaction",
+   "Custom task selector with three local run-and-replay scenarios",
+   "TypeScript and Python SDK examples with tabs and clipboard feedback",
+   "Interactive context, permissions, approval, and workspace previews",
+   "Animated three-stage agent run diagram with keyboard-operated tabs",
+   "Pricing page with monthly/yearly billing and a competitor comparison",
+   "Field notes index and three complete article pages",
+   "Responsive layouts, light/dark themes, and persistent motion controls",
+   "Keyboard navigation, modal focus handling, and reduced-motion support",
+   "Original branding, metadata, structured data, icons, and sitemap"
+  ],
+  "sections": [
+   "Navigation with mobile menu",
+   "Hero with announcement and primary actions",
+   "Interactive landscape demo and product foundations",
+   "Product principles and fictional customer wordmarks",
+   "Tabbed SDK quickstart",
+   "Connected agent run walkthrough",
+   "Context and controls product previews",
+   "Research, engineering, and operations use cases",
+   "Project workspace switcher",
+   "Integrations and sample testimonials",
+   "Photographic field notes",
+   "Closing actions and footer",
+   "Dedicated pricing page with plan dialogs, comparison, and FAQ",
+   "Field notes index, article pages, and About page"
+  ],
+  "video": "https://cdn.reactbits.dev/agentframe-preview.mp4"
+ },
+ "cloudlight-template": {
+  "h1": "Cloudlight",
+  "tagline": "Cloud storage landing page with a cloud hero",
+  "builtWith": [
+   "Next.js 16+",
+   "React 19",
+   "TypeScript",
+   "Tailwind v4",
+   "Motion",
+   "WebGL2",
+   "next-themes",
+   "Lucide"
+  ],
+  "about": "A landing page for a file transfer and cloud storage product, built around a WebGL cloud hero and a navigation bar that docks as you scroll. Cloudlight combines colorful product illustrations, interactive comparisons, and animated pricing with a clean layout that works in light and dark themes.",
+  "features": [
+   "WebGL cloud hero and animated interference fields",
+   "Docking navigation with desktop submenus and an animated mobile menu",
+   "Pointer-reactive file format grid",
+   "Scroll-driven manifesto and section entrances",
+   "Benchmark comparison with three selectable metrics",
+   "Team tabs and customer story carousel with manual controls",
+   "Monthly/yearly billing toggle with rolling prices",
+   "Responsive layouts and persistent light/dark theme selection",
+   "Keyboard controls and reduced-motion alternatives",
+   "Original branding, social images, structured data, and sitemap"
+  ],
+  "sections": [
+   "Cloud hero with docking navigation and transfer window",
+   "File library introduction",
+   "Fictional customer logo row",
+   "Product capability cards",
+   "Interactive file format grid",
+   "Scroll-driven manifesto",
+   "Security and privacy illustrations",
+   "Selectable benchmark comparison",
+   "Team workspace tabs",
+   "Customer story carousel",
+   "Pricing with animated billing switch",
+   "FAQ accordion",
+   "Closing CTA with WebGL background",
+   "Footer with navigation and social links"
+  ],
+  "video": "https://cdn.reactbits.dev/cloudlight-preview.mp4"
+ },
+ "imageworks-template": {
+  "h1": "Imageworks",
+  "tagline": "AI image platform landing page with a 3D hero",
+  "builtWith": [
+   "Next.js 16+",
+   "React 19",
+   "TypeScript",
+   "Tailwind v4",
+   "Motion",
+   "Three.js",
+   "WebGL",
+   "Lenis",
+   "next-themes",
+   "Lucide"
+  ],
+  "about": "A visual landing page for an AI image generation product. A Three.js ribbon carries images through the hero, pinned scroll sequences take a brief through its variations, and an image helix closes the page. Imageworks includes product comparisons, customer stories, and pricing in a responsive, theme-aware design.",
+  "features": [
+   "Three.js image ribbon in the hero and image helix in the closing CTA",
+   "Canvas dot fields behind the hero and closing copy",
+   "Pinned brief-to-render and image variation scroll sequences",
+   "Floating navigation that condenses as the page scrolls",
+   "Animated benchmark charts and comparison timeline",
+   "Customer stories with tabs and automatic progression",
+   "Monthly/yearly billing switch with animated price digits",
+   "Optional Lenis smooth scrolling and reduced-motion alternatives",
+   "Responsive layouts, light/dark themes, and keyboard controls",
+   "Original branding, social image, metadata, structured data, and sitemap"
+  ],
+  "sections": [
+   "Floating navigation with active-section marker",
+   "Hero with Three.js image ribbon and dot field",
+   "Pinned brief-to-render sequence",
+   "Pinned image variations gallery",
+   "Animated benchmark comparisons",
+   "Delivery format showcase",
+   "Tabbed customer stories",
+   "Pricing tiers and enterprise option",
+   "FAQ accordion",
+   "Closing CTA with Three.js image helix",
+   "Footer with link columns and rising brand mark"
+  ],
+  "video": "https://cdn.reactbits.dev/imageworks-preview.mp4"
+ },
+ "sparkdesign-template": {
+  "h1": "Sparkdesign",
+  "tagline": "Design collaboration landing page",
+  "builtWith": [
+   "Next.js 16+",
+   "React 19",
+   "TypeScript",
+   "Tailwind v4",
+   "Motion",
+   "next-themes",
+   "Lucide"
+  ],
+  "about": "A landing page for a collaborative design workspace, with rounded photography, soft sage accents, and Instrument Sans throughout. Sparkdesign brings the product to life through project previews, workflow tabs, and local workspace demos, with subtle scroll and pointer interactions in both light and dark themes.",
+  "features": [
+   "Photographic hero with three project tabs and comment interaction",
+   "Individual/team feature tabs with canvas, access, and version previews",
+   "Collect, Discuss, and Present workflow tabs",
+   "Filterable project library with artwork, briefs, and preview dialogs",
+   "Personal and Together plans connected to a local workspace demo",
+   "Validated signup and workspace forms with local confirmation states",
+   "Scroll-linked audience rows and pointer-responsive closing photos",
+   "Responsive layouts with a consistent sans-serif type system",
+   "Light/dark themes, animation pause control, and reduced-motion support",
+   "Original branding, social image, structured data, and sitemap"
+  ],
+  "sections": [
+   "Fixed navigation with active-section links and mobile menu",
+   "Split hero with photographic projects and signup preview",
+   "Three product benefits",
+   "Scroll-linked creative role rows",
+   "Interactive individual/team feature previews",
+   "Tabbed photographic workflow",
+   "Collaboration story with process photography",
+   "Filterable starter project library",
+   "Personal and Together plan rows",
+   "Workspace demo and FAQ accordion",
+   "Closing signup preview with interactive photo tiles",
+   "Footer with section links and back-to-top action"
+  ],
+  "video": "https://cdn.reactbits.dev/sparkdesign-preview.mp4?v=43adf98df082b4d0e406d0952940143c"
+ },
+ "saas-landing": {
+  "h1": "SaaS",
+  "tagline": "Vibrant SaaS landing page with a rounded frame",
+  "builtWith": [
+   "Next.js 16+",
+   "React",
+   "TypeScript",
+   "Tailwind v4",
+   "Motion",
+   "Lenis"
+  ],
+  "about": "A production-ready landing page for SaaS products and startups. Features a parallax hero section, bento grid layout, auto-rotating testimonials, scroll-driven animations, and dark mode support. All content is managed through a single configuration file.",
+  "features": [
+   "Light/dark theme",
+   "Custom animated navigation",
+   "On-scroll animations",
+   "Fully responsive",
+   "Optimized for accessibility",
+   "SEO & Open Graph ready",
+   "Lenis smooth scrolling",
+   "Centralized config file"
+  ],
+  "sections": [
+   "Parallax hero with CTA",
+   "Logo marquee",
+   "On-scroll text animation",
+   "Bento grid features",
+   "Animated testimonials",
+   "Sticky how-it-works",
+   "3-tier pricing cards",
+   "Accordion FAQ",
+   "Footer with email capture"
+  ],
+  "video": "https://cdn.reactbits.dev/saas-preview.mp4"
+ },
+ "minimal-landing": {
+  "h1": "Minimal",
+  "tagline": "Clean, minimal landing page",
+  "builtWith": [
+   "Next.js 16+",
+   "React",
+   "TypeScript",
+   "Tailwind v4",
+   "Motion",
+   "Lenis",
+   "React Three Fiber"
+  ],
+  "about": "A clean, minimal landing page with bold typography and a unique WebGL dither cursor effect. Features smooth Lenis scrolling, animated statistics counters, horizontal testimonial carousel, and a centralized configuration file for easy customization.",
+  "features": [
+   "WebGL dither cursor effect",
+   "Light/dark theme",
+   "On-scroll animations",
+   "Fully responsive",
+   "Custom animated navigation",
+   "Optimized for accessibility",
+   "Lenis smooth scrolling",
+   "Centralized config file"
+  ],
+  "sections": [
+   "Animated hero with rotating cards",
+   "CTA below hero",
+   "Get started card grid",
+   "How it works sticky steps",
+   "Animated statistics",
+   "Horizontal testimonials carousel",
+   "2-tier pricing comparison",
+   "Accordion FAQ section with CTA",
+   "Full-width CTA with dither effect",
+   "Footer with contact info and social links"
+  ],
+  "video": "https://cdn.reactbits.dev/minimal-preview.mp4"
+ },
+ "agency-site": {
+  "h1": "Agency",
+  "tagline": "Creative agency site with smooth scrolling",
+  "builtWith": [
+   "Next.js 16+",
+   "React",
+   "TypeScript",
+   "Tailwind v4",
+   "Motion",
+   "GSAP",
+   "Lenis",
+   "React Three Fiber"
+  ],
+  "about": "A landing page for creative agencies and design studios. Features a WebGL wave shader hero, water ripple project cards, GSAP scroll-triggered animations, pinned sections, and a sticky reveal footer. Light/dark mode with smooth transitions, optimized for accessibility.",
+  "features": [
+   "WebGL wave shader hero",
+   "Water ripple project cards",
+   "Custom animated navigation",
+   "On-scroll animations",
+   "Light/dark theme",
+   "Fully responsive",
+   "Lenis smooth scrolling",
+   "SEO & Open Graph ready",
+   "Optimized for accessibility",
+   "Centralized config file"
+  ],
+  "sections": [
+   "Animated wave shader hero",
+   "Project cards with water ripple",
+   "Services with flowing menu",
+   "About with scroll animations",
+   "Bento grid social proof",
+   "Accordion FAQ",
+   "Sticky reveal footer"
+  ],
+  "video": "https://cdn.reactbits.dev/agency-preview.mp4"
+ },
+ "finance-landing": {
+  "h1": "Finance",
+  "tagline": "Fintech landing page with 3D backgrounds",
+  "builtWith": [
+   "Next.js 16+",
+   "React",
+   "TypeScript",
+   "Tailwind v4",
+   "Three.js",
+   "Motion",
+   "Lenis"
+  ],
+  "about": "A professional landing page for fintech, banking, and financial services. Features a 3D animated hero background, interactive feature cards, phone mockup showcase, animated statistics counters, auto-scrolling testimonials, and 3-tier pricing. Light/dark mode optimized for accessibility.",
+  "features": [
+   "Gradient animated backgrounds",
+   "Light/dark theme",
+   "Fully responsive",
+   "Custom animated navigation",
+   "Animated stats counters",
+   "Lenis smooth scrolling",
+   "On-scroll animations",
+   "Optimized for accessibility",
+   "SEO & Open Graph ready",
+   "Centralized config file"
+  ],
+  "sections": [
+   "Hero with animated background",
+   "Logo marquee",
+   "Animated feature cards",
+   "Phone mockup highlight",
+   "Company principles",
+   "Animated statistics",
+   "Testimonials slider",
+   "3-tier pricing cards",
+   "Accordion FAQ",
+   "Blog showcase grid",
+   "Final animated CTA"
+  ],
+  "video": "https://cdn.reactbits.dev/finance-preview.mp4"
+ },
+ "ai-saas-landing": {
+  "h1": "AI SaaS",
+  "tagline": "AI product landing page with a fluid cursor",
+  "builtWith": [
+   "Next.js 16+",
+   "React",
+   "TypeScript",
+   "Tailwind v4",
+   "Motion",
+   "GSAP",
+   "Lenis",
+   "React Three Fiber"
+  ],
+  "about": "A landing page for AI products and SaaS applications. Features a WebGL fluid cursor, image bulge effects on showcase cards, GSAP scroll-triggered image reveal gallery, draggable tools carousel, and animated statistics bars. Light/dark mode optimized for accessibility.",
+  "features": [
+   "On-scroll gradient animation",
+   "WebGL fluid cursor",
+   "Image bulge effects",
+   "GSAP scroll animations",
+   "Light/dark theme",
+   "On-scroll animations",
+   "Fully responsive",
+   "Custom animated navigation",
+   "Lenis smooth scrolling",
+   "SEO & Open Graph ready"
+  ],
+  "sections": [
+   "Hero with prompt UI",
+   "Scroll-triggered text reveal",
+   "GSAP image reveal gallery",
+   "Partners showcase",
+   "WebGL bulge showcase cards",
+   "Draggable carousel",
+   "Animated stats bars",
+   "Testimonials carousel",
+   "Pricing cards",
+   "Accordion FAQ",
+   "Bottom CTA"
+  ],
+  "video": "https://cdn.reactbits.dev/ai-saas-preview.mp4"
+ },
+ "shader-template": {
+  "h1": "Shader",
+  "tagline": "Bold landing page with flowing color scenes",
+  "builtWith": [
+   "Next.js 16+",
+   "React",
+   "TypeScript",
+   "Tailwind v4",
+   "Motion",
+   "WebGL",
+   "next-themes"
+  ],
+  "about": "A premium landing page built around a signature WebGL palette shader. Pairs hero-scale fluid noise with a cursor-reactive wave variant, a user-switchable palette system, and a polished SaaS narrative: designed for product teams that want a brand-ready scaffold with an unmistakable look on day one.",
+  "features": [
+   "Light and dark mode",
+   "Cursor-reactive shader backgrounds",
+   "Five built-in color palettes you can switch live",
+   "Smooth scroll-driven animations",
+   "Fully responsive",
+   "Optimized for accessibility",
+   "SEO and Open Graph ready",
+   "Easy to customize from a single config"
+  ],
+  "sections": [
+   "Sticky nav with theme and palette switches",
+   "Hero with full-bleed shader",
+   "Scroll-pinned value prop story",
+   "Product showcase band",
+   "Benefits grid",
+   "Partners strip",
+   "Pricing",
+   "FAQ",
+   "Final CTA with shader background",
+   "Footer with link columns"
+  ],
+  "video": "https://cdn.reactbits.dev/shader-preview.mp4"
+ },
+ "wireframe-template": {
+  "h1": "Wireframe",
+  "tagline": "Architectural landing page with 3D wireframes",
+  "builtWith": [
+   "Next.js 15+",
+   "React",
+   "TypeScript",
+   "Tailwind v4",
+   "Motion",
+   "WebGL",
+   "Lenis",
+   "next-themes"
+  ],
+  "about": "A premium landing page with a wireframe-stage aesthetic: neutral palette, hairline rails, and a signature ASCII dither shader. Designed for product teams that want a brand-ready scaffold on day one and a clean upgrade path as design and content land.",
+  "features": [
+   "Light and dark mode",
+   "Cursor-reactive ASCII dither shader",
+   "Smooth scroll with Lenis",
+   "Animated section reveals",
+   "Fully responsive",
+   "Optimized for accessibility",
+   "SEO and Open Graph ready",
+   "Easy to customize from a single config"
+  ],
+  "sections": [
+   "Sticky header with mobile menu",
+   "Hero with full-bleed shader",
+   "Three-up value prop grid",
+   "Vertical logo marquee",
+   "How it works step list",
+   "Testimonials with mobile carousel",
+   "Showcase card carousel",
+   "Pinned community section",
+   "Three-tier pricing with billing toggle",
+   "FAQ accordion",
+   "Final CTA with shader plate",
+   "Footer with link columns"
+  ],
+  "video": "https://cdn.reactbits.dev/wireframe-preview.mp4"
+ },
+ "portfolio-template": {
+  "h1": "Portfolio",
+  "tagline": "Free minimal portfolio with case studies",
+  "builtWith": [
+   "Next.js 16+",
+   "React",
+   "TypeScript",
+   "Tailwind v4",
+   "Motion",
+   "WebGL",
+   "Lenis",
+   "Matter.js",
+   "next-themes"
+  ],
+  "about": "A personal portfolio template built around a signature WebGL flow shader, a magnetic morphing portrait, Lenis smooth scroll, and a calm black-and-white design system. Designed for individual designers and engineers who want a brand-ready scaffold with a distinctive look on day one. Free to use in personal and commercial projects.",
+  "features": [
+   "Light and dark mode with view-transition reveal",
+   "WebGL flow shader backdrop",
+   "Magnetic morphing portrait on hover",
+   "Smooth scroll with Lenis",
+   "Physics-driven tech stack chips",
+   "One-click copy email contact card",
+   "Fully responsive",
+   "Optimized for accessibility",
+   "SEO and Open Graph ready",
+   "Easy to customize from a single config"
+  ],
+  "sections": [
+   "Animated pill nav with theme toggle",
+   "Hero with shader, headline, and morphing portrait",
+   "Projects grid with hover lift and image zoom",
+   "Polaroid strip on the about page",
+   "Skills grid",
+   "Interactive tech stack chips",
+   "Expandable experience timeline",
+   "Education list",
+   "Contact card with embedded shader",
+   "Site-wide shader backdrop"
+  ],
+  "video": "https://cdn.reactbits.dev/portfolio-preview.mp4"
+ },
+ "8-bit-template": {
+  "h1": "8 Bit",
+  "tagline": "Retro pixel-art landing page",
+  "builtWith": [
+   "Next.js 16+",
+   "React",
+   "TypeScript",
+   "Tailwind v4",
+   "Motion",
+   "WebGL",
+   "Cobe",
+   "Lenis",
+   "next-themes"
+  ],
+  "about": "A retro 8-bit landing page with a clean editorial layout and pixel-art set pieces like notched buttons, an animated pixel field, a draggable WebGL globe, pixelated icons, and an 8-bit flame shader. Orange accent throughout, with full dark mode and reduced-motion support.",
+  "features": [
+   "Light and dark mode via next-themes",
+   "8-bit WebGL flame shader and draggable cobe globe",
+   "Animated pixel field with density gradient and twinkle",
+   "Canvas icon pixelation and pixel-reveal image transitions",
+   "Notched pixel buttons and pixel-art glyph system",
+   "Smooth scroll with Lenis (auto-disabled for reduced motion)",
+   "Fully responsive",
+   "Optimized for accessibility with full reduced-motion fallbacks",
+   "SEO and Open Graph ready",
+   "Easy to customize from a single config"
+  ],
+  "sections": [
+   "Sticky nav with data-driven mega-menu and animated pixel burger",
+   "Hero with word-by-word reveal and animated pixel field",
+   "Quick stats with clipped slide-up reveal",
+   "Creators band with draggable WebGL globe and avatars",
+   "Auto-cycling feature tabs with pixel-reveal images",
+   "Benefits grid with canvas-pixelated icons",
+   "Benchmark bar chart with switchable metric tabs",
+   "Cycling testimonials with pixel-notched avatars",
+   "Use-case cards with pixelated icons",
+   "Pricing with a highlighted featured plan",
+   "FAQ with a dotted full-width accordion",
+   "Final CTA with 8-bit WebGL flame backdrop",
+   "Footer with reversed pixel field and newsletter"
+  ],
+  "video": "https://cdn.reactbits.dev/8-bit-preview.mp4"
+ },
+ "ai-app-template": {
+  "h1": "AI App",
+  "tagline": "App landing page with a phone walkthrough",
+  "builtWith": [
+   "Next.js 16+",
+   "React",
+   "TypeScript",
+   "Tailwind v4",
+   "Motion",
+   "WebGL",
+   "Three.js",
+   "React Three Fiber",
+   "Lenis",
+   "next-themes"
+  ],
+  "about": "A minimal landing page built around scroll-driven set pieces: a WebGL orbit field behind the hero, a video that grows as you scroll, a pinned phone walkthrough, a velocity-reactive gallery marquee, and parallax testimonial columns. Theme-aware with full dark mode and reduced-motion support.",
+  "features": [
+   "Light and dark mode via next-themes",
+   "WebGL orbit field hero with a custom SDF tile shader",
+   "Scroll-expanding video showcase with gated autoplay",
+   "Pinned phone walkthrough scrubbed by scroll",
+   "Velocity-reactive gallery marquee and integration rows",
+   "Smooth scroll with Lenis (auto-disabled for reduced motion)",
+   "Fully responsive",
+   "Optimized for accessibility with full reduced-motion fallbacks",
+   "SEO and Open Graph ready",
+   "Easy to customize from a single config"
+  ],
+  "sections": [
+   "Expanding pill nav with morphing label and scroll readout",
+   "Hero with WebGL orbit field and intro loader",
+   "Video showcase that expands on scroll",
+   "Scroll-scrubbed manifesto statement",
+   "Features list with cursor-following image preview",
+   "Pinned phone walkthrough across three screens",
+   "Infinite gallery marquee that reacts to scroll velocity",
+   "Scroll-scrubbed integration pill rows",
+   "Parallax testimonial columns",
+   "Pricing with monthly and yearly toggle",
+   "FAQ accordion",
+   "Final CTA with fanned photo prints and magnetic button",
+   "Footer with link columns and oversized wordmark"
+  ],
+  "video": "https://cdn.reactbits.dev/ai-app-preview.mp4"
+ },
+ "security-template": {
+  "h1": "Security",
+  "tagline": "Dark security landing page with ASCII art",
+  "builtWith": [
+   "Next.js 16+",
+   "React",
+   "TypeScript",
+   "Tailwind v4",
+   "Motion",
+   "WebGL",
+   "Three.js",
+   "React Three Fiber",
+   "Lenis",
+   "next-themes"
+  ],
+  "about": "A dark-first landing page with a restrained editorial type system and interactive set pieces: a WebGL scroll-reveal curtain image, ASCII-art icons and portraits, a pinned duotone coverage gallery, count-up stats, and a chamfered cut UI language. Theme-aware with full dark mode and reduced-motion support.",
+  "features": [
+   "Light and dark mode via next-themes, dark-first design",
+   "WebGL scroll-reveal curtain image with duotone treatment",
+   "Canvas ASCII icons, portraits, and hero wave field",
+   "Pinned duotone coverage gallery",
+   "Scroll-triggered count-up stats",
+   "Chamfered cut-corner buttons and corner-plus motif",
+   "Smooth scroll with Lenis (auto-disabled for reduced motion)",
+   "Fully responsive",
+   "Optimized for accessibility with full reduced-motion fallbacks",
+   "SEO and Open Graph ready"
+  ],
+  "sections": [
+   "Sticky nav with animated dropdown mega-menu",
+   "Hero with serif headline and ASCII wave backdrop",
+   "Chamfered product mockup with looping demo video",
+   "Trusted-by logo wall with corner crosshairs",
+   "Pinned duotone coverage gallery",
+   "Feature cards with live ASCII glyphs",
+   "Value prop with WebGL curtain reveal",
+   "Testimonials with ASCII portraits",
+   "Count-up stats panel",
+   "Case study statement with CTA",
+   "Pricing with monthly and yearly toggle",
+   "FAQ accordion",
+   "Final CTA",
+   "Footer with link columns and social icons"
+  ],
+  "video": "https://cdn.reactbits.dev/security-preview.mp4"
+ }
+}

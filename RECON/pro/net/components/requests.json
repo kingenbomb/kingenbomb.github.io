@@ -1,0 +1,966 @@
+[
+  {
+    "url": "https://pro.reactbits.dev/docs/components",
+    "status": 200,
+    "type": "document",
+    "ct": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/css/fcd00b873d8f6354.css?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "stylesheet",
+    "ct": "text/css; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/css/fdc444f4becfd45a.css?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "stylesheet",
+    "ct": "text/css; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/main-app-c3af38f4afbd4fc8.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/10951-e991bdadfed21f6d.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/app/not-found-bae36e0e0303afcf.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/20137-d4b9df1c541eec53.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/90195-53dd89fcf56e8a9e.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/454-398bd7427d23510e.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/77534-1983dabf80f089ce.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/webpack-9b5a3d0f56973969.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/91690-eee4de1bde1d27e0.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/11358-ca574f13609a2c20.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/79071-7b7ee9ad592667e3.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/54805-b99321a8b03372fe.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/app/error-06c9f71e093a9cae.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/18543-d8ef138869de44dd.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/26443-8c2b791db878fd4e.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/78388-fa00eae5254b7a29.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/app/docs/components/page-dbdff8ec47a6d484.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/39551-cb2a630a38d9b371.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/4bd1b696-0070c5e1dce7c46a.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/media/558ca1a6aa3cb55e-s.p.woff2",
+    "status": 200,
+    "type": "font",
+    "ct": "font/woff2"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/36019-5e37f174f5566dad.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/3077-ba5ef5357d429fe6.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/18893-e100c3c287d54ead.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/31494-9aa4aee84ceb7c2e.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/87550-f4b0673a396e1d0d.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/85518-716e9447ace61002.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/7775-7319e9930e62a04e.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/r/pixel.js",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/34398-d24090aa83189065.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/app/docs/layout-e560e57af20d90b8.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/app/layout-ec12778ee05715af.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/8732-c5e15bec09cf81d7.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/8664-5b97415ebeb5f886.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/previews/components/horizon-bloom-dark.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://pro.reactbits.dev/previews/components/horizon-bloom-light.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://pro.reactbits.dev/previews/components/photon-knot-light.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://pro.reactbits.dev/previews/components/spectral-drape-dark.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://pro.reactbits.dev/r/psl.min.js",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript"
+  },
+  {
+    "url": "https://pro.reactbits.dev/api/consent-region",
+    "status": 200,
+    "type": "fetch",
+    "ct": "application/json",
+    "saved": "pro.reactbits.dev_api_consent-region.json",
+    "bytes": 44
+  },
+  {
+    "url": "https://pro.reactbits.dev/previews/components/photon-knot-dark.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://pro.reactbits.dev/previews/components/spectral-drape-light.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://pro.reactbits.dev/previews/components/satin-ridges-dark.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://pro.reactbits.dev/previews/components/axial-beam-dark.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://pro.reactbits.dev/previews/components/voxel-arc-dark.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://pro.reactbits.dev/previews/components/contour-tide-dark.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_vercel/insights/script.js",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/previews/components/interference-ribbons-dark.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://pro.reactbits.dev/previews/components/concentric-tides-dark.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://pro.reactbits.dev/previews/components/nexus-rays-dark.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://pro.reactbits.dev/previews/components/hexagonal-vault-dark.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://pro.reactbits.dev/previews/components/prismatic-slats-dark.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://pro.reactbits.dev/previews/components/spiral-funnel-dark.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://pro.reactbits.dev/previews/components/astral-shell-dark.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://pro.reactbits.dev/previews/components/cloud-atlas-dark.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://pro.reactbits.dev/previews/components/terminal-rain-dark.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://pro.reactbits.dev/previews/components/binary-orbits-dark.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://pro.reactbits.dev/previews/components/chroma-current-dark.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://pro.reactbits.dev/previews/components/glyph-tide-dark.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://pro.reactbits.dev/previews/components/glyph-ember-dark.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://pro.reactbits.dev/previews/components/luminous-filaments-dark.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/prismatic-slats?browse=components&_rsc=svdm7",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/luminous-filaments?browse=components&_rsc=svdm7",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/hexagonal-vault?browse=components&_rsc=svdm7",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/interference-ribbons?browse=components&_rsc=svdm7",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/?_rsc=svdm7",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/login?_rsc=svdm7",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/nexus-rays?browse=components&_rsc=svdm7",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/api/parity",
+    "status": 200,
+    "type": "fetch",
+    "ct": "application/json",
+    "saved": "pro.reactbits.dev_api_parity.json",
+    "bytes": 18
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/css/27c8f34690c3c835.css?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "stylesheet",
+    "ct": "text/css; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/photon-knot?browse=components&_rsc=svdm7",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/horizon-bloom?browse=components&_rsc=svdm7",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/spectral-drape?browse=components&_rsc=svdm7",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/axial-beam?browse=components&_rsc=svdm7",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components?_rsc=svdm7",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/saved?_rsc=svdm7",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/mcp?_rsc=svdm7",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/installation?_rsc=svdm7",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/?_rsc=9jz8k",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/introduction?_rsc=svdm7",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/?_rsc=ca0wr",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/?_rsc=h4mxu",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/login?_rsc=10wwl",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/43408-b244199ddf15c9a1.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/80864-96dc482037da7345.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/app/page-6939820fb8c3d6b9.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/login?_rsc=9jz8k",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/login?_rsc=pt5gg",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/80944-b116f1dd165c61b1.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/87974-dc525fb1f63cda9b.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/4b5b508e-05266d5ef38e7cb6.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/interference-ribbons?browse=components&_rsc=9jz8k",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/interference-ribbons?browse=components&_rsc=ud781",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/2743-afe6b0307cb0fd16.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/interference-ribbons?browse=components&_rsc=hbkps",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/interference-ribbons?browse=components&_rsc=1755j",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/interference-ribbons?browse=components&_rsc=yjypf",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/luminous-filaments?browse=components&_rsc=9jz8k",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/app/login/page-9050b49d41bd888e.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/16928-882dd67323f754e0.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/luminous-filaments?browse=components&_rsc=hbkps",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/prismatic-slats?browse=components&_rsc=9jz8k",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/luminous-filaments?browse=components&_rsc=yjypf",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/app/docs/components/%5Bcomponent-name%5D/page-690cb49761eb1c69.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/prismatic-slats?browse=components&_rsc=hbkps",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/prismatic-slats?browse=components&_rsc=yjypf",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/hexagonal-vault?browse=components&_rsc=9jz8k",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/hexagonal-vault?browse=components&_rsc=hbkps",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/nexus-rays?browse=components&_rsc=9jz8k",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/hexagonal-vault?browse=components&_rsc=yjypf",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/nexus-rays?browse=components&_rsc=yjypf",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/nexus-rays?browse=components&_rsc=hbkps",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/axial-beam?browse=components&_rsc=9jz8k",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/axial-beam?browse=components&_rsc=hbkps",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/photon-knot?browse=components&_rsc=9jz8k",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/axial-beam?browse=components&_rsc=yjypf",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/photon-knot?browse=components&_rsc=hbkps",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/photon-knot?browse=components&_rsc=yjypf",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/horizon-bloom?browse=components&_rsc=9jz8k",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/horizon-bloom?browse=components&_rsc=yjypf",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/horizon-bloom?browse=components&_rsc=hbkps",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/spectral-drape?browse=components&_rsc=9jz8k",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components?_rsc=9jz8k",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/spectral-drape?browse=components&_rsc=hbkps",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/spectral-drape?browse=components&_rsc=yjypf",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components?_rsc=zyhhu",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/saved?_rsc=9jz8k",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/saved?_rsc=ez3a6",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/saved?_rsc=1pktv",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/mcp?_rsc=1akzn",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/mcp?_rsc=9jz8k",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/66729-ef2a8e6e69c6147b.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/mcp?_rsc=yywd3",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/72307-5f72d2f57135fcbe.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/installation?_rsc=9jz8k",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/installation?_rsc=d3sgp",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/installation?_rsc=192b0",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/app/docs/saved/page-84c84b259362595a.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/52407-8c7cf485a53d0213.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/introduction?_rsc=9jz8k",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/65326-b87dc9c08b29a39f.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/26223-578108bc3182b107.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/app/docs/mcp/page-34b4941cee083006.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/36222-22e2a4768c6838aa.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/19543-272244b280f53332.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/introduction?_rsc=ienau",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/interference-ribbons?_rsc=svdm7",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/app/docs/installation/page-f7c9792db031a71b.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/introduction?_rsc=oqtgf",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/luminous-filaments?_rsc=svdm7",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/prismatic-slats?_rsc=svdm7",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/hexagonal-vault?_rsc=svdm7",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/_next/static/chunks/app/docs/introduction/page-08b0e2e4b85c4609.js?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/axial-beam?_rsc=svdm7",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/horizon-bloom?_rsc=svdm7",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/photon-knot?_rsc=svdm7",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/nexus-rays?_rsc=svdm7",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  },
+  {
+    "url": "https://pro.reactbits.dev/docs/components/spectral-drape?_rsc=svdm7",
+    "status": 200,
+    "type": "fetch",
+    "ct": "text/x-component"
+  }
+]

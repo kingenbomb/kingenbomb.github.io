@@ -1,0 +1,76 @@
+{
+  "url": "https://reactbits.dev/c/animations",
+  "title": "React Animation Effects — Free Components | React Bits",
+  "bodyClasses": "",
+  "htmlAttrs": [
+    [
+      "lang",
+      "en"
+    ],
+    [
+      "data-theme",
+      "dark"
+    ],
+    [
+      "data-input-mode",
+      "pointer"
+    ],
+    [
+      "style",
+      "color-scheme: dark;"
+    ]
+  ],
+  "cssHrefs": [
+    "https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=Gochi+Hand&family=Press+Start+2P&family=Google+Sans+Code:ital,wght@0,300..800;1,300..800&display=swap",
+    "/assets/index-Dm9eiIMd.css",
+    "/assets/AnnouncementModal-BIV7mJLF.css",
+    "/assets/ElectricLogo-CPevmvJn.css",
+    "/assets/DocsRoutes-Cy_Goq46.css"
+  ],
+  "videos": [
+    {
+      "src": "https://reactbits.dev/assets/video/pixeltransition.webm",
+      "poster": "/assets/video/pixeltransition.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/ribbons.webm",
+      "poster": "/assets/video/ribbons.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/rippledistortion.webm",
+      "poster": "/assets/video/rippledistortion.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/scrollexpand.webm",
+      "poster": "/assets/video/scrollexpand.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/shapeblur.webm",
+      "poster": "/assets/video/shapeblur.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/splashcursor.webm",
+      "poster": "/assets/video/splashcursor.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/starborder.webm",
+      "poster": "/assets/video/starborder.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/stickerpeel.webm",
+      "poster": "/assets/video/stickerpeel.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/strands.webm",
+      "poster": "/assets/video/strands.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/swarmcursor.webm",
+      "poster": "/assets/video/swarmcursor.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/targetcursor.webm",
+      "poster": "/assets/video/targetcursor.webp"
+    }
+  ]
+}

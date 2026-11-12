@@ -1,0 +1,202 @@
+[
+  {
+    "href": "/docs/agent-kit/agent-skill",
+    "text": [
+      "React Bits Pro Skill"
+    ],
+    "imgs": [],
+    "videos": [],
+    "sources": [],
+    "html": "<a class=\"outline-none before:absolute before:inset-0 before:rounded-xl before:content-['']\" href=\"/docs/agent-kit/agent-skill\">React Bits Pro Skill</a>"
+  },
+  {
+    "href": "/docs/agent-kit/skills/apple-minimal",
+    "text": [
+      "Apple Minimal"
+    ],
+    "imgs": [],
+    "videos": [],
+    "sources": [],
+    "html": "<a class=\"outline-none before:absolute before:inset-0 before:rounded-xl before:content-['']\" href=\"/docs/agent-kit/skills/apple-minimal\">Apple Minimal</a>"
+  },
+  {
+    "href": "/docs/agent-kit/skills/corporate-trust",
+    "text": [
+      "Corporate Trust"
+    ],
+    "imgs": [],
+    "videos": [],
+    "sources": [],
+    "html": "<a class=\"outline-none before:absolute before:inset-0 before:rounded-xl before:content-['']\" href=\"/docs/agent-kit/skills/corporate-trust\">Corporate Trust</a>"
+  },
+  {
+    "href": "/docs/agent-kit/skills/editorial",
+    "text": [
+      "Editorial"
+    ],
+    "imgs": [],
+    "videos": [],
+    "sources": [],
+    "html": "<a class=\"outline-none before:absolute before:inset-0 before:rounded-xl before:content-['']\" href=\"/docs/agent-kit/skills/editorial\">Editorial</a>"
+  },
+  {
+    "href": "/docs/agent-kit/skills/luxury-serif",
+    "text": [
+      "Luxury Serif"
+    ],
+    "imgs": [],
+    "videos": [],
+    "sources": [],
+    "html": "<a class=\"outline-none before:absolute before:inset-0 before:rounded-xl before:content-['']\" href=\"/docs/agent-kit/skills/luxury-serif\">Luxury Serif</a>"
+  },
+  {
+    "href": "/docs/agent-kit/skills/neobrutalism",
+    "text": [
+      "Neobrutalism"
+    ],
+    "imgs": [],
+    "videos": [],
+    "sources": [],
+    "html": "<a class=\"outline-none before:absolute before:inset-0 before:rounded-xl before:content-['']\" href=\"/docs/agent-kit/skills/neobrutalism\">Neobrutalism</a>"
+  },
+  {
+    "href": "/docs/agent-kit/skills/playful-motion",
+    "text": [
+      "Playful Motion"
+    ],
+    "imgs": [],
+    "videos": [],
+    "sources": [],
+    "html": "<a class=\"outline-none before:absolute before:inset-0 before:rounded-xl before:content-['']\" href=\"/docs/agent-kit/skills/playful-motion\">Playful Motion</a>"
+  },
+  {
+    "href": "/docs/agent-kit/skills/swiss-grid",
+    "text": [
+      "Swiss Grid"
+    ],
+    "imgs": [],
+    "videos": [],
+    "sources": [],
+    "html": "<a class=\"outline-none before:absolute before:inset-0 before:rounded-xl before:content-['']\" href=\"/docs/agent-kit/skills/swiss-grid\">Swiss Grid</a>"
+  },
+  {
+    "href": "/docs/agent-kit/skills/terminal-dark",
+    "text": [
+      "Terminal Dark"
+    ],
+    "imgs": [],
+    "videos": [],
+    "sources": [],
+    "html": "<a class=\"outline-none before:absolute before:inset-0 before:rounded-xl before:content-['']\" href=\"/docs/agent-kit/skills/terminal-dark\">Terminal Dark</a>"
+  },
+  {
+    "href": "/docs/agent-kit/prompts/agency",
+    "text": [
+      "Agency"
+    ],
+    "imgs": [],
+    "videos": [],
+    "sources": [],
+    "html": "<a class=\"outline-none before:absolute before:inset-0 before:rounded-xl before:content-['']\" href=\"/docs/agent-kit/prompts/agency\">Agency</a>"
+  },
+  {
+    "href": "/docs/agent-kit/prompts/consumer-hardware",
+    "text": [
+      "Consumer Hardware"
+    ],
+    "imgs": [],
+    "videos": [],
+    "sources": [],
+    "html": "<a class=\"outline-none before:absolute before:inset-0 before:rounded-xl before:content-['']\" href=\"/docs/agent-kit/prompts/consumer-hardware\">Consumer Hardware</a>"
+  },
+  {
+    "href": "/docs/agent-kit/prompts/developer-tool",
+    "text": [
+      "Developer Tool"
+    ],
+    "imgs": [],
+    "videos": [],
+    "sources": [],
+    "html": "<a class=\"outline-none before:absolute before:inset-0 before:rounded-xl before:content-['']\" href=\"/docs/agent-kit/prompts/developer-tool\">Developer Tool</a>"
+  },
+  {
+    "href": "/docs/agent-kit/prompts/ecommerce-brand",
+    "text": [
+      "Ecommerce Brand"
+    ],
+    "imgs": [],
+    "videos": [],
+    "sources": [],
+    "html": "<a class=\"outline-none before:absolute before:inset-0 before:rounded-xl before:content-['']\" href=\"/docs/agent-kit/prompts/ecommerce-brand\">Ecommerce Brand</a>"
+  },
+  {
+    "href": "/docs/agent-kit/prompts/fintech",
+    "text": [
+      "Fintech"
+    ],
+    "imgs": [],
+    "videos": [],
+    "sources": [],
+    "html": "<a class=\"outline-none before:absolute before:inset-0 before:rounded-xl before:content-['']\" href=\"/docs/agent-kit/prompts/fintech\">Fintech</a>"
+  },
+  {
+    "href": "/docs/agent-kit/prompts/fitness",
+    "text": [
+      "Fitness"
+    ],
+    "imgs": [],
+    "videos": [],
+    "sources": [],
+    "html": "<a class=\"outline-none before:absolute before:inset-0 before:rounded-xl before:content-['']\" href=\"/docs/agent-kit/prompts/fitness\">Fitness</a>"
+  },
+  {
+    "href": "/docs/agent-kit/prompts/real-estate",
+    "text": [
+      "Real Estate"
+    ],
+    "imgs": [],
+    "videos": [],
+    "sources": [],
+    "html": "<a class=\"outline-none before:absolute before:inset-0 before:rounded-xl before:content-['']\" href=\"/docs/agent-kit/prompts/real-estate\">Real Estate</a>"
+  },
+  {
+    "href": "/docs/agent-kit/prompts/saas",
+    "text": [
+      "SaaS Landing Page"
+    ],
+    "imgs": [],
+    "videos": [],
+    "sources": [],
+    "html": "<a class=\"outline-none before:absolute before:inset-0 before:rounded-xl before:content-['']\" href=\"/docs/agent-kit/prompts/saas\">SaaS Landing Page</a>"
+  },
+  {
+    "href": "/docs/agent-kit/recipes/agency-homepage",
+    "text": [
+      "Agency Homepage"
+    ],
+    "imgs": [],
+    "videos": [],
+    "sources": [],
+    "html": "<a class=\"outline-none before:absolute before:inset-0 before:rounded-xl before:content-['']\" href=\"/docs/agent-kit/recipes/agency-homepage\">Agency Homepage</a>"
+  },
+  {
+    "href": "/docs/agent-kit/recipes/product-launch",
+    "text": [
+      "Product Launch Page"
+    ],
+    "imgs": [],
+    "videos": [],
+    "sources": [],
+    "html": "<a class=\"outline-none before:absolute before:inset-0 before:rounded-xl before:content-['']\" href=\"/docs/agent-kit/recipes/product-launch\">Product Launch Page</a>"
+  },
+  {
+    "href": "/docs/agent-kit/recipes/saas-homepage",
+    "text": [
+      "SaaS Homepage"
+    ],
+    "imgs": [],
+    "videos": [],
+    "sources": [],
+    "html": "<a class=\"outline-none before:absolute before:inset-0 before:rounded-xl before:content-['']\" href=\"/docs/agent-kit/recipes/saas-homepage\">SaaS Homepage</a>"
+  }
+]

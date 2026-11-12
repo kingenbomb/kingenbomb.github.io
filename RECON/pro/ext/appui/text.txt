@@ -1,0 +1,380 @@
+Library
+Resources
+Agents
+Pricing
+Search...
+⌘
+K
+Sign In
+Get Lifetime Access
+Application UI
+300
+Get Started
+Introduction
+Installation
+MCP Server
+Saved
+Browse
+All Application UI
+Theming
+AI & Agents
+AI Chat
+9
+Prompt Input
+7
+Agent Activity
+7
+Tool Calls
+6
+Agent Approval
+6
+Agent Plan
+6
+AI Usage
+8
+Navigation
+App Shell
+9
+App Sidebar
+7
+Command Menu
+6
+Navbar
+14
+Mobile
+5
+Data
+Cards
+11
+Data Table
+8
+Dashboard
+14
+Analytics
+16
+List
+12
+Filtering
+9
+File Manager
+4
+Monitoring
+10
+Empty State
+5
+Forms
+Settings Form
+6
+Forms
+12
+Overlays
+App Dialog
+7
+Notifications
+6
+Auth & Onboarding
+Onboarding
+7
+Paywall
+7
+Authentication
+14
+Workflows
+Kanban
+6
+Wizard
+7
+Comments
+6
+Scheduling
+7
+Integrations
+6
+Editor
+5
+Feedback
+6
+Support
+5
+Billing
+8
+Chat
+6
+Application UI
+
+300 blocks across 38 categories. Production-ready interface sections built on one shared design system.
+
+All
+AI & Agents
+Navigation
+Data
+Forms
+Overlays
+Auth & Onboarding
+Workflows
+
+Showing 38 of 38 categories
+
+AI Chat
+
+Chat interfaces for AI assistants
+
+9 variants
+Browse
+Prompt Input
+
+Prompt bars and message composers
+
+7 variants
+Browse
+Agent Activity
+
+Live runs, timelines and logs for agents
+
+7 variants
+Browse
+Tool Calls
+
+Tool call cards, results and permissions
+
+6 variants
+Browse
+Agent Approval
+
+Approval and permission prompts for agents
+
+6 variants
+Browse
+Agent Plan
+
+Task plans and checklists for agents
+
+6 variants
+Browse
+AI Usage
+
+Token spend, quotas and cost tracking
+
+8 variants
+Browse
+App Shell
+
+Complete app frames with nav and content
+
+9 variants
+Browse
+Cards
+
+Cards for people, plans, activity and files
+
+11 variants
+Browse
+Onboarding
+
+First-run setup flows and checklists
+
+7 variants
+Browse
+Kanban
+
+Drag and drop boards
+
+6 variants
+Browse
+Wizard
+
+Multi-step flows and steppers
+
+7 variants
+Browse
+Comments
+
+Comment threads, annotations and reviews
+
+6 variants
+Browse
+Scheduling
+
+Calendars, availability and booking
+
+7 variants
+Browse
+App Sidebar
+
+App sidebars, rails and mobile nav
+
+7 variants
+Browse
+Command Menu
+
+Command palettes and quick search
+
+6 variants
+Browse
+Data Table
+
+Data tables with filters and editing
+
+8 variants
+Browse
+Dashboard
+
+Metrics, charts and status boards
+
+14 variants
+Browse
+App Dialog
+
+Dialogs, drawers, sheets and menus
+
+7 variants
+Browse
+Notifications
+
+Notification centers, toasts and inboxes
+
+6 variants
+Browse
+Integrations
+
+Integrations, API keys and webhooks
+
+6 variants
+Browse
+Editor
+
+Rich text, markdown and code editors
+
+5 variants
+Browse
+Settings Form
+
+Settings pages and account forms
+
+6 variants
+Browse
+Analytics
+
+Charts, funnels and reports
+
+16 variants
+Browse
+List
+
+Lists, feeds, queues and trees
+
+12 variants
+Browse
+Forms
+
+Forms for creating and editing records
+
+12 variants
+Browse
+Filtering
+
+Filters and query builders
+
+9 variants
+Browse
+Feedback
+
+Feedback widgets, surveys and ratings
+
+6 variants
+Browse
+Support
+
+Help centers, tickets and support chat
+
+5 variants
+Browse
+Billing
+
+Invoices, plans and payment screens
+
+8 variants
+Browse
+Chat
+
+Team, direct and group messaging
+
+6 variants
+Browse
+File Manager
+
+File browsers and upload queues
+
+4 variants
+Browse
+Monitoring
+
+Service health, alerts and incidents
+
+10 variants
+Browse
+Navbar
+
+App top bars and site headers
+
+14 variants
+Browse
+Mobile
+
+Mobile tab bars, docks and sheets
+
+5 variants
+Browse
+Empty State
+
+Empty, no-result and error states
+
+5 variants
+Browse
+Paywall
+
+Upgrade prompts and feature gates
+
+7 variants
+Browse
+Authentication
+
+Sign-in, sign-up and recovery screens
+
+14 variants
+Browse
+Theme
+
+Animated components, blocks, and templates for React. Pay once, ship stunning pages forever.
+
+pro@reactbits.dev
+Site
+Home
+Builder (Beta)
+Pricing
+Testimonials
+FAQs
+Roadmap
+Changelog
+Free Components
+Docs
+Introduction
+Installation
+MCP Server
+Components
+Blocks
+Templates
+Resources
+About
+Use cases
+Comparisons
+Alternatives
+For AI agents
+Legal & Account
+Login
+Affiliate
+License
+Privacy
+Contact
+
+© 2026 pro.reactbits.dev. All rights reserved.

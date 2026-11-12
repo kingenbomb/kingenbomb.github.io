@@ -8,3 +8,7 @@ vendor/
 # 验证截图体积较大，不入库
 RECON/screenshots/
 RECON/*.log
+RECON/pro/shots/
+# 探测阶段的原始视频下载（成品都在 public/assets 下）
+RECON/pro/tmp/
+__pycache__/

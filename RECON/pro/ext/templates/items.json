@@ -1,0 +1,632 @@
+[
+  {
+    "text": [
+      "Live Preview",
+      "View Details",
+      "New",
+      "Agentframe",
+      "AI agent website with a pixel landscape hero",
+      "Buy Template ($49)",
+      "Or Unlock All"
+    ],
+    "imgs": [],
+    "videos": [
+      {
+        "src": "https://cdn.reactbits.dev/agentframe-preview.mp4",
+        "poster": null,
+        "cls": "w-full h-full object-cover transition-opacity duration-300 o"
+      }
+    ],
+    "sources": [
+      "https://cdn.reactbits.dev/agentframe-preview.mp4"
+    ],
+    "links": [
+      {
+        "href": "https://rbp-agentframe-template.vercel.app/",
+        "text": "Live Preview"
+      },
+      {
+        "href": "/docs/templates/agentframe-template",
+        "text": "View Details"
+      },
+      {
+        "href": "https://buy.polar.sh/polar_cl_JsXwmbZYD65AGxXqQLweuaoCqV8N3kGXIHRhd0mHycR?utm_source=pro.reactbits.dev&utm_medium=website&utm_campaign=pro-conversion&utm_content=template-catalog-agentframe-template",
+        "text": "Buy Template ($49)"
+      },
+      {
+        "href": "/#pricing",
+        "text": "Or Unlock All"
+      }
+    ],
+    "className": "group relative flex flex-col rounded-xl border bg-muted/50 overflow-hidden transition-all hover:shadow-lg hover:border-primary/20",
+    "tag": "div",
+    "html": "<div class=\"group relative flex flex-col rounded-xl border bg-muted/50 overflow-hidden transition-all hover:shadow-lg hover:border-primary/20\"><div class=\"p-1\"><div class=\"relative aspect-video bg-muted overflow-hidden rounded-lg border\"><div class=\"pointer-events-none absolute right-2 top-2 z-10 opacity-0 transition-opacity duration-150 group-hover:pointer-events-auto group-hover:opacity-100 focus-within:pointer-events-auto focus-within:opacity-100 [@media(hover:none)]:pointer-events-auto [@media(hover:none)]:opacity-100\"><button type=\"button\" title=\"Sign in to save items\" aria-label=\"Sign in to save items\" class=\"inline-flex items-center justify-center gap-2 rounded-lg border text-muted-foreground transition-colors hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring size-7 rounded-nest-8 border-border bg-background/80 shadow-sm backdrop-blur hover:bg-background cursor-pointer\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-bookmark size-4 shrink-0\" aria-hidden=\"true\"><path d=\"m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z\"></path></svg></button></div><video class=\"w-full h-full object-cover transition-opacity duration-300 opacity-100\" loop=\"\" muted=\"\" playsinline=\"\" preload=\"auto\"><source src=\"https://cdn.reactbits.dev/agentframe-preview.mp4\" type=\"video/mp4\"></video><div class=\"absolute inset-x-1 bottom-1 flex items-center gap-1.5 opacity-100 md:opacity-0 md:group-hover:opacity-100 transition-opacity duration-200\"><a href=\"https://rbp-agentframe-template.vercel.app/\" target=\"_blank\" rel=\"noopener noreferrer\" data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap font-medium transition-[box-shadow,transform,opacity] duration-200 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive gap-1.5 has-[&gt;svg]:px-2.5 h-8 rounded-sm px-2.5 text-[13px] bg-background/95 backdrop-blur-sm text-foreground hover:bg-background shadow-sm\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-external-link h-3.5 w-3.5 mr-1.5\" aria-hidden=\"true\"><path d=\"M15 3h6v6\"></path><path d=\"M10 14 21 3\"></path><path d=\"M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6\"></path></svg>Live Preview</a><a data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap font-medium transition-[box-shadow,transform,opacity] duration-200 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive gap-1.5 has-[&gt;svg]:px-2.5 h-8 rounded-sm px-2.5 text-[13px] bg-background/95 backdrop-blur-sm text-foreground hover:bg-background shadow-sm\" href=\"/docs/templates/agentframe-template\">View Details</a></div><div class=\"absolute top-1 left-1 flex items-center gap-1.5\"><span class=\"inline-flex items-center shrink-0 px-1.5 py-0.5 border border-border/60 bg-background/95 text-[10px] font-medium tracking-tight leading-none text-foreground rounded-sm backdrop-blur-sm shadow-sm\">New</span><div class=\"bg-black/70 backdrop-blur-sm rounded-sm p-1.5\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-l"
+  },
+  {
+    "text": [
+      "Live Preview",
+      "View Details",
+      "New",
+      "Cloudlight",
+      "Cloud storage landing page with a cloud hero",
+      "Buy Template ($49)",
+      "Or Unlock All"
+    ],
+    "imgs": [],
+    "videos": [
+      {
+        "src": "https://cdn.reactbits.dev/cloudlight-preview.mp4",
+        "poster": null,
+        "cls": "w-full h-full object-cover transition-opacity duration-300 o"
+      }
+    ],
+    "sources": [
+      "https://cdn.reactbits.dev/cloudlight-preview.mp4"
+    ],
+    "links": [
+      {
+        "href": "https://rbp-cloudlight-template.vercel.app/",
+        "text": "Live Preview"
+      },
+      {
+        "href": "/docs/templates/cloudlight-template",
+        "text": "View Details"
+      },
+      {
+        "href": "https://buy.polar.sh/polar_cl_VDs9PCxlkrj7M5DnnI9KZgGwh1hlroCNU0tfe0GrBRM?utm_source=pro.reactbits.dev&utm_medium=website&utm_campaign=pro-conversion&utm_content=template-catalog-cloudlight-template",
+        "text": "Buy Template ($49)"
+      },
+      {
+        "href": "/#pricing",
+        "text": "Or Unlock All"
+      }
+    ],
+    "className": "group relative flex flex-col rounded-xl border bg-muted/50 overflow-hidden transition-all hover:shadow-lg hover:border-primary/20",
+    "tag": "div",
+    "html": "<div class=\"group relative flex flex-col rounded-xl border bg-muted/50 overflow-hidden transition-all hover:shadow-lg hover:border-primary/20\"><div class=\"p-1\"><div class=\"relative aspect-video bg-muted overflow-hidden rounded-lg border\"><div class=\"pointer-events-none absolute right-2 top-2 z-10 opacity-0 transition-opacity duration-150 group-hover:pointer-events-auto group-hover:opacity-100 focus-within:pointer-events-auto focus-within:opacity-100 [@media(hover:none)]:pointer-events-auto [@media(hover:none)]:opacity-100\"><button type=\"button\" title=\"Sign in to save items\" aria-label=\"Sign in to save items\" class=\"inline-flex items-center justify-center gap-2 rounded-lg border text-muted-foreground transition-colors hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring size-7 rounded-nest-8 border-border bg-background/80 shadow-sm backdrop-blur hover:bg-background cursor-pointer\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-bookmark size-4 shrink-0\" aria-hidden=\"true\"><path d=\"m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z\"></path></svg></button></div><video class=\"w-full h-full object-cover transition-opacity duration-300 opacity-100\" loop=\"\" muted=\"\" playsinline=\"\" preload=\"auto\"><source src=\"https://cdn.reactbits.dev/cloudlight-preview.mp4\" type=\"video/mp4\"></video><div class=\"absolute inset-x-1 bottom-1 flex items-center gap-1.5 opacity-100 md:opacity-0 md:group-hover:opacity-100 transition-opacity duration-200\"><a href=\"https://rbp-cloudlight-template.vercel.app/\" target=\"_blank\" rel=\"noopener noreferrer\" data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap font-medium transition-[box-shadow,transform,opacity] duration-200 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive gap-1.5 has-[&gt;svg]:px-2.5 h-8 rounded-sm px-2.5 text-[13px] bg-background/95 backdrop-blur-sm text-foreground hover:bg-background shadow-sm\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-external-link h-3.5 w-3.5 mr-1.5\" aria-hidden=\"true\"><path d=\"M15 3h6v6\"></path><path d=\"M10 14 21 3\"></path><path d=\"M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6\"></path></svg>Live Preview</a><a data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap font-medium transition-[box-shadow,transform,opacity] duration-200 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive gap-1.5 has-[&gt;svg]:px-2.5 h-8 rounded-sm px-2.5 text-[13px] bg-background/95 backdrop-blur-sm text-foreground hover:bg-background shadow-sm\" href=\"/docs/templates/cloudlight-template\">View Details</a></div><div class=\"absolute top-1 left-1 flex items-center gap-1.5\"><span class=\"inline-flex items-center shrink-0 px-1.5 py-0.5 border border-border/60 bg-background/95 text-[10px] font-medium tracking-tight leading-none text-foreground rounded-sm backdrop-blur-sm shadow-sm\">New</span><div class=\"bg-black/70 backdrop-blur-sm rounded-sm p-1.5\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-l"
+  },
+  {
+    "text": [
+      "Live Preview",
+      "View Details",
+      "New",
+      "Imageworks",
+      "AI image platform landing page with a 3D hero",
+      "Buy Template ($49)",
+      "Or Unlock All"
+    ],
+    "imgs": [],
+    "videos": [
+      {
+        "src": "https://cdn.reactbits.dev/imageworks-preview.mp4",
+        "poster": null,
+        "cls": "w-full h-full object-cover transition-opacity duration-300 o"
+      }
+    ],
+    "sources": [
+      "https://cdn.reactbits.dev/imageworks-preview.mp4"
+    ],
+    "links": [
+      {
+        "href": "https://rbp-imageworks-template.vercel.app/",
+        "text": "Live Preview"
+      },
+      {
+        "href": "/docs/templates/imageworks-template",
+        "text": "View Details"
+      },
+      {
+        "href": "https://buy.polar.sh/polar_cl_avM7kRjVGt9mAnhHyx2sX8QJBhpbR2n3qqYq01QWkUz?utm_source=pro.reactbits.dev&utm_medium=website&utm_campaign=pro-conversion&utm_content=template-catalog-imageworks-template",
+        "text": "Buy Template ($49)"
+      },
+      {
+        "href": "/#pricing",
+        "text": "Or Unlock All"
+      }
+    ],
+    "className": "group relative flex flex-col rounded-xl border bg-muted/50 overflow-hidden transition-all hover:shadow-lg hover:border-primary/20",
+    "tag": "div",
+    "html": "<div class=\"group relative flex flex-col rounded-xl border bg-muted/50 overflow-hidden transition-all hover:shadow-lg hover:border-primary/20\"><div class=\"p-1\"><div class=\"relative aspect-video bg-muted overflow-hidden rounded-lg border\"><div class=\"pointer-events-none absolute right-2 top-2 z-10 opacity-0 transition-opacity duration-150 group-hover:pointer-events-auto group-hover:opacity-100 focus-within:pointer-events-auto focus-within:opacity-100 [@media(hover:none)]:pointer-events-auto [@media(hover:none)]:opacity-100\"><button type=\"button\" title=\"Sign in to save items\" aria-label=\"Sign in to save items\" class=\"inline-flex items-center justify-center gap-2 rounded-lg border text-muted-foreground transition-colors hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring size-7 rounded-nest-8 border-border bg-background/80 shadow-sm backdrop-blur hover:bg-background cursor-pointer\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-bookmark size-4 shrink-0\" aria-hidden=\"true\"><path d=\"m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z\"></path></svg></button></div><video class=\"w-full h-full object-cover transition-opacity duration-300 opacity-100\" loop=\"\" muted=\"\" playsinline=\"\" preload=\"auto\"><source src=\"https://cdn.reactbits.dev/imageworks-preview.mp4\" type=\"video/mp4\"></video><div class=\"absolute inset-x-1 bottom-1 flex items-center gap-1.5 opacity-100 md:opacity-0 md:group-hover:opacity-100 transition-opacity duration-200\"><a href=\"https://rbp-imageworks-template.vercel.app/\" target=\"_blank\" rel=\"noopener noreferrer\" data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap font-medium transition-[box-shadow,transform,opacity] duration-200 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive gap-1.5 has-[&gt;svg]:px-2.5 h-8 rounded-sm px-2.5 text-[13px] bg-background/95 backdrop-blur-sm text-foreground hover:bg-background shadow-sm\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-external-link h-3.5 w-3.5 mr-1.5\" aria-hidden=\"true\"><path d=\"M15 3h6v6\"></path><path d=\"M10 14 21 3\"></path><path d=\"M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6\"></path></svg>Live Preview</a><a data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap font-medium transition-[box-shadow,transform,opacity] duration-200 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive gap-1.5 has-[&gt;svg]:px-2.5 h-8 rounded-sm px-2.5 text-[13px] bg-background/95 backdrop-blur-sm text-foreground hover:bg-background shadow-sm\" href=\"/docs/templates/imageworks-template\">View Details</a></div><div class=\"absolute top-1 left-1 flex items-center gap-1.5\"><span class=\"inline-flex items-center shrink-0 px-1.5 py-0.5 border border-border/60 bg-background/95 text-[10px] font-medium tracking-tight leading-none text-foreground rounded-sm backdrop-blur-sm shadow-sm\">New</span><div class=\"bg-black/70 backdrop-blur-sm rounded-sm p-1.5\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-l"
+  },
+  {
+    "text": [
+      "Live Preview",
+      "View Details",
+      "New",
+      "Sparkdesign",
+      "Design collaboration landing page",
+      "Buy Template ($49)",
+      "Or Unlock All"
+    ],
+    "imgs": [],
+    "videos": [
+      {
+        "src": "https://cdn.reactbits.dev/sparkdesign-preview.mp4?v=43adf98df082b4d0e406d0952940143c",
+        "poster": null,
+        "cls": "w-full h-full object-cover transition-opacity duration-300 o"
+      }
+    ],
+    "sources": [
+      "https://cdn.reactbits.dev/sparkdesign-preview.mp4?v=43adf98df082b4d0e406d0952940143c"
+    ],
+    "links": [
+      {
+        "href": "https://rbp-sparkdesign-template.vercel.app/",
+        "text": "Live Preview"
+      },
+      {
+        "href": "/docs/templates/sparkdesign-template",
+        "text": "View Details"
+      },
+      {
+        "href": "https://buy.polar.sh/polar_cl_ZImHpw8jTEfoPBNzj9ecW7iRVGxvkemYtobjE3qm7ML?utm_source=pro.reactbits.dev&utm_medium=website&utm_campaign=pro-conversion&utm_content=template-catalog-sparkdesign-template",
+        "text": "Buy Template ($49)"
+      },
+      {
+        "href": "/#pricing",
+        "text": "Or Unlock All"
+      }
+    ],
+    "className": "group relative flex flex-col rounded-xl border bg-muted/50 overflow-hidden transition-all hover:shadow-lg hover:border-primary/20",
+    "tag": "div",
+    "html": "<div class=\"group relative flex flex-col rounded-xl border bg-muted/50 overflow-hidden transition-all hover:shadow-lg hover:border-primary/20\"><div class=\"p-1\"><div class=\"relative aspect-video bg-muted overflow-hidden rounded-lg border\"><div class=\"pointer-events-none absolute right-2 top-2 z-10 opacity-0 transition-opacity duration-150 group-hover:pointer-events-auto group-hover:opacity-100 focus-within:pointer-events-auto focus-within:opacity-100 [@media(hover:none)]:pointer-events-auto [@media(hover:none)]:opacity-100\"><button type=\"button\" title=\"Sign in to save items\" aria-label=\"Sign in to save items\" class=\"inline-flex items-center justify-center gap-2 rounded-lg border text-muted-foreground transition-colors hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring size-7 rounded-nest-8 border-border bg-background/80 shadow-sm backdrop-blur hover:bg-background cursor-pointer\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-bookmark size-4 shrink-0\" aria-hidden=\"true\"><path d=\"m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z\"></path></svg></button></div><video class=\"w-full h-full object-cover transition-opacity duration-300 opacity-100\" loop=\"\" muted=\"\" playsinline=\"\" preload=\"auto\"><source src=\"https://cdn.reactbits.dev/sparkdesign-preview.mp4?v=43adf98df082b4d0e406d0952940143c\" type=\"video/mp4\"></video><div class=\"absolute inset-x-1 bottom-1 flex items-center gap-1.5 opacity-100 md:opacity-0 md:group-hover:opacity-100 transition-opacity duration-200\"><a href=\"https://rbp-sparkdesign-template.vercel.app/\" target=\"_blank\" rel=\"noopener noreferrer\" data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap font-medium transition-[box-shadow,transform,opacity] duration-200 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive gap-1.5 has-[&gt;svg]:px-2.5 h-8 rounded-sm px-2.5 text-[13px] bg-background/95 backdrop-blur-sm text-foreground hover:bg-background shadow-sm\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-external-link h-3.5 w-3.5 mr-1.5\" aria-hidden=\"true\"><path d=\"M15 3h6v6\"></path><path d=\"M10 14 21 3\"></path><path d=\"M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6\"></path></svg>Live Preview</a><a data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap font-medium transition-[box-shadow,transform,opacity] duration-200 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive gap-1.5 has-[&gt;svg]:px-2.5 h-8 rounded-sm px-2.5 text-[13px] bg-background/95 backdrop-blur-sm text-foreground hover:bg-background shadow-sm\" href=\"/docs/templates/sparkdesign-template\">View Details</a></div><div class=\"absolute top-1 left-1 flex items-center gap-1.5\"><span class=\"inline-flex items-center shrink-0 px-1.5 py-0.5 border border-border/60 bg-background/95 text-[10px] font-medium tracking-tight leading-none text-foreground rounded-sm backdrop-blur-sm shadow-sm\">New</span><div class=\"bg-black/70 backdrop-blur-sm rounded-sm p-1.5\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-wid"
+  },
+  {
+    "text": [
+      "Live Preview",
+      "View Details",
+      "SaaS",
+      "Vibrant SaaS landing page with a rounded frame",
+      "Buy Template ($49)",
+      "Or Unlock All"
+    ],
+    "imgs": [],
+    "videos": [
+      {
+        "src": "https://cdn.reactbits.dev/saas-preview.mp4",
+        "poster": null,
+        "cls": "w-full h-full object-cover transition-opacity duration-300 o"
+      }
+    ],
+    "sources": [
+      "https://cdn.reactbits.dev/saas-preview.mp4"
+    ],
+    "links": [
+      {
+        "href": "https://rbp-saas-template.vercel.app/",
+        "text": "Live Preview"
+      },
+      {
+        "href": "/docs/templates/saas-landing",
+        "text": "View Details"
+      },
+      {
+        "href": "https://buy.polar.sh/polar_cl_9XcGLwoYEwKaCxaf911yg2vbB9aoOR29xmniS3q7dxa?utm_source=pro.reactbits.dev&utm_medium=website&utm_campaign=pro-conversion&utm_content=template-catalog-saas-landing",
+        "text": "Buy Template ($49)"
+      },
+      {
+        "href": "/#pricing",
+        "text": "Or Unlock All"
+      }
+    ],
+    "className": "group relative flex flex-col rounded-xl border bg-muted/50 overflow-hidden transition-all hover:shadow-lg hover:border-primary/20",
+    "tag": "div",
+    "html": "<div class=\"group relative flex flex-col rounded-xl border bg-muted/50 overflow-hidden transition-all hover:shadow-lg hover:border-primary/20\"><div class=\"p-1\"><div class=\"relative aspect-video bg-muted overflow-hidden rounded-lg border\"><div class=\"pointer-events-none absolute right-2 top-2 z-10 opacity-0 transition-opacity duration-150 group-hover:pointer-events-auto group-hover:opacity-100 focus-within:pointer-events-auto focus-within:opacity-100 [@media(hover:none)]:pointer-events-auto [@media(hover:none)]:opacity-100\"><button type=\"button\" title=\"Sign in to save items\" aria-label=\"Sign in to save items\" class=\"inline-flex items-center justify-center gap-2 rounded-lg border text-muted-foreground transition-colors hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring size-7 rounded-nest-8 border-border bg-background/80 shadow-sm backdrop-blur hover:bg-background cursor-pointer\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-bookmark size-4 shrink-0\" aria-hidden=\"true\"><path d=\"m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z\"></path></svg></button></div><video class=\"w-full h-full object-cover transition-opacity duration-300 opacity-100\" loop=\"\" muted=\"\" playsinline=\"\" preload=\"auto\"><source src=\"https://cdn.reactbits.dev/saas-preview.mp4\" type=\"video/mp4\"></video><div class=\"absolute inset-x-1 bottom-1 flex items-center gap-1.5 opacity-100 md:opacity-0 md:group-hover:opacity-100 transition-opacity duration-200\"><a href=\"https://rbp-saas-template.vercel.app/\" target=\"_blank\" rel=\"noopener noreferrer\" data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap font-medium transition-[box-shadow,transform,opacity] duration-200 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive gap-1.5 has-[&gt;svg]:px-2.5 h-8 rounded-sm px-2.5 text-[13px] bg-background/95 backdrop-blur-sm text-foreground hover:bg-background shadow-sm\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-external-link h-3.5 w-3.5 mr-1.5\" aria-hidden=\"true\"><path d=\"M15 3h6v6\"></path><path d=\"M10 14 21 3\"></path><path d=\"M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6\"></path></svg>Live Preview</a><a data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap font-medium transition-[box-shadow,transform,opacity] duration-200 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive gap-1.5 has-[&gt;svg]:px-2.5 h-8 rounded-sm px-2.5 text-[13px] bg-background/95 backdrop-blur-sm text-foreground hover:bg-background shadow-sm\" href=\"/docs/templates/saas-landing\">View Details</a></div><div class=\"absolute top-1 left-1 flex items-center gap-1.5\"><div class=\"bg-black/70 backdrop-blur-sm rounded-sm p-1.5\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-lock h-3.5 w-3.5 text-white\" aria-hidden=\"true\"><rect width=\"18\" height=\"11\" x=\"3\" y=\"11\" rx=\"2\" ry=\"2\"></rect><path d=\"M7 11V7a5 5 0 0 1 10 0v4\"></path></svg></div></div></div></div><div class=\"flex f"
+  },
+  {
+    "text": [
+      "Live Preview",
+      "View Details",
+      "Minimal",
+      "Clean, minimal landing page",
+      "Buy Template ($49)",
+      "Or Unlock All"
+    ],
+    "imgs": [],
+    "videos": [
+      {
+        "src": "https://cdn.reactbits.dev/minimal-preview.mp4",
+        "poster": null,
+        "cls": "w-full h-full object-cover transition-opacity duration-300 o"
+      }
+    ],
+    "sources": [
+      "https://cdn.reactbits.dev/minimal-preview.mp4"
+    ],
+    "links": [
+      {
+        "href": "https://rbp-minimal-template.vercel.app/",
+        "text": "Live Preview"
+      },
+      {
+        "href": "/docs/templates/minimal-landing",
+        "text": "View Details"
+      },
+      {
+        "href": "https://buy.polar.sh/polar_cl_DksecCqHdHdxhnU5Dfolm7l0Imiab8Fd18Nbo1jptCo?utm_source=pro.reactbits.dev&utm_medium=website&utm_campaign=pro-conversion&utm_content=template-catalog-minimal-landing",
+        "text": "Buy Template ($49)"
+      },
+      {
+        "href": "/#pricing",
+        "text": "Or Unlock All"
+      }
+    ],
+    "className": "group relative flex flex-col rounded-xl border bg-muted/50 overflow-hidden transition-all hover:shadow-lg hover:border-primary/20",
+    "tag": "div",
+    "html": "<div class=\"group relative flex flex-col rounded-xl border bg-muted/50 overflow-hidden transition-all hover:shadow-lg hover:border-primary/20\"><div class=\"p-1\"><div class=\"relative aspect-video bg-muted overflow-hidden rounded-lg border\"><div class=\"pointer-events-none absolute right-2 top-2 z-10 opacity-0 transition-opacity duration-150 group-hover:pointer-events-auto group-hover:opacity-100 focus-within:pointer-events-auto focus-within:opacity-100 [@media(hover:none)]:pointer-events-auto [@media(hover:none)]:opacity-100\"><button type=\"button\" title=\"Sign in to save items\" aria-label=\"Sign in to save items\" class=\"inline-flex items-center justify-center gap-2 rounded-lg border text-muted-foreground transition-colors hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring size-7 rounded-nest-8 border-border bg-background/80 shadow-sm backdrop-blur hover:bg-background cursor-pointer\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-bookmark size-4 shrink-0\" aria-hidden=\"true\"><path d=\"m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z\"></path></svg></button></div><video class=\"w-full h-full object-cover transition-opacity duration-300 opacity-100\" loop=\"\" muted=\"\" playsinline=\"\" preload=\"auto\"><source src=\"https://cdn.reactbits.dev/minimal-preview.mp4\" type=\"video/mp4\"></video><div class=\"absolute inset-x-1 bottom-1 flex items-center gap-1.5 opacity-100 md:opacity-0 md:group-hover:opacity-100 transition-opacity duration-200\"><a href=\"https://rbp-minimal-template.vercel.app/\" target=\"_blank\" rel=\"noopener noreferrer\" data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap font-medium transition-[box-shadow,transform,opacity] duration-200 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive gap-1.5 has-[&gt;svg]:px-2.5 h-8 rounded-sm px-2.5 text-[13px] bg-background/95 backdrop-blur-sm text-foreground hover:bg-background shadow-sm\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-external-link h-3.5 w-3.5 mr-1.5\" aria-hidden=\"true\"><path d=\"M15 3h6v6\"></path><path d=\"M10 14 21 3\"></path><path d=\"M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6\"></path></svg>Live Preview</a><a data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap font-medium transition-[box-shadow,transform,opacity] duration-200 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive gap-1.5 has-[&gt;svg]:px-2.5 h-8 rounded-sm px-2.5 text-[13px] bg-background/95 backdrop-blur-sm text-foreground hover:bg-background shadow-sm\" href=\"/docs/templates/minimal-landing\">View Details</a></div><div class=\"absolute top-1 left-1 flex items-center gap-1.5\"><div class=\"bg-black/70 backdrop-blur-sm rounded-sm p-1.5\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-lock h-3.5 w-3.5 text-white\" aria-hidden=\"true\"><rect width=\"18\" height=\"11\" x=\"3\" y=\"11\" rx=\"2\" ry=\"2\"></rect><path d=\"M7 11V7a5 5 0 0 1 10 0v4\"></path></svg></div></div></div></div><div clas"
+  },
+  {
+    "text": [
+      "Live Preview",
+      "View Details",
+      "Agency",
+      "Creative agency site with smooth scrolling",
+      "Buy Template ($49)",
+      "Or Unlock All"
+    ],
+    "imgs": [],
+    "videos": [
+      {
+        "src": "https://cdn.reactbits.dev/agency-preview.mp4",
+        "poster": null,
+        "cls": "w-full h-full object-cover transition-opacity duration-300 o"
+      }
+    ],
+    "sources": [
+      "https://cdn.reactbits.dev/agency-preview.mp4"
+    ],
+    "links": [
+      {
+        "href": "https://rbp-agency-template.vercel.app/",
+        "text": "Live Preview"
+      },
+      {
+        "href": "/docs/templates/agency-site",
+        "text": "View Details"
+      },
+      {
+        "href": "https://buy.polar.sh/polar_cl_hlW2Mfy5yIO5Yjf6GsaGysQgEiBsPqSVsplDk2A6je2?utm_source=pro.reactbits.dev&utm_medium=website&utm_campaign=pro-conversion&utm_content=template-catalog-agency-site",
+        "text": "Buy Template ($49)"
+      },
+      {
+        "href": "/#pricing",
+        "text": "Or Unlock All"
+      }
+    ],
+    "className": "group relative flex flex-col rounded-xl border bg-muted/50 overflow-hidden transition-all hover:shadow-lg hover:border-primary/20",
+    "tag": "div",
+    "html": "<div class=\"group relative flex flex-col rounded-xl border bg-muted/50 overflow-hidden transition-all hover:shadow-lg hover:border-primary/20\"><div class=\"p-1\"><div class=\"relative aspect-video bg-muted overflow-hidden rounded-lg border\"><div class=\"pointer-events-none absolute right-2 top-2 z-10 opacity-0 transition-opacity duration-150 group-hover:pointer-events-auto group-hover:opacity-100 focus-within:pointer-events-auto focus-within:opacity-100 [@media(hover:none)]:pointer-events-auto [@media(hover:none)]:opacity-100\"><button type=\"button\" title=\"Sign in to save items\" aria-label=\"Sign in to save items\" class=\"inline-flex items-center justify-center gap-2 rounded-lg border text-muted-foreground transition-colors hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring size-7 rounded-nest-8 border-border bg-background/80 shadow-sm backdrop-blur hover:bg-background cursor-pointer\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-bookmark size-4 shrink-0\" aria-hidden=\"true\"><path d=\"m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z\"></path></svg></button></div><video class=\"w-full h-full object-cover transition-opacity duration-300 opacity-100\" loop=\"\" muted=\"\" playsinline=\"\" preload=\"auto\"><source src=\"https://cdn.reactbits.dev/agency-preview.mp4\" type=\"video/mp4\"></video><div class=\"absolute inset-x-1 bottom-1 flex items-center gap-1.5 opacity-100 md:opacity-0 md:group-hover:opacity-100 transition-opacity duration-200\"><a href=\"https://rbp-agency-template.vercel.app/\" target=\"_blank\" rel=\"noopener noreferrer\" data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap font-medium transition-[box-shadow,transform,opacity] duration-200 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive gap-1.5 has-[&gt;svg]:px-2.5 h-8 rounded-sm px-2.5 text-[13px] bg-background/95 backdrop-blur-sm text-foreground hover:bg-background shadow-sm\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-external-link h-3.5 w-3.5 mr-1.5\" aria-hidden=\"true\"><path d=\"M15 3h6v6\"></path><path d=\"M10 14 21 3\"></path><path d=\"M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6\"></path></svg>Live Preview</a><a data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap font-medium transition-[box-shadow,transform,opacity] duration-200 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive gap-1.5 has-[&gt;svg]:px-2.5 h-8 rounded-sm px-2.5 text-[13px] bg-background/95 backdrop-blur-sm text-foreground hover:bg-background shadow-sm\" href=\"/docs/templates/agency-site\">View Details</a></div><div class=\"absolute top-1 left-1 flex items-center gap-1.5\"><div class=\"bg-black/70 backdrop-blur-sm rounded-sm p-1.5\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-lock h-3.5 w-3.5 text-white\" aria-hidden=\"true\"><rect width=\"18\" height=\"11\" x=\"3\" y=\"11\" rx=\"2\" ry=\"2\"></rect><path d=\"M7 11V7a5 5 0 0 1 10 0v4\"></path></svg></div></div></div></div><div class=\"fle"
+  },
+  {
+    "text": [
+      "Live Preview",
+      "View Details",
+      "Finance",
+      "Fintech landing page with 3D backgrounds",
+      "Buy Template ($49)",
+      "Or Unlock All"
+    ],
+    "imgs": [],
+    "videos": [
+      {
+        "src": "https://cdn.reactbits.dev/finance-preview.mp4",
+        "poster": null,
+        "cls": "w-full h-full object-cover transition-opacity duration-300 o"
+      }
+    ],
+    "sources": [
+      "https://cdn.reactbits.dev/finance-preview.mp4"
+    ],
+    "links": [
+      {
+        "href": "https://rbp-finance-template.vercel.app/",
+        "text": "Live Preview"
+      },
+      {
+        "href": "/docs/templates/finance-landing",
+        "text": "View Details"
+      },
+      {
+        "href": "https://buy.polar.sh/polar_cl_t6ldlyhQLRvp1WUEAuQdQfbHF5NvcGv9UhuXZ0yXw5M?utm_source=pro.reactbits.dev&utm_medium=website&utm_campaign=pro-conversion&utm_content=template-catalog-finance-landing",
+        "text": "Buy Template ($49)"
+      },
+      {
+        "href": "/#pricing",
+        "text": "Or Unlock All"
+      }
+    ],
+    "className": "group relative flex flex-col rounded-xl border bg-muted/50 overflow-hidden transition-all hover:shadow-lg hover:border-primary/20",
+    "tag": "div",
+    "html": "<div class=\"group relative flex flex-col rounded-xl border bg-muted/50 overflow-hidden transition-all hover:shadow-lg hover:border-primary/20\"><div class=\"p-1\"><div class=\"relative aspect-video bg-muted overflow-hidden rounded-lg border\"><div class=\"pointer-events-none absolute right-2 top-2 z-10 opacity-0 transition-opacity duration-150 group-hover:pointer-events-auto group-hover:opacity-100 focus-within:pointer-events-auto focus-within:opacity-100 [@media(hover:none)]:pointer-events-auto [@media(hover:none)]:opacity-100\"><button type=\"button\" title=\"Sign in to save items\" aria-label=\"Sign in to save items\" class=\"inline-flex items-center justify-center gap-2 rounded-lg border text-muted-foreground transition-colors hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring size-7 rounded-nest-8 border-border bg-background/80 shadow-sm backdrop-blur hover:bg-background cursor-pointer\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-bookmark size-4 shrink-0\" aria-hidden=\"true\"><path d=\"m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z\"></path></svg></button></div><video class=\"w-full h-full object-cover transition-opacity duration-300 opacity-100\" loop=\"\" muted=\"\" playsinline=\"\" preload=\"auto\"><source src=\"https://cdn.reactbits.dev/finance-preview.mp4\" type=\"video/mp4\"></video><div class=\"absolute inset-x-1 bottom-1 flex items-center gap-1.5 opacity-100 md:opacity-0 md:group-hover:opacity-100 transition-opacity duration-200\"><a href=\"https://rbp-finance-template.vercel.app/\" target=\"_blank\" rel=\"noopener noreferrer\" data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap font-medium transition-[box-shadow,transform,opacity] duration-200 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive gap-1.5 has-[&gt;svg]:px-2.5 h-8 rounded-sm px-2.5 text-[13px] bg-background/95 backdrop-blur-sm text-foreground hover:bg-background shadow-sm\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-external-link h-3.5 w-3.5 mr-1.5\" aria-hidden=\"true\"><path d=\"M15 3h6v6\"></path><path d=\"M10 14 21 3\"></path><path d=\"M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6\"></path></svg>Live Preview</a><a data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap font-medium transition-[box-shadow,transform,opacity] duration-200 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive gap-1.5 has-[&gt;svg]:px-2.5 h-8 rounded-sm px-2.5 text-[13px] bg-background/95 backdrop-blur-sm text-foreground hover:bg-background shadow-sm\" href=\"/docs/templates/finance-landing\">View Details</a></div><div class=\"absolute top-1 left-1 flex items-center gap-1.5\"><div class=\"bg-black/70 backdrop-blur-sm rounded-sm p-1.5\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-lock h-3.5 w-3.5 text-white\" aria-hidden=\"true\"><rect width=\"18\" height=\"11\" x=\"3\" y=\"11\" rx=\"2\" ry=\"2\"></rect><path d=\"M7 11V7a5 5 0 0 1 10 0v4\"></path></svg></div></div></div></div><div clas"
+  },
+  {
+    "text": [
+      "Live Preview",
+      "View Details",
+      "AI SaaS",
+      "AI product landing page with a fluid cursor",
+      "Buy Template ($49)",
+      "Or Unlock All"
+    ],
+    "imgs": [],
+    "videos": [
+      {
+        "src": "https://cdn.reactbits.dev/ai-saas-preview.mp4",
+        "poster": null,
+        "cls": "w-full h-full object-cover transition-opacity duration-300 o"
+      }
+    ],
+    "sources": [
+      "https://cdn.reactbits.dev/ai-saas-preview.mp4"
+    ],
+    "links": [
+      {
+        "href": "https://rbp-ai-saas-template.vercel.app/",
+        "text": "Live Preview"
+      },
+      {
+        "href": "/docs/templates/ai-saas-landing",
+        "text": "View Details"
+      },
+      {
+        "href": "https://buy.polar.sh/polar_cl_7GHi3zQ6TRNfpKbVCYs827HCfPStEhO5ygCrQ03QuoP?utm_source=pro.reactbits.dev&utm_medium=website&utm_campaign=pro-conversion&utm_content=template-catalog-ai-saas-landing",
+        "text": "Buy Template ($49)"
+      },
+      {
+        "href": "/#pricing",
+        "text": "Or Unlock All"
+      }
+    ],
+    "className": "group relative flex flex-col rounded-xl border bg-muted/50 overflow-hidden transition-all hover:shadow-lg hover:border-primary/20",
+    "tag": "div",
+    "html": "<div class=\"group relative flex flex-col rounded-xl border bg-muted/50 overflow-hidden transition-all hover:shadow-lg hover:border-primary/20\"><div class=\"p-1\"><div class=\"relative aspect-video bg-muted overflow-hidden rounded-lg border\"><div class=\"pointer-events-none absolute right-2 top-2 z-10 opacity-0 transition-opacity duration-150 group-hover:pointer-events-auto group-hover:opacity-100 focus-within:pointer-events-auto focus-within:opacity-100 [@media(hover:none)]:pointer-events-auto [@media(hover:none)]:opacity-100\"><button type=\"button\" title=\"Sign in to save items\" aria-label=\"Sign in to save items\" class=\"inline-flex items-center justify-center gap-2 rounded-lg border text-muted-foreground transition-colors hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring size-7 rounded-nest-8 border-border bg-background/80 shadow-sm backdrop-blur hover:bg-background cursor-pointer\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-bookmark size-4 shrink-0\" aria-hidden=\"true\"><path d=\"m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z\"></path></svg></button></div><video class=\"w-full h-full object-cover transition-opacity duration-300 opacity-100\" loop=\"\" muted=\"\" playsinline=\"\" preload=\"auto\"><source src=\"https://cdn.reactbits.dev/ai-saas-preview.mp4\" type=\"video/mp4\"></video><div class=\"absolute inset-x-1 bottom-1 flex items-center gap-1.5 opacity-100 md:opacity-0 md:group-hover:opacity-100 transition-opacity duration-200\"><a href=\"https://rbp-ai-saas-template.vercel.app/\" target=\"_blank\" rel=\"noopener noreferrer\" data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap font-medium transition-[box-shadow,transform,opacity] duration-200 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive gap-1.5 has-[&gt;svg]:px-2.5 h-8 rounded-sm px-2.5 text-[13px] bg-background/95 backdrop-blur-sm text-foreground hover:bg-background shadow-sm\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-external-link h-3.5 w-3.5 mr-1.5\" aria-hidden=\"true\"><path d=\"M15 3h6v6\"></path><path d=\"M10 14 21 3\"></path><path d=\"M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6\"></path></svg>Live Preview</a><a data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap font-medium transition-[box-shadow,transform,opacity] duration-200 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive gap-1.5 has-[&gt;svg]:px-2.5 h-8 rounded-sm px-2.5 text-[13px] bg-background/95 backdrop-blur-sm text-foreground hover:bg-background shadow-sm\" href=\"/docs/templates/ai-saas-landing\">View Details</a></div><div class=\"absolute top-1 left-1 flex items-center gap-1.5\"><div class=\"bg-black/70 backdrop-blur-sm rounded-sm p-1.5\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-lock h-3.5 w-3.5 text-white\" aria-hidden=\"true\"><rect width=\"18\" height=\"11\" x=\"3\" y=\"11\" rx=\"2\" ry=\"2\"></rect><path d=\"M7 11V7a5 5 0 0 1 10 0v4\"></path></svg></div></div></div></div><div clas"
+  },
+  {
+    "text": [
+      "Live Preview",
+      "View Details",
+      "Shader",
+      "Bold landing page with flowing color scenes",
+      "Buy Template ($49)",
+      "Or Unlock All"
+    ],
+    "imgs": [],
+    "videos": [
+      {
+        "src": "https://cdn.reactbits.dev/shader-preview.mp4",
+        "poster": null,
+        "cls": "w-full h-full object-cover transition-opacity duration-300 o"
+      }
+    ],
+    "sources": [
+      "https://cdn.reactbits.dev/shader-preview.mp4"
+    ],
+    "links": [
+      {
+        "href": "https://rbp-shader-template.vercel.app/",
+        "text": "Live Preview"
+      },
+      {
+        "href": "/docs/templates/shader-template",
+        "text": "View Details"
+      },
+      {
+        "href": "https://buy.polar.sh/polar_cl_WATG08yk3EKiQppGKOMhKmDWSYN1zYTtMX0UN1RgYIA?utm_source=pro.reactbits.dev&utm_medium=website&utm_campaign=pro-conversion&utm_content=template-catalog-shader-template",
+        "text": "Buy Template ($49)"
+      },
+      {
+        "href": "/#pricing",
+        "text": "Or Unlock All"
+      }
+    ],
+    "className": "group relative flex flex-col rounded-xl border bg-muted/50 overflow-hidden transition-all hover:shadow-lg hover:border-primary/20",
+    "tag": "div",
+    "html": "<div class=\"group relative flex flex-col rounded-xl border bg-muted/50 overflow-hidden transition-all hover:shadow-lg hover:border-primary/20\"><div class=\"p-1\"><div class=\"relative aspect-video bg-muted overflow-hidden rounded-lg border\"><div class=\"pointer-events-none absolute right-2 top-2 z-10 opacity-0 transition-opacity duration-150 group-hover:pointer-events-auto group-hover:opacity-100 focus-within:pointer-events-auto focus-within:opacity-100 [@media(hover:none)]:pointer-events-auto [@media(hover:none)]:opacity-100\"><button type=\"button\" title=\"Sign in to save items\" aria-label=\"Sign in to save items\" class=\"inline-flex items-center justify-center gap-2 rounded-lg border text-muted-foreground transition-colors hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring size-7 rounded-nest-8 border-border bg-background/80 shadow-sm backdrop-blur hover:bg-background cursor-pointer\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-bookmark size-4 shrink-0\" aria-hidden=\"true\"><path d=\"m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z\"></path></svg></button></div><video class=\"w-full h-full object-cover transition-opacity duration-300 opacity-100\" loop=\"\" muted=\"\" playsinline=\"\" preload=\"auto\"><source src=\"https://cdn.reactbits.dev/shader-preview.mp4\" type=\"video/mp4\"></video><div class=\"absolute inset-x-1 bottom-1 flex items-center gap-1.5 opacity-100 md:opacity-0 md:group-hover:opacity-100 transition-opacity duration-200\"><a href=\"https://rbp-shader-template.vercel.app/\" target=\"_blank\" rel=\"noopener noreferrer\" data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap font-medium transition-[box-shadow,transform,opacity] duration-200 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive gap-1.5 has-[&gt;svg]:px-2.5 h-8 rounded-sm px-2.5 text-[13px] bg-background/95 backdrop-blur-sm text-foreground hover:bg-background shadow-sm\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-external-link h-3.5 w-3.5 mr-1.5\" aria-hidden=\"true\"><path d=\"M15 3h6v6\"></path><path d=\"M10 14 21 3\"></path><path d=\"M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6\"></path></svg>Live Preview</a><a data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap font-medium transition-[box-shadow,transform,opacity] duration-200 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive gap-1.5 has-[&gt;svg]:px-2.5 h-8 rounded-sm px-2.5 text-[13px] bg-background/95 backdrop-blur-sm text-foreground hover:bg-background shadow-sm\" href=\"/docs/templates/shader-template\">View Details</a></div><div class=\"absolute top-1 left-1 flex items-center gap-1.5\"><div class=\"bg-black/70 backdrop-blur-sm rounded-sm p-1.5\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-lock h-3.5 w-3.5 text-white\" aria-hidden=\"true\"><rect width=\"18\" height=\"11\" x=\"3\" y=\"11\" rx=\"2\" ry=\"2\"></rect><path d=\"M7 11V7a5 5 0 0 1 10 0v4\"></path></svg></div></div></div></div><div class="
+  },
+  {
+    "text": [
+      "Live Preview",
+      "View Details",
+      "Wireframe",
+      "Architectural landing page with 3D wireframes",
+      "Buy Template ($49)",
+      "Or Unlock All"
+    ],
+    "imgs": [],
+    "videos": [
+      {
+        "src": "https://cdn.reactbits.dev/wireframe-preview.mp4",
+        "poster": null,
+        "cls": "w-full h-full object-cover transition-opacity duration-300 o"
+      }
+    ],
+    "sources": [
+      "https://cdn.reactbits.dev/wireframe-preview.mp4"
+    ],
+    "links": [
+      {
+        "href": "https://rbp-wireframe-template.vercel.app/",
+        "text": "Live Preview"
+      },
+      {
+        "href": "/docs/templates/wireframe-template",
+        "text": "View Details"
+      },
+      {
+        "href": "https://buy.polar.sh/polar_cl_riNb8tpVFoV7XHNSjCiIoB6RfK8yZvfvEBDED3tVv32?utm_source=pro.reactbits.dev&utm_medium=website&utm_campaign=pro-conversion&utm_content=template-catalog-wireframe-template",
+        "text": "Buy Template ($49)"
+      },
+      {
+        "href": "/#pricing",
+        "text": "Or Unlock All"
+      }
+    ],
+    "className": "group relative flex flex-col rounded-xl border bg-muted/50 overflow-hidden transition-all hover:shadow-lg hover:border-primary/20",
+    "tag": "div",
+    "html": "<div class=\"group relative flex flex-col rounded-xl border bg-muted/50 overflow-hidden transition-all hover:shadow-lg hover:border-primary/20\"><div class=\"p-1\"><div class=\"relative aspect-video bg-muted overflow-hidden rounded-lg border\"><div class=\"pointer-events-none absolute right-2 top-2 z-10 opacity-0 transition-opacity duration-150 group-hover:pointer-events-auto group-hover:opacity-100 focus-within:pointer-events-auto focus-within:opacity-100 [@media(hover:none)]:pointer-events-auto [@media(hover:none)]:opacity-100\"><button type=\"button\" title=\"Sign in to save items\" aria-label=\"Sign in to save items\" class=\"inline-flex items-center justify-center gap-2 rounded-lg border text-muted-foreground transition-colors hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring size-7 rounded-nest-8 border-border bg-background/80 shadow-sm backdrop-blur hover:bg-background cursor-pointer\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-bookmark size-4 shrink-0\" aria-hidden=\"true\"><path d=\"m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z\"></path></svg></button></div><video class=\"w-full h-full object-cover transition-opacity duration-300 opacity-100\" loop=\"\" muted=\"\" playsinline=\"\" preload=\"auto\"><source src=\"https://cdn.reactbits.dev/wireframe-preview.mp4\" type=\"video/mp4\"></video><div class=\"absolute inset-x-1 bottom-1 flex items-center gap-1.5 opacity-100 md:opacity-0 md:group-hover:opacity-100 transition-opacity duration-200\"><a href=\"https://rbp-wireframe-template.vercel.app/\" target=\"_blank\" rel=\"noopener noreferrer\" data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap font-medium transition-[box-shadow,transform,opacity] duration-200 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive gap-1.5 has-[&gt;svg]:px-2.5 h-8 rounded-sm px-2.5 text-[13px] bg-background/95 backdrop-blur-sm text-foreground hover:bg-background shadow-sm\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-external-link h-3.5 w-3.5 mr-1.5\" aria-hidden=\"true\"><path d=\"M15 3h6v6\"></path><path d=\"M10 14 21 3\"></path><path d=\"M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6\"></path></svg>Live Preview</a><a data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap font-medium transition-[box-shadow,transform,opacity] duration-200 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive gap-1.5 has-[&gt;svg]:px-2.5 h-8 rounded-sm px-2.5 text-[13px] bg-background/95 backdrop-blur-sm text-foreground hover:bg-background shadow-sm\" href=\"/docs/templates/wireframe-template\">View Details</a></div><div class=\"absolute top-1 left-1 flex items-center gap-1.5\"><div class=\"bg-black/70 backdrop-blur-sm rounded-sm p-1.5\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-lock h-3.5 w-3.5 text-white\" aria-hidden=\"true\"><rect width=\"18\" height=\"11\" x=\"3\" y=\"11\" rx=\"2\" ry=\"2\"></rect><path d=\"M7 11V7a5 5 0 0 1 10 0v4\"></path></svg></div></div></div></div><d"
+  },
+  {
+    "text": [
+      "Live Preview",
+      "View Details",
+      "Free",
+      "Portfolio",
+      "Free minimal portfolio with case studies",
+      "View on GitHub"
+    ],
+    "imgs": [],
+    "videos": [
+      {
+        "src": "https://cdn.reactbits.dev/portfolio-preview.mp4",
+        "poster": null,
+        "cls": "w-full h-full object-cover transition-opacity duration-300 o"
+      }
+    ],
+    "sources": [
+      "https://cdn.reactbits.dev/portfolio-preview.mp4"
+    ],
+    "links": [
+      {
+        "href": "https://rbp-portfolio.vercel.app/",
+        "text": "Live Preview"
+      },
+      {
+        "href": "/docs/templates/portfolio-template",
+        "text": "View Details"
+      },
+      {
+        "href": "https://github.com/DavidHDev/rbp-portfolio",
+        "text": "View on GitHub"
+      }
+    ],
+    "className": "group relative flex flex-col rounded-xl border bg-muted/50 overflow-hidden transition-all hover:shadow-lg hover:border-primary/20",
+    "tag": "div",
+    "html": "<div class=\"group relative flex flex-col rounded-xl border bg-muted/50 overflow-hidden transition-all hover:shadow-lg hover:border-primary/20\"><div class=\"p-1\"><div class=\"relative aspect-video bg-muted overflow-hidden rounded-lg border\"><div class=\"pointer-events-none absolute right-2 top-2 z-10 opacity-0 transition-opacity duration-150 group-hover:pointer-events-auto group-hover:opacity-100 focus-within:pointer-events-auto focus-within:opacity-100 [@media(hover:none)]:pointer-events-auto [@media(hover:none)]:opacity-100\"><button type=\"button\" title=\"Sign in to save items\" aria-label=\"Sign in to save items\" class=\"inline-flex items-center justify-center gap-2 rounded-lg border text-muted-foreground transition-colors hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring size-7 rounded-nest-8 border-border bg-background/80 shadow-sm backdrop-blur hover:bg-background cursor-pointer\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-bookmark size-4 shrink-0\" aria-hidden=\"true\"><path d=\"m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z\"></path></svg></button></div><video class=\"w-full h-full object-cover transition-opacity duration-300 opacity-100\" loop=\"\" muted=\"\" playsinline=\"\" preload=\"auto\"><source src=\"https://cdn.reactbits.dev/portfolio-preview.mp4\" type=\"video/mp4\"></video><div class=\"absolute inset-x-1 bottom-1 flex items-center gap-1.5 opacity-100 md:opacity-0 md:group-hover:opacity-100 transition-opacity duration-200\"><a href=\"https://rbp-portfolio.vercel.app/\" target=\"_blank\" rel=\"noopener noreferrer\" data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap font-medium transition-[box-shadow,transform,opacity] duration-200 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive gap-1.5 has-[&gt;svg]:px-2.5 h-8 rounded-sm px-2.5 text-[13px] bg-background/95 backdrop-blur-sm text-foreground hover:bg-background shadow-sm\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-external-link h-3.5 w-3.5 mr-1.5\" aria-hidden=\"true\"><path d=\"M15 3h6v6\"></path><path d=\"M10 14 21 3\"></path><path d=\"M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6\"></path></svg>Live Preview</a><a data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap font-medium transition-[box-shadow,transform,opacity] duration-200 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive gap-1.5 has-[&gt;svg]:px-2.5 h-8 rounded-sm px-2.5 text-[13px] bg-background/95 backdrop-blur-sm text-foreground hover:bg-background shadow-sm\" href=\"/docs/templates/portfolio-template\">View Details</a></div><div class=\"absolute top-1 left-1 flex items-center gap-1.5\"><span class=\"inline-flex items-center shrink-0 px-1.5 py-0.5 border border-border/60 bg-background/95 text-[10px] font-medium tracking-tight leading-none text-emerald-700 dark:text-emerald-400 rounded-sm backdrop-blur-sm shadow-sm\">Free</span></div></div></div><div class=\"flex flex-col flex-1 px-4 pt-3 pb-4\"><h3 class=\"text-base font-semibold tracking-tight\">Portfolio</h3><p class=\"mt-1.5 text-sm leading-relaxed text-muted-foreground line-clamp-2\">Fre"
+  },
+  {
+    "text": [
+      "Live Preview",
+      "View Details",
+      "8 Bit",
+      "Retro pixel-art landing page",
+      "Buy Template ($49)",
+      "Or Unlock All"
+    ],
+    "imgs": [],
+    "videos": [
+      {
+        "src": "https://cdn.reactbits.dev/8-bit-preview.mp4",
+        "poster": null,
+        "cls": "w-full h-full object-cover transition-opacity duration-300 o"
+      }
+    ],
+    "sources": [
+      "https://cdn.reactbits.dev/8-bit-preview.mp4"
+    ],
+    "links": [
+      {
+        "href": "https://rbp-8-bit-template.vercel.app/",
+        "text": "Live Preview"
+      },
+      {
+        "href": "/docs/templates/8-bit-template",
+        "text": "View Details"
+      },
+      {
+        "href": "https://buy.polar.sh/polar_cl_YvbM5I7lVJyqYuE3b4BQo4W1p5BEkO9R0GHPJ2d5pne?utm_source=pro.reactbits.dev&utm_medium=website&utm_campaign=pro-conversion&utm_content=template-catalog-8-bit-template",
+        "text": "Buy Template ($49)"
+      },
+      {
+        "href": "/#pricing",
+        "text": "Or Unlock All"
+      }
+    ],
+    "className": "group relative flex flex-col rounded-xl border bg-muted/50 overflow-hidden transition-all hover:shadow-lg hover:border-primary/20",
+    "tag": "div",
+    "html": "<div class=\"group relative flex flex-col rounded-xl border bg-muted/50 overflow-hidden transition-all hover:shadow-lg hover:border-primary/20\"><div class=\"p-1\"><div class=\"relative aspect-video bg-muted overflow-hidden rounded-lg border\"><div class=\"pointer-events-none absolute right-2 top-2 z-10 opacity-0 transition-opacity duration-150 group-hover:pointer-events-auto group-hover:opacity-100 focus-within:pointer-events-auto focus-within:opacity-100 [@media(hover:none)]:pointer-events-auto [@media(hover:none)]:opacity-100\"><button type=\"button\" title=\"Sign in to save items\" aria-label=\"Sign in to save items\" class=\"inline-flex items-center justify-center gap-2 rounded-lg border text-muted-foreground transition-colors hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring size-7 rounded-nest-8 border-border bg-background/80 shadow-sm backdrop-blur hover:bg-background cursor-pointer\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-bookmark size-4 shrink-0\" aria-hidden=\"true\"><path d=\"m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z\"></path></svg></button></div><video class=\"w-full h-full object-cover transition-opacity duration-300 opacity-100\" loop=\"\" muted=\"\" playsinline=\"\" preload=\"auto\"><source src=\"https://cdn.reactbits.dev/8-bit-preview.mp4\" type=\"video/mp4\"></video><div class=\"absolute inset-x-1 bottom-1 flex items-center gap-1.5 opacity-100 md:opacity-0 md:group-hover:opacity-100 transition-opacity duration-200\"><a href=\"https://rbp-8-bit-template.vercel.app/\" target=\"_blank\" rel=\"noopener noreferrer\" data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap font-medium transition-[box-shadow,transform,opacity] duration-200 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive gap-1.5 has-[&gt;svg]:px-2.5 h-8 rounded-sm px-2.5 text-[13px] bg-background/95 backdrop-blur-sm text-foreground hover:bg-background shadow-sm\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-external-link h-3.5 w-3.5 mr-1.5\" aria-hidden=\"true\"><path d=\"M15 3h6v6\"></path><path d=\"M10 14 21 3\"></path><path d=\"M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6\"></path></svg>Live Preview</a><a data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap font-medium transition-[box-shadow,transform,opacity] duration-200 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive gap-1.5 has-[&gt;svg]:px-2.5 h-8 rounded-sm px-2.5 text-[13px] bg-background/95 backdrop-blur-sm text-foreground hover:bg-background shadow-sm\" href=\"/docs/templates/8-bit-template\">View Details</a></div><div class=\"absolute top-1 left-1 flex items-center gap-1.5\"><div class=\"bg-black/70 backdrop-blur-sm rounded-sm p-1.5\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-lock h-3.5 w-3.5 text-white\" aria-hidden=\"true\"><rect width=\"18\" height=\"11\" x=\"3\" y=\"11\" rx=\"2\" ry=\"2\"></rect><path d=\"M7 11V7a5 5 0 0 1 10 0v4\"></path></svg></div></div></div></div><div class=\"fl"
+  },
+  {
+    "text": [
+      "Live Preview",
+      "View Details",
+      "AI App",
+      "App landing page with a phone walkthrough",
+      "Buy Template ($49)",
+      "Or Unlock All"
+    ],
+    "imgs": [],
+    "videos": [
+      {
+        "src": "https://cdn.reactbits.dev/ai-app-preview.mp4",
+        "poster": null,
+        "cls": "w-full h-full object-cover transition-opacity duration-300 o"
+      }
+    ],
+    "sources": [
+      "https://cdn.reactbits.dev/ai-app-preview.mp4"
+    ],
+    "links": [
+      {
+        "href": "https://rbp-ai-app-template.vercel.app/",
+        "text": "Live Preview"
+      },
+      {
+        "href": "/docs/templates/ai-app-template",
+        "text": "View Details"
+      },
+      {
+        "href": "https://buy.polar.sh/polar_cl_qL7edVhssVnUW3gw0TmesSLWx2Tjvhi4wqbR11GvAnn?utm_source=pro.reactbits.dev&utm_medium=website&utm_campaign=pro-conversion&utm_content=template-catalog-ai-app-template",
+        "text": "Buy Template ($49)"
+      },
+      {
+        "href": "/#pricing",
+        "text": "Or Unlock All"
+      }
+    ],
+    "className": "group relative flex flex-col rounded-xl border bg-muted/50 overflow-hidden transition-all hover:shadow-lg hover:border-primary/20",
+    "tag": "div",
+    "html": "<div class=\"group relative flex flex-col rounded-xl border bg-muted/50 overflow-hidden transition-all hover:shadow-lg hover:border-primary/20\"><div class=\"p-1\"><div class=\"relative aspect-video bg-muted overflow-hidden rounded-lg border\"><div class=\"pointer-events-none absolute right-2 top-2 z-10 opacity-0 transition-opacity duration-150 group-hover:pointer-events-auto group-hover:opacity-100 focus-within:pointer-events-auto focus-within:opacity-100 [@media(hover:none)]:pointer-events-auto [@media(hover:none)]:opacity-100\"><button type=\"button\" title=\"Sign in to save items\" aria-label=\"Sign in to save items\" class=\"inline-flex items-center justify-center gap-2 rounded-lg border text-muted-foreground transition-colors hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring size-7 rounded-nest-8 border-border bg-background/80 shadow-sm backdrop-blur hover:bg-background cursor-pointer\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-bookmark size-4 shrink-0\" aria-hidden=\"true\"><path d=\"m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z\"></path></svg></button></div><video class=\"w-full h-full object-cover transition-opacity duration-300 opacity-100\" loop=\"\" muted=\"\" playsinline=\"\" preload=\"auto\"><source src=\"https://cdn.reactbits.dev/ai-app-preview.mp4\" type=\"video/mp4\"></video><div class=\"absolute inset-x-1 bottom-1 flex items-center gap-1.5 opacity-100 md:opacity-0 md:group-hover:opacity-100 transition-opacity duration-200\"><a href=\"https://rbp-ai-app-template.vercel.app/\" target=\"_blank\" rel=\"noopener noreferrer\" data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap font-medium transition-[box-shadow,transform,opacity] duration-200 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive gap-1.5 has-[&gt;svg]:px-2.5 h-8 rounded-sm px-2.5 text-[13px] bg-background/95 backdrop-blur-sm text-foreground hover:bg-background shadow-sm\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-external-link h-3.5 w-3.5 mr-1.5\" aria-hidden=\"true\"><path d=\"M15 3h6v6\"></path><path d=\"M10 14 21 3\"></path><path d=\"M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6\"></path></svg>Live Preview</a><a data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap font-medium transition-[box-shadow,transform,opacity] duration-200 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive gap-1.5 has-[&gt;svg]:px-2.5 h-8 rounded-sm px-2.5 text-[13px] bg-background/95 backdrop-blur-sm text-foreground hover:bg-background shadow-sm\" href=\"/docs/templates/ai-app-template\">View Details</a></div><div class=\"absolute top-1 left-1 flex items-center gap-1.5\"><div class=\"bg-black/70 backdrop-blur-sm rounded-sm p-1.5\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-lock h-3.5 w-3.5 text-white\" aria-hidden=\"true\"><rect width=\"18\" height=\"11\" x=\"3\" y=\"11\" rx=\"2\" ry=\"2\"></rect><path d=\"M7 11V7a5 5 0 0 1 10 0v4\"></path></svg></div></div></div></div><div class="
+  },
+  {
+    "text": [
+      "Live Preview",
+      "View Details",
+      "Security",
+      "Dark security landing page with ASCII art",
+      "Buy Template ($49)",
+      "Or Unlock All"
+    ],
+    "imgs": [],
+    "videos": [
+      {
+        "src": "https://cdn.reactbits.dev/security-preview.mp4",
+        "poster": null,
+        "cls": "w-full h-full object-cover transition-opacity duration-300 o"
+      }
+    ],
+    "sources": [
+      "https://cdn.reactbits.dev/security-preview.mp4"
+    ],
+    "links": [
+      {
+        "href": "https://rbp-security-template.vercel.app/",
+        "text": "Live Preview"
+      },
+      {
+        "href": "/docs/templates/security-template",
+        "text": "View Details"
+      },
+      {
+        "href": "https://buy.polar.sh/polar_cl_InEx9Ps0QmnMvfKWbiNu59VxEevRw4Gt0QpG51BOeQl?utm_source=pro.reactbits.dev&utm_medium=website&utm_campaign=pro-conversion&utm_content=template-catalog-security-template",
+        "text": "Buy Template ($49)"
+      },
+      {
+        "href": "/#pricing",
+        "text": "Or Unlock All"
+      }
+    ],
+    "className": "group relative flex flex-col rounded-xl border bg-muted/50 overflow-hidden transition-all hover:shadow-lg hover:border-primary/20",
+    "tag": "div",
+    "html": "<div class=\"group relative flex flex-col rounded-xl border bg-muted/50 overflow-hidden transition-all hover:shadow-lg hover:border-primary/20\"><div class=\"p-1\"><div class=\"relative aspect-video bg-muted overflow-hidden rounded-lg border\"><div class=\"pointer-events-none absolute right-2 top-2 z-10 opacity-0 transition-opacity duration-150 group-hover:pointer-events-auto group-hover:opacity-100 focus-within:pointer-events-auto focus-within:opacity-100 [@media(hover:none)]:pointer-events-auto [@media(hover:none)]:opacity-100\"><button type=\"button\" title=\"Sign in to save items\" aria-label=\"Sign in to save items\" class=\"inline-flex items-center justify-center gap-2 rounded-lg border text-muted-foreground transition-colors hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring size-7 rounded-nest-8 border-border bg-background/80 shadow-sm backdrop-blur hover:bg-background cursor-pointer\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-bookmark size-4 shrink-0\" aria-hidden=\"true\"><path d=\"m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z\"></path></svg></button></div><video class=\"w-full h-full object-cover transition-opacity duration-300 opacity-100\" loop=\"\" muted=\"\" playsinline=\"\" preload=\"auto\"><source src=\"https://cdn.reactbits.dev/security-preview.mp4\" type=\"video/mp4\"></video><div class=\"absolute inset-x-1 bottom-1 flex items-center gap-1.5 opacity-100 md:opacity-0 md:group-hover:opacity-100 transition-opacity duration-200\"><a href=\"https://rbp-security-template.vercel.app/\" target=\"_blank\" rel=\"noopener noreferrer\" data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap font-medium transition-[box-shadow,transform,opacity] duration-200 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive gap-1.5 has-[&gt;svg]:px-2.5 h-8 rounded-sm px-2.5 text-[13px] bg-background/95 backdrop-blur-sm text-foreground hover:bg-background shadow-sm\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-external-link h-3.5 w-3.5 mr-1.5\" aria-hidden=\"true\"><path d=\"M15 3h6v6\"></path><path d=\"M10 14 21 3\"></path><path d=\"M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6\"></path></svg>Live Preview</a><a data-slot=\"button\" class=\"inline-flex items-center justify-center whitespace-nowrap font-medium transition-[box-shadow,transform,opacity] duration-200 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive gap-1.5 has-[&gt;svg]:px-2.5 h-8 rounded-sm px-2.5 text-[13px] bg-background/95 backdrop-blur-sm text-foreground hover:bg-background shadow-sm\" href=\"/docs/templates/security-template\">View Details</a></div><div class=\"absolute top-1 left-1 flex items-center gap-1.5\"><div class=\"bg-black/70 backdrop-blur-sm rounded-sm p-1.5\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-lock h-3.5 w-3.5 text-white\" aria-hidden=\"true\"><rect width=\"18\" height=\"11\" x=\"3\" y=\"11\" rx=\"2\" ry=\"2\"></rect><path d=\"M7 11V7a5 5 0 0 1 10 0v4\"></path></svg></div></div></div></div><div "
+  }
+]

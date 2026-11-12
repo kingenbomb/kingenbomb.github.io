@@ -1,0 +1,895 @@
+Library
+Resources
+Agents
+Pricing
+Search...
+⌘
+K
+Sign In
+Get Lifetime Access
+Components
+230
+Get Started
+Introduction
+Installation
+MCP Server
+Saved
+Browse
+All Components
+80 New
+Text
+34
+3D Letter Swap
+3D Text Reveal
+ASCII Ripple
+Bending Marquee
+Blur Highlight
+Cipher Reveal
+New
+Domino Lettering
+New
+Elastic Lettering
+New
+Ghost Type
+New
+Glitch Text
+Glyph Lottery
+New
+Gravity Letters
+New
+Label Orbit
+New
+Luminous Type
+New
+Mesh Lettering
+New
+Orbital Type
+New
+Particle Text
+Ribbon Type
+New
+Rising Ink
+New
+Shatter Type
+New
+Signal Type
+New
+Smoke Type
+New
+Speeding Text
+Spring Lettering
+New
+Staggered Text
+Stipple Type
+New
+Tessera Trail
+New
+Text Cube
+Text Morph
+New
+Text Path
+Text Scatter
+Typographic Wall
+New
+Vapor Type
+New
+Wave Lettering
+New
+Backgrounds
+98
+ASCII Tiles
+Ascii Waves
+Astral Shell
+New
+Aura Blob
+Aurora Beam
+Aurora Blur
+Axial Beam
+New
+Binary Orbits
+New
+Black Hole
+Blinking Dots
+Blinking Squares
+Blurred Rays
+Chroma Blinds
+Chroma Current
+New
+Chroma Waves
+Cloud Atlas
+New
+Color Loops
+Concentric Tides
+New
+Contour Tide
+New
+Dappled Light
+New
+Dither Wave
+Dot Shift
+Eclipse
+Fading Stars
+New
+Falling Rays
+Flame Paths
+Fog Sphere
+Glass Flow
+Glass Tiles
+Glimmer Wrap
+New
+Glitter Warp
+Glowing Ridges
+Glowing Wave
+Glue Dots
+Glyph Ember
+New
+Glyph Orb
+New
+Glyph Sonar
+New
+Glyph Tide
+New
+Gradient Bars
+Grain Wave
+Halftone Vortex
+Halftone Wave
+Hexagonal Vault
+New
+Horizon Bloom
+New
+Interference Ribbons
+New
+Landscape
+Light Droplets
+Lightspeed
+Liquid Bars
+Liquid Lines
+Long Exposure
+Luminous Filaments
+New
+Metallic Swirl
+Minimal Ripple
+Mosaic
+Mosaic Waves
+Neon Reveal
+Neural Flash
+Neural Float
+Neural Tunnel
+Nexus Rays
+New
+Perspective Grid
+Photon Knot
+New
+Pixel Rain
+Prismatic Slats
+New
+Radial Liquid
+Ravine
+Retro Lines
+Ring Field
+New
+Rising Lines
+Rising Particles
+Rolling Blinds
+Rotating Stars
+Rubber Fluid
+Satin Ridges
+New
+Shader Waves
+Shadow Bars
+Silk Waves
+Simple Swirl
+Specter Orb
+Spectral Clouds
+Spectral Drape
+New
+Spiral Funnel
+New
+Square Matrix
+Squares Terminal
+Squircle Shift
+Star Swipe
+Swirl Blend
+Synaptic Shift
+Tech Wall
+Terminal Rain
+New
+Thinking Dots
+Twilight Lines
+Vortex
+Voxel Arc
+New
+Warp Twister
+Watercolor
+Wireframe Ball
+3D & Shaders
+49
+Agentic Ball
+AI Blob
+Album Rail
+New
+Bend Gallery
+Chrome Orbit
+New
+Circle Stack
+Concave Carousel
+New
+Constellation Gallery
+New
+Contact Sheet
+New
+Depth Card
+Depth Image
+Depth Ribbon
+New
+Device
+Dolly Gallery
+Elastic Reel
+New
+Elastic Sticker
+New
+Ember Reveal
+New
+Expanding Grid
+New
+Frame Border
+Glass Reveal
+Globe
+Gradient Blob
+Helix Gallery
+New
+Infinite Gallery
+Inverted Dome
+Iris Gallery
+New
+Lenticular Carousel
+Momentum Ring
+New
+Page Flip
+Parallax Carousel
+Particle Image
+Particle Morph
+Passage Gallery
+New
+Pixel Reveal
+Pixel Sculpt
+Pixelate Hover
+Pond Image
+New
+Portal
+Prism Carousel
+New
+Rotating Cards
+Scroll Bend
+New
+Scroll Portal
+Shader Card
+Shader Reveal
+Spin Shutter
+New
+Star Burst
+Tumble Carousel
+Twisting Gallery
+Warped Card
+Cursor Effects
+21
+Arc Cursor
+New
+Ascii Cursor
+Celebration Cursor
+New
+Chroma Halo
+New
+Cursor Wave
+Custom Cursor
+Dither Cursor
+Drafting Cursor
+New
+Glass Cursor
+Glyph Stream
+New
+Grid Rise
+Gyroscope Cursor
+New
+Liquid Ascii
+Parallax Pills
+Pigment Trail
+New
+Pixel Magnet
+Ribbon Trail
+New
+Smooth Cursor
+Snapshot Trail
+New
+Stardust Cursor
+New
+User Cursor
+UI & Cards
+28
+Animated List
+Card Spread
+Center Flow
+Chroma Card
+Circle Gallery
+Circles
+Click Stack
+Comparison Slider
+Credit Card
+Draggable Grid
+Frame Scrub
+Gradient Carousel
+Hover Preview
+Liquid Swap
+Loupe Image
+New
+Magic Transform
+Modal Cards
+Orbit Reel
+New
+Parallax Cards
+Preloader
+Reel Gallery
+Scroll Mask
+Scroll Stack
+Simple Graph
+Skewed Carousel
+Tile Reveal
+Tilted Tiles
+Tumble Wall
+New
+Components
+
+230 production-ready React components. Browse by category, search by name, or sort to find what you need.
+
+Newest
+A–Z
+Z–A
+All
+230
+New
+80
+Text
+34
+Backgrounds
+98
+3D & Shaders
+49
+Cursor Effects
+21
+UI & Cards
+28
+
+Showing 230 of 230
+
+New
+Spectral Drape
+
+A glowing drape of dots folding in 3D
+
+New
+Horizon Bloom
+
+A sunrise breaking over the glowing edge of a dark planet
+
+New
+Photon Knot
+
+A translucent ribbon of light tied into a slowly turning knot
+
+New
+Axial Beam
+
+Soft rays of light rising from beyond the frame
+
+New
+Nexus Rays
+
+Laser beams radiating from a glowing core
+
+New
+Hexagonal Vault
+
+A hexagon grid lit by a soft light that follows the cursor
+
+New
+Prismatic Slats
+
+Colored liquid refracted through fluted glass
+
+New
+Luminous Filaments
+
+Glowing fibers fanning out from a bright source
+
+New
+Interference Ribbons
+
+A ribbon of fine glowing wires drifting and twisting
+
+New
+Voxel Arc
+
+A curved horizon of square voxels rolling like a calm sea
+
+New
+Chroma Current
+
+Currents of light flowing across a grid of glowing dots
+
+New
+Cloud Atlas
+
+Billowing clouds you can push around like wind
+
+New
+Satin Ridges
+
+Flowing satin folds catching soft highlights
+
+New
+Concentric Tides
+
+Fine glowing arcs pinching into a bright hourglass
+
+New
+Contour Tide
+
+An ocean of particles rolling in waves
+
+New
+Spiral Funnel
+
+Fine threads of light spiraling up a turning vortex
+
+New
+Astral Shell
+
+A slowly turning globe of connected stars
+
+New
+Binary Orbits
+
+A tilted spiral galaxy of stars streaming through its arms
+
+New
+Glyph Tide
+
+An ASCII tide that floods and drains the shore
+
+New
+Terminal Rain
+
+Streams of glowing glyphs raining down in layered columns
+
+New
+Glyph Ember
+
+ASCII fire licking up from a white-hot bed of glyphs
+
+New
+Glyph Orb
+
+A banded ASCII planet turning slowly in the light of a distant sun
+
+New
+Glyph Sonar
+
+Sonar pings sweeping a field of glyphs, lighting up drifting shoals
+
+New
+Elastic Lettering
+
+A headline you can grab, stretch and fling like an elastic band
+
+New
+Signal Type
+
+A headline that flickers on like a neon sign
+
+New
+Spring Lettering
+
+Letters that lean after the cursor on springs
+
+New
+Smoke Type
+
+A headline that condenses out of drifting smoke, letter by letter
+
+New
+Rising Ink
+
+Letters that lift off the page in 3D near the cursor
+
+New
+Domino Lettering
+
+Letters that topple like dominoes and rebuild
+
+New
+Glyph Lottery
+
+Letters that spin like slot reels and lock into a headline
+
+New
+Cipher Reveal
+
+A headline that decodes out of scrambled characters
+
+New
+Luminous Type
+
+A drifting spotlight that brings dimmed text into the light
+
+New
+Orbital Type
+
+A turning globe wrapped in rings of text you can spin by hand
+
+New
+Gravity Letters
+
+A headline of glyph sand you can slice; cut pieces fall, shatter and pour back
+
+New
+Wave Lettering
+
+A sea of text lines rolling in soft swells, in and out of focus
+
+New
+Mesh Lettering
+
+A headline cut from silk that ripples in a slow breeze and billows at your touch
+
+New
+Stipple Type
+
+A marbled-ink headline that swirls and breaks into stipple as you stir it
+
+New
+Vapor Type
+
+Words that condense out of vapor and drift away
+
+New
+Typographic Wall
+
+A wall of scrambling glyphs that decodes scattered words, line by line
+
+New
+Passage Gallery
+
+A tunnel of photos you glide through
+
+New
+Constellation Gallery
+
+Photo cards that flow between rings, spirals and globes
+
+New
+Concave Carousel
+
+A gallery wall that curves around the viewer
+
+New
+Orbit Reel
+
+A turning wheel of cards that sweeps into an arc
+
+New
+Depth Ribbon
+
+A ribbon of images winding through 3D space
+
+New
+Prism Carousel
+
+A coverflow that sweeps color into each new image
+
+New
+Iris Gallery
+
+An oval of photos that turns into an iris
+
+New
+Album Rail
+
+A fan of album sleeves, each with a record tucked inside
+
+New
+Expanding Grid
+
+A portrait grid that magnifies faces under the cursor
+
+New
+Contact Sheet
+
+Photos streaming out of the center, developing like prints
+
+New
+Elastic Reel
+
+A dock of photo slices that swell open into full images
+
+New
+Momentum Ring
+
+A ring of photos that blurs as it spins and clicks into place
+
+New
+Spin Shutter
+
+An orbit of photos that spins open and pulls focus where you point
+
+New
+Helix Gallery
+
+Photos spiraling out from a dense core
+
+New
+Chrome Orbit
+
+Nested chrome rings that turn like a gyroscope and swing into a halo on click
+
+New
+Chroma Halo
+
+Soft ink that blooms behind the cursor
+
+New
+Drafting Cursor
+
+Hairline crosshairs with edge rulers, a coordinate readout and drag-to-measure
+
+New
+Glyph Stream
+
+A liquid stream of glyph tiles that pours after the cursor and splashes on click
+
+New
+Dappled Light
+
+Sunlight falling through swaying leaves onto a wall
+
+New
+Shatter Type
+
+A headline cut into glass shards that assemble, crack under the cursor and shatter on click
+
+New
+Ribbon Trail
+
+A gymnast's ribbon that trails the cursor
+
+New
+Stardust Cursor
+
+Fine dust carried on a fluid wake behind the cursor, with a mushroom puff on click
+
+New
+Pigment Trail
+
+An ink brush that paints behind the cursor
+
+New
+Arc Cursor
+
+A crackling electric arc that trails the cursor
+
+New
+Gyroscope Cursor
+
+An arrow cursor that turns toward where it moves
+
+New
+Label Orbit
+
+A label that becomes the cursor and trails a 3D stack
+
+New
+Tessera Trail
+
+A cursor trail of bouncy letter tiles
+
+New
+Celebration Cursor
+
+Tumbling paper confetti that spills from the cursor and bursts on click
+
+New
+Snapshot Trail
+
+A cursor trail of photos that lean, toss and settle like prints
+
+New
+Elastic Sticker
+
+A sticker you can peel off the page and paste back
+
+New
+Glimmer Wrap
+
+A field of fine glints drifting past, flashing as they catch the light
+
+New
+Ribbon Type
+
+Text printed on satin ribbons that twist and wave through 3D space
+
+New
+Ghost Type
+
+A headline that writes itself with AI-style ghost completions
+
+New
+Text Morph
+
+Words that morph letter by letter, with shared letters gliding into place
+
+New
+Tumble Wall
+
+A pile of photos, avatars or tags that rains in and can be thrown around
+
+New
+Loupe Image
+
+A loupe that glides over a photo and magnifies its finest details
+
+New
+Ember Reveal
+
+A burning hole that reveals the next image
+
+New
+Pond Image
+
+A photo you can stir like liquid
+
+New
+Fading Stars
+
+Stars rising from beyond the frame on trails that fade behind them
+
+New
+Ring Field
+
+Wavy rings of fine dust drifting outward from a dark center
+
+New
+Scroll Bend
+
+A strip of images that bulges or pinches with your scroll speed
+
+Staggered Text
+
+Text that staggers in by letter, word or line
+
+Glitch Text
+
+Text that glitches under the cursor
+
+Smooth Cursor
+
+A smooth, springy trail that follows the cursor
+
+Text Path
+
+Text that flows along a curved path
+
+3D Text Reveal
+
+Lines of text turning on a 3D cylinder as you scroll
+
+Particle Text
+
+Text made of particles that scatter from the cursor
+
+Text Scatter
+
+Letters that scatter on hover and fall back into place
+
+3D Letter Swap
+
+Letters that flip in 3D to swap on hover
+
+Custom Cursor
+
+A ring and dot cursor that morphs around hovered items
+
+Blur Highlight
+
+A paragraph that blurs in and highlights key phrases
+
+Globe
+
+A dotted 3D globe with animated arcs
+
+Rotating Cards
+
+A draggable ring of cards rotating in 3D
+
+Draggable Grid
+
+A grid you can drag around with smooth momentum
+
+Comparison Slider
+
+A before and after image slider
+
+Shader Reveal
+
+A liquid cursor trail that reveals a second image
+
+Device
+
+A studio-lit 3D phone mockup that frames any image or content
+
+Simple Graph
+
+A smooth animated line graph
+
+Credit Card
+
+A credit card that tilts in 3D on hover
+
+Circle Gallery
+
+A draggable circle of images that spins with inertia
+
+AI Blob
+
+A glowing glass orb that listens, thinks and speaks with your AI
+
+Gradient Carousel
+
+A 3D carousel that tints the background from each card
+
+Circles
+
+Rings of images orbiting a center
+
+Shader Card
+
+A content card with a luminous flame rising behind it
+
+Preloader
+
+Loading screens in five styles
+
+Hover Preview
+
+Words that show an image preview on hover
+
+Modal Cards
+
+Cards that expand into full-screen modals
+
+Pixelate Hover
+
+An image that pixelates or sharpens under the cursor
+
+Animated List
+
+A live feed where new items animate into the list
+
+Neon Reveal
+
+A neon tube that lights up and reveals the content below
+
+Depth Card
+
+A card that tilts with depth as the cursor moves
+
+Liquid Swap
+
+Images that swap through a liquid glass ball
+
+Parallax Cards
+
+Layered cards that shift in depth with the cursor
+
+Perspective Grid
+
+An endless grid scrolling toward the horizon
+

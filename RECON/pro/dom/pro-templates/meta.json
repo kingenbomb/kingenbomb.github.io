@@ -1,0 +1,85 @@
+{
+  "url": "https://pro.reactbits.dev/docs/templates",
+  "title": "Templates | React Bits Pro",
+  "bodyClasses": "font-sans antialiased overflow-x-hidden",
+  "htmlAttrs": [
+    [
+      "lang",
+      "en"
+    ],
+    [
+      "class",
+      "__variable_571da3 __variable_1f9804 __variable_62543b __variable_28e7ef __variable_dc503e __variable_5c3227 __variable_4845c7 dark"
+    ],
+    [
+      "style",
+      "color-scheme: dark; --nav-height: 73px;"
+    ]
+  ],
+  "cssHrefs": [
+    "/_next/static/css/fdc444f4becfd45a.css?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "/_next/static/css/fcd00b873d8f6354.css?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW"
+  ],
+  "videos": [
+    {
+      "src": "https://cdn.reactbits.dev/agentframe-preview.mp4",
+      "poster": null
+    },
+    {
+      "src": "https://cdn.reactbits.dev/cloudlight-preview.mp4",
+      "poster": null
+    },
+    {
+      "src": "https://cdn.reactbits.dev/imageworks-preview.mp4",
+      "poster": null
+    },
+    {
+      "src": "https://cdn.reactbits.dev/sparkdesign-preview.mp4?v=43adf98df082b4d0e406d0952940143c",
+      "poster": null
+    },
+    {
+      "src": "https://cdn.reactbits.dev/saas-preview.mp4",
+      "poster": null
+    },
+    {
+      "src": "https://cdn.reactbits.dev/minimal-preview.mp4",
+      "poster": null
+    },
+    {
+      "src": "https://cdn.reactbits.dev/agency-preview.mp4",
+      "poster": null
+    },
+    {
+      "src": "https://cdn.reactbits.dev/finance-preview.mp4",
+      "poster": null
+    },
+    {
+      "src": "https://cdn.reactbits.dev/ai-saas-preview.mp4",
+      "poster": null
+    },
+    {
+      "src": "https://cdn.reactbits.dev/shader-preview.mp4",
+      "poster": null
+    },
+    {
+      "src": "https://cdn.reactbits.dev/wireframe-preview.mp4",
+      "poster": null
+    },
+    {
+      "src": "https://cdn.reactbits.dev/portfolio-preview.mp4",
+      "poster": null
+    },
+    {
+      "src": "https://cdn.reactbits.dev/8-bit-preview.mp4",
+      "poster": null
+    },
+    {
+      "src": "https://cdn.reactbits.dev/ai-app-preview.mp4",
+      "poster": null
+    },
+    {
+      "src": "https://cdn.reactbits.dev/security-preview.mp4",
+      "poster": null
+    }
+  ]
+}

@@ -1,0 +1,839 @@
+{
+ "introduction": [
+  {
+   "type": "h1",
+   "text": "Introduction"
+  },
+  {
+   "type": "p",
+   "text": "The interfaces people remember take weeks to build. React Bits Pro gives you the pieces, the tooling to assemble them, and the instructions your AI agent needs to do it for you.",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "230"
+  },
+  {
+   "type": "p",
+   "text": "Animated components"
+  },
+  {
+   "type": "p",
+   "text": "300"
+  },
+  {
+   "type": "p",
+   "text": "Marketing blocks"
+  },
+  {
+   "type": "p",
+   "text": "300"
+  },
+  {
+   "type": "p",
+   "text": "Application UI blocks"
+  },
+  {
+   "type": "p",
+   "text": "15"
+  },
+  {
+   "type": "p",
+   "text": "Full templates"
+  },
+  {
+   "type": "h2",
+   "text": "The library"
+  },
+  {
+   "type": "p",
+   "text": "Four collections, one registry. Install any of them with a single command.",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "All plans"
+  },
+  {
+   "type": "h3",
+   "text": "Components"
+  },
+  {
+   "type": "p",
+   "text": "230 animated primitives, text effects, backgrounds, WebGL. Tailwind or vanilla CSS, your pick.",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "Pro & Ultimate"
+  },
+  {
+   "type": "h3",
+   "text": "Blocks"
+  },
+  {
+   "type": "p",
+   "text": "300 marketing sections across 22 categories. Heroes, pricing, features, FAQ, footers.",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "Pro & Ultimate"
+  },
+  {
+   "type": "h3",
+   "text": "Application UI"
+  },
+  {
+   "type": "p",
+   "text": "300 blocks of real product chrome: app shells, data tables, dashboards, settings, AI surfaces. Two styles, Default and Sorbet.",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "Ultimate"
+  },
+  {
+   "type": "h3",
+   "text": "Templates"
+  },
+  {
+   "type": "p",
+   "text": "15 complete landing pages, designed end to end and ready to deploy.",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "New drops every month, included with your license. The code is copied into your repo, so it is yours the moment it lands.",
+   "href": null
+  },
+  {
+   "type": "h2",
+   "text": "Two ways to skip the assembly"
+  },
+  {
+   "type": "p",
+   "text": "Having the pieces is half of it. These put the page together.",
+   "href": null
+  },
+  {
+   "type": "h3",
+   "text": "Agent Kit"
+  },
+  {
+   "type": "p",
+   "text": "Pro & Ultimate"
+  },
+  {
+   "type": "p",
+   "text": "Your agent writes the page, you review it. Hand it a design skill for the look, a prompt for the vertical, and a recipe that names the exact blocks to assemble.",
+   "href": null
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "8 complete design skills files for your agent",
+    "8 detailed page prompts covering different niches",
+    "3 full-page recipes with a block-by-block build plan"
+   ]
+  },
+  {
+   "type": "h3",
+   "text": "Landing Builder (Beta)"
+  },
+  {
+   "type": "p",
+   "text": "Pro & Ultimate"
+  },
+  {
+   "type": "p",
+   "text": "Compose the block library into a whole page by dragging, edit the copy inline, then take the code with you. What you see on the canvas is exactly what exports.",
+   "href": null
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Drag, reorder and swap any marketing block",
+    "Click any text on the canvas to rewrite it",
+    "Export a Next.js project, loose files, or an agent prompt"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Why teams pick React Bits Pro"
+  },
+  {
+   "type": "p",
+   "text": "The code lives in your repo. Not in node_modules. Read it, bend it, make it yours. Nothing breaks if you never update.",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "It performs. Strict TypeScript, tested across devices, tuned for 60fps, and audited for portability before it ships.",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "Your AI agent already knows it. Install the skill file once and Claude, Cursor or Copilot can install and compose the whole library on its own.",
+   "href": null
+  },
+  {
+   "type": "h2",
+   "text": "Shipping in three steps"
+  },
+  {
+   "type": "p",
+   "text": "1"
+  },
+  {
+   "type": "p",
+   "text": "Grab a license",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "Starter, Pro, or Ultimate. Yearly or lifetime, your call.",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "2"
+  },
+  {
+   "type": "p",
+   "text": "Connect the registry",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "Drop your key in .env.local, point components.json at us.",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "3"
+  },
+  {
+   "type": "p",
+   "text": "Install anything",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "npx shadcn@latest add, or let your AI agent do it for you.",
+   "href": null
+  },
+  {
+   "type": "h3",
+   "text": "Your next launch deserves better UI"
+  },
+  {
+   "type": "p",
+   "text": "Go yearly or lifetime. Weeks of polish, back in your hands.",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "Preview components"
+  }
+ ],
+ "installation": [
+  {
+   "type": "h1",
+   "text": "Installation"
+  },
+  {
+   "type": "p",
+   "text": "Add your license key once, register the two registries, and every component, block, Application UI section and Agent Kit file is a single command away.",
+   "href": null
+  },
+  {
+   "type": "h2",
+   "text": "Your license key"
+  },
+  {
+   "type": "p",
+   "text": "Log in to see your license key here.",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "Login"
+  },
+  {
+   "type": "p",
+   "text": "Used to authenticate every install. Keep it out of version control.",
+   "href": null
+  },
+  {
+   "type": "h2",
+   "text": "Install with the CLI"
+  },
+  {
+   "type": "p",
+   "text": "Recommended: the shadcn CLI adds files and dependencies for you.",
+   "href": null
+  },
+  {
+   "type": "h3",
+   "text": "Before you start"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Node.js 18 or newer",
+    "A React project with shadcn/ui initialized : run npx shadcn@latest init if you haven't",
+    "A components.json file in your project root (created by shadcn init)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "1"
+  },
+  {
+   "type": "h3",
+   "text": "Add your license key"
+  },
+  {
+   "type": "p",
+   "text": "Create or update .env.local in your project root: the same folder as package.json.",
+   "href": null
+  },
+  {
+   "type": "code",
+   "text": "REACTBITS_LICENSE_KEY=your-license-key-here"
+  },
+  {
+   "type": "p",
+   "text": "2"
+  },
+  {
+   "type": "h3",
+   "text": "Register the registries"
+  },
+  {
+   "type": "p",
+   "text": "Add the registries section to your components.json, merging with any existing content.",
+   "href": null
+  },
+  {
+   "type": "code",
+   "text": "{\n  \"registries\": {\n    \"@reactbits-starter\": {\n      \"url\": \"https://pro.reactbits.dev/api/r/starter/{name}.json\",\n      \"headers\": {\n        \"Authorization\": \"******\"\n      }\n    },\n    \"@reactbits-pro\": {\n      \"url\": \"https://pro.reactbits.dev/api/r/pro/{name}.json\",\n      \"headers\": {\n        \"Authorization\": \"******\"\n      }\n    }\n  }\n}"
+  },
+  {
+   "type": "p",
+   "text": "@reactbits-starter serves components and the setup skill (Starter+). @reactbits-pro serves blocks, Application UI and the Agent Kit (Pro & Ultimate).",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "3"
+  },
+  {
+   "type": "h3",
+   "text": "Install anything"
+  },
+  {
+   "type": "p",
+   "text": "Components",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "All plans"
+  },
+  {
+   "type": "code",
+   "text": "npx shadcn@latest add @reactbits-starter/mono-waves-tw"
+  },
+  {
+   "type": "p",
+   "text": "Every component ships in two variants: suffix -tw for Tailwind or -css for vanilla CSS.",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "Blocks",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "Pro & Ultimate"
+  },
+  {
+   "type": "code",
+   "text": "npx shadcn@latest add @reactbits-pro/hero-1"
+  },
+  {
+   "type": "p",
+   "text": "300 marketing sections across 22 categories. Names follow category-number, so pricing-4 and faq-2 work the same way.",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "Application UI",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "Pro & Ultimate"
+  },
+  {
+   "type": "code",
+   "text": "npx shadcn@latest add @reactbits-pro/ai-chat-1"
+  },
+  {
+   "type": "p",
+   "text": "300 blocks of product chrome: app shells, data tables, dashboards, settings and AI surfaces. Same registry, same naming rule. Add -sorbet for the Sorbet style, as in ai-chat-1-sorbet.",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "Agent Kit",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "Pro & Ultimate"
+  },
+  {
+   "type": "code",
+   "text": "npx shadcn@latest add @reactbits-pro/recipe-saas-homepage"
+  },
+  {
+   "type": "p",
+   "text": "Skills, prompts and recipes install as Markdown your agent reads: skill-, prompt- and recipe- prefixes.",
+   "href": null
+  },
+  {
+   "type": "h2",
+   "text": "Let your AI agent do the installing"
+  },
+  {
+   "type": "p",
+   "text": "One file teaches Claude, Cursor or Copilot the whole registry.",
+   "href": null
+  },
+  {
+   "type": "h3",
+   "text": "React Bits Pro Skill"
+  },
+  {
+   "type": "p",
+   "text": "Starter+"
+  },
+  {
+   "type": "p",
+   "text": "Installs a SKILL.md that documents every registry name, both variant suffixes and the install syntax. After this your agent can add components on request, without you looking anything up.",
+   "href": null
+  },
+  {
+   "type": "code",
+   "text": "npx shadcn@latest add @reactbits-starter/skill"
+  },
+  {
+   "type": "h3",
+   "text": "Agent Kit"
+  },
+  {
+   "type": "p",
+   "text": "Pro & Ultimate"
+  },
+  {
+   "type": "p",
+   "text": "Where the setup skill teaches your agent how to install, the Agent Kit tells it what to build: 8 design skills for the look, 8 page prompts for the vertical, and 3 recipes that name the exact blocks in order. Hand over a skill and a prompt together and you get a full page.",
+   "href": null
+  },
+  {
+   "type": "code",
+   "text": "npx shadcn@latest add @reactbits-pro/skill-swiss-grid\nnpx shadcn@latest add @reactbits-pro/prompt-saas\nnpx shadcn@latest add @reactbits-pro/recipe-saas-homepage"
+  },
+  {
+   "type": "h2",
+   "text": "No install at all"
+  },
+  {
+   "type": "p",
+   "text": "Compose the page first, take the code afterwards.",
+   "href": null
+  },
+  {
+   "type": "h3",
+   "text": "Landing Builder"
+  },
+  {
+   "type": "p",
+   "text": "Beta"
+  },
+  {
+   "type": "p",
+   "text": "Pro & Ultimate"
+  },
+  {
+   "type": "p",
+   "text": "Drag the marketing blocks into a full page, rewrite any text directly on the canvas, then export it four ways: a complete Next.js project, drop-in instructions for an existing one, the raw files, or a prompt for your agent. The canvas ships the same code the export does, so what you preview is what you get.",
+   "href": null
+  },
+  {
+   "type": "h2",
+   "text": "Manual copy & paste"
+  },
+  {
+   "type": "p",
+   "text": "No CLI required: copy code straight from the docs into your project.",
+   "href": null
+  },
+  {
+   "type": "h3",
+   "text": "Components"
+  },
+  {
+   "type": "p",
+   "text": "Browse all 230 components and copy the Tailwind or CSS variant",
+   "href": null
+  },
+  {
+   "type": "h3",
+   "text": "Blocks"
+  },
+  {
+   "type": "p",
+   "text": "300 marketing sections ready to drop into your pages",
+   "href": null
+  },
+  {
+   "type": "h3",
+   "text": "Application UI"
+  },
+  {
+   "type": "p",
+   "text": "300 app shells, tables, dashboards and AI surfaces, in two styles",
+   "href": null
+  },
+  {
+   "type": "h3",
+   "text": "Agent Kit"
+  },
+  {
+   "type": "p",
+   "text": "Design skills, page prompts and full-page recipes",
+   "href": null
+  },
+  {
+   "type": "h3",
+   "text": "Ready to get started?"
+  },
+  {
+   "type": "p",
+   "text": "Get your license key and start building with React Bits Pro.",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "Login"
+  }
+ ],
+ "mcp": [
+  {
+   "type": "h1",
+   "text": "MCP Server"
+  },
+  {
+   "type": "p",
+   "text": "The shadcn MCP server lets your AI assistant read the React Bits Pro registries directly: it can list what is available, search it, and install straight into your project from a sentence.",
+   "href": null
+  },
+  {
+   "type": "h2",
+   "text": "Before you start"
+  },
+  {
+   "type": "p",
+   "text": "MCP reads the same setup the CLI does, so do the installation once and it covers both.",
+   "href": null
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Your license key in .env.local as REACTBITS_LICENSE_KEY",
+    "Both registries in your components.json: @reactbits-starter and @reactbits-pro",
+    "shadcn CLI 3.0 or newer, which shadcn@latest gives you"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Missing any of these? Run through the installation guide first: it takes about a minute.",
+   "href": "/docs/installation"
+  },
+  {
+   "type": "h2",
+   "text": "Connect your client"
+  },
+  {
+   "type": "p",
+   "text": "Pick your assistant. The CLI writes the config for you, except where noted.",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "1"
+  },
+  {
+   "type": "h3",
+   "text": "Point the CLI at your client"
+  },
+  {
+   "type": "p",
+   "text": "Run this in your project root, the folder that holds components.json.",
+   "href": null
+  },
+  {
+   "type": "code",
+   "text": "npx shadcn@latest mcp init --client claude"
+  },
+  {
+   "type": "p",
+   "text": "2"
+  },
+  {
+   "type": "h3",
+   "text": "Turn the server on"
+  },
+  {
+   "type": "p",
+   "text": "Restart Claude Code, then run /mcp. The shadcn server should read Connected.",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "What it writes",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": ".mcp.json"
+  },
+  {
+   "type": "code",
+   "text": "{\n  \"mcpServers\": {\n    \"shadcn\": {\n      \"command\": \"npx\",\n      \"args\": [\"shadcn@latest\", \"mcp\"]\n    }\n  }\n}"
+  },
+  {
+   "type": "p",
+   "text": "Prefer to do it by hand? Paste the block above into .mcp.json, merging with what is already there. See the Claude Code MCP docs.",
+   "href": "https://code.claude.com/docs/en/mcp"
+  },
+  {
+   "type": "p",
+   "text": "3"
+  },
+  {
+   "type": "h3",
+   "text": "Ask for something"
+  },
+  {
+   "type": "p",
+   "text": "No slugs, no lookup. If the answer comes back with real names from our registries, the connection is good.",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "Show me every component available in the @reactbits-starter registry",
+   "href": null
+  },
+  {
+   "type": "h2",
+   "text": "What it changes"
+  },
+  {
+   "type": "p",
+   "text": "Same registries, same license key. What moves is where the lookup happens.",
+   "href": null
+  },
+  {
+   "type": "h3",
+   "text": "Browse and search"
+  },
+  {
+   "type": "p",
+   "text": "Your assistant lists and filters everything your plan can reach: 230 components, 300 marketing blocks and 300 Application UI blocks, by name or by what they do.",
+   "href": null
+  },
+  {
+   "type": "h3",
+   "text": "Install by asking"
+  },
+  {
+   "type": "p",
+   "text": "“Add a pricing section” resolves to a real registry item and runs the install, dependencies and all. No slug to look up.",
+   "href": null
+  },
+  {
+   "type": "h3",
+   "text": "Both registries at once"
+  },
+  {
+   "type": "p",
+   "text": "Namespaces keep them apart: @reactbits-starter for components on every plan, @reactbits-pro for blocks, Application UI and the Agent Kit.",
+   "href": null
+  },
+  {
+   "type": "h3",
+   "text": "Whole pages, one prompt"
+  },
+  {
+   "type": "p",
+   "text": "Name the sections you want in order and the assistant fetches and assembles them, rather than you installing six blocks and wiring them up.",
+   "href": null
+  },
+  {
+   "type": "h2",
+   "text": "Prompts that work"
+  },
+  {
+   "type": "p",
+   "text": "Naming the registry keeps the assistant off the default shadcn/ui one.",
+   "href": null
+  },
+  {
+   "type": "h3",
+   "text": "Browse and search"
+  },
+  {
+   "type": "p",
+   "text": "Show me every component available in the @reactbits-starter registry",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "Find me a pricing section in the @reactbits-pro registry",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "What Application UI blocks does @reactbits-pro have for dashboards?",
+   "href": null
+  },
+  {
+   "type": "h3",
+   "text": "Install"
+  },
+  {
+   "type": "p",
+   "text": "Add mono-waves-tw from @reactbits-starter to my project",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "Install @reactbits-pro/hero-1 and @reactbits-pro/pricing-4",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "Add an app shell and a data table from @reactbits-pro to my dashboard",
+   "href": null
+  },
+  {
+   "type": "h3",
+   "text": "Build a page"
+  },
+  {
+   "type": "p",
+   "text": "Build a SaaS landing page using hero, features, pricing and FAQ blocks from @reactbits-pro",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "Install skill-swiss-grid and recipe-saas-homepage from @reactbits-pro, then follow the recipe",
+   "href": null
+  },
+  {
+   "type": "h2",
+   "text": "When it misbehaves"
+  },
+  {
+   "type": "p",
+   "text": "Four failures cover almost everything people hit.",
+   "href": null
+  },
+  {
+   "type": "h3",
+   "text": "No tools or prompts show up"
+  },
+  {
+   "type": "p",
+   "text": "Clear the npx cache with npx clear-npx-cache, then disable and re-enable the server in your client. In Cursor the logs are under View → Output, MCP: project-*.",
+   "href": null
+  },
+  {
+   "type": "h3",
+   "text": "Installs fail with 401 Unauthorized"
+  },
+  {
+   "type": "p",
+   "text": "The server runs the shadcn CLI from your project root, so REACTBITS_LICENSE_KEY has to be resolvable there. Open the folder that holds components.json and .env.local in your editor, and confirm the key matches the one on your installation page.",
+   "href": "/docs/installation"
+  },
+  {
+   "type": "h3",
+   "text": "Blocks 403 on a Starter plan"
+  },
+  {
+   "type": "p",
+   "text": "@reactbits-starter serves components on every plan. Blocks, Application UI and the Agent Kit come from @reactbits-pro, which needs Pro or Ultimate. View plans.",
+   "href": "/#pricing"
+  },
+  {
+   "type": "h3",
+   "text": "The registry is not found"
+  },
+  {
+   "type": "p",
+   "text": "The assistant can only see registries listed in components.json. Add the registries block from the installation guide and restart the MCP client so it re-reads the file.",
+   "href": "/docs/installation"
+  },
+  {
+   "type": "h2",
+   "text": "Take it further"
+  },
+  {
+   "type": "p",
+   "text": "MCP tells your agent how to fetch. These tell it what to build.",
+   "href": null
+  },
+  {
+   "type": "h3",
+   "text": "React Bits Pro Skill"
+  },
+  {
+   "type": "p",
+   "text": "A SKILL.md your agent reads: every registry name, both variant suffixes, the whole install syntax",
+   "href": null
+  },
+  {
+   "type": "h3",
+   "text": "Agent Kit"
+  },
+  {
+   "type": "p",
+   "text": "Design skills, page prompts and recipes that name the exact blocks in order",
+   "href": null
+  },
+  {
+   "type": "h3",
+   "text": "Connected already?"
+  },
+  {
+   "type": "p",
+   "text": "Browse the library so you know what to ask for, or let the assistant discover it for you.",
+   "href": null
+  },
+  {
+   "type": "p",
+   "text": "Installation"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+  "count": 87,
+  "hrefs": [
+    "/c/animations/crystalized-ball",
+    "/c/animations/electric-logo",
+    "/c/animations/dither-veil",
+    "/c/animations/glow-cursor",
+    "/c/animations/scroll-expand",
+    "/c/animations/ripple-distortion",
+    "/c/animations/elastic-mesh",
+    "/c/animations/swarm-cursor"
+  ],
+  "cardHTML": "<a data-item-key=\"Animations/PixelTransition\" role=\"group\" class=\"browse-card css-12as3ye\" href=\"/c/animations/pixel-transition\"><div class=\"browse-card-media css-p9sdj7\"><div class=\"browse-card-well css-nnah9q\"><video loop=\"\" playsinline=\"\" preload=\"none\" poster=\"/assets/video/pixeltransition.webp\" class=\"browse-card-video\"><source src=\"/assets/video/pixeltransition.webm\" type=\"video/webm\"><source src=\"/assets/video/pixeltransition.mp4\" type=\"video/mp4\"></video></div><button type=\"button\" aria-label=\"Add to favorites\" class=\"chakra-button css-18tzse5\"><svg stroke=\"currentColor\" fill=\"currentColor\" stroke-width=\"0\" viewBox=\"0 0 24 24\" focusable=\"false\" aria-hidden=\"true\" class=\"chakra-icon css-1hmy5a0\" height=\"1em\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12.001 4.52853C14.35 2.42 17.98 2.49 20.2426 4.75736C22.5053 7.02472 22.583 10.637 20.4786 12.993L11.9999 21.485L3.52138 12.993C1.41705 10.637 1.49571 7.01901 3.75736 4.75736C6.02157 2.49315 9.64519 2.41687 12.001 4.52853ZM18.827 6.1701C17.3279 4.66794 14.9076 4.60701 13.337 6.01687L12.0019 7.21524L10.6661 6.01781C9.09098 4.60597 6.67506 4.66808 5.17157 6.17157C3.68183 7.66131 3.60704 10.0473 4.97993 11.6232L11.9999 18.6543L19.0201 11.6232C20.3935 10.0467 20.319 7.66525 18.827 6.1701Z\"></path></svg></button></div><div class=\"css-iatp15\"><p class=\"browse-card-title css-17kpux6\">Pixel Transition</p><p class=\"css-49tmd7\">Animations</p></div></a>",
+  "cardStyles": {
+    "className": "browse-card css-12as3ye",
+    "display": "block",
+    "width": "236px",
+    "height": "263.625px",
+    "padding": "6px",
+    "borderRadius": "16px",
+    "background": "rgba(255, 255, 255, 0.04)",
+    "border": "1px solid rgba(0, 0, 0, 0)",
+    "overflow": "hidden"
+  },
+  "gridStyles": {
+    "className": "",
+    "display": "block",
+    "gridTemplateColumns": "none",
+    "gap": "normal",
+    "width": "252px",
+    "padding": "0px 16px 16px 0px"
+  },
+  "gridChildren": 1,
+  "imgs": [
+    "https://reactbits.dev/assets/pro/components/aurora-beam-poster.webp",
+    "https://reactbits.dev/assets/pro/components/aurora-beam-light.webp",
+    "https://reactbits.dev/assets/react-bits-pro-logo-CbBjiZnb.svg",
+    "https://reactbits.dev/assets/sponsors/shadcnblocks.svg",
+    "https://reactbits.dev/assets/sponsors/shaders.svg",
+    "https://reactbits.dev/assets/sponsors/shadcnuikit.svg"
+  ],
+  "videos": [
+    {
+      "src": "https://reactbits.dev/assets/video/pixeltransition.webm",
+      "poster": "https://reactbits.dev/assets/video/pixeltransition.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/ribbons.webm",
+      "poster": "https://reactbits.dev/assets/video/ribbons.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/rippledistortion.webm",
+      "poster": "https://reactbits.dev/assets/video/rippledistortion.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/scrollexpand.webm",
+      "poster": "https://reactbits.dev/assets/video/scrollexpand.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/shapeblur.webm",
+      "poster": "https://reactbits.dev/assets/video/shapeblur.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/splashcursor.webm",
+      "poster": "https://reactbits.dev/assets/video/splashcursor.webp"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "rootVars": {
+    "--background": "",
+    "--foreground": "",
+    "--muted": "",
+    "--muted-foreground": "",
+    "--border": "",
+    "--radius": "",
+    "--primary": "",
+    "--card": "",
+    "--accent": ""
+  },
+  "bodyFont": "Geist, sans-serif",
+  "title": "React Animation Effects — Free Components | React Bits",
+  "url": "https://reactbits.dev/c/animations"
+}

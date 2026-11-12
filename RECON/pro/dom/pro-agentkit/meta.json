@@ -1,0 +1,24 @@
+{
+  "url": "https://pro.reactbits.dev/docs/agent-kit",
+  "title": "Agent Kit | React Bits Pro",
+  "bodyClasses": "font-sans antialiased overflow-x-hidden",
+  "htmlAttrs": [
+    [
+      "lang",
+      "en"
+    ],
+    [
+      "class",
+      "__variable_571da3 __variable_1f9804 __variable_62543b __variable_28e7ef __variable_dc503e __variable_5c3227 __variable_4845c7 dark"
+    ],
+    [
+      "style",
+      "color-scheme: dark; --nav-height: 73px;"
+    ]
+  ],
+  "cssHrefs": [
+    "/_next/static/css/fdc444f4becfd45a.css?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW",
+    "/_next/static/css/fcd00b873d8f6354.css?dpl=dpl_wN86oRS3t6xUGV2WPQ9rJuVdixkW"
+  ],
+  "videos": []
+}

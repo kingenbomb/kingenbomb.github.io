@@ -1,0 +1,3222 @@
+{
+ "staggered-text": {
+  "pattern": "splitText",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c98eff",
+   "a2": "#a3e635"
+  },
+  "density": 0.28,
+  "speed": 0.13,
+  "seed": 1,
+  "label": "STAGGERED TEXT",
+  "why": "group"
+ },
+ "glitch-text": {
+  "pattern": "glitchBars",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#a5a5a5",
+   "a1": "#8b9fff",
+   "a2": "#ffffff"
+  },
+  "density": 0.42,
+  "speed": 0.21,
+  "seed": 2,
+  "label": "GLITCH TEXT",
+  "why": "keyword:glitch"
+ },
+ "smooth-cursor": {
+  "pattern": "cursorTrail",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f7f7f7",
+   "a1": "#ff83d1",
+   "a2": "#38bdf8"
+  },
+  "density": 0.54,
+  "speed": 0.19,
+  "seed": 3,
+  "label": "SMOOTH CURSOR",
+  "why": "group"
+ },
+ "text-path": {
+  "pattern": "splitText",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#a3e635",
+   "a2": "#dc97ff"
+  },
+  "density": 0.31,
+  "speed": 0.16,
+  "seed": 4,
+  "label": "TEXT PATH",
+  "why": "group"
+ },
+ "3d-text-reveal": {
+  "pattern": "marqueeStrip",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#fb923c",
+   "a2": "#34d399"
+  },
+  "density": 0.2,
+  "speed": 0.12,
+  "seed": 5,
+  "label": "3D TEXT REVEAL",
+  "why": "keyword:scroll"
+ },
+ "particle-text": {
+  "pattern": "splitText",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#8b9fff",
+   "a2": "#90a3ff"
+  },
+  "density": 0.24,
+  "speed": 0.2,
+  "seed": 6,
+  "label": "PARTICLE TEXT",
+  "why": "group"
+ },
+ "text-scatter": {
+  "pattern": "splitText",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#b5b5b5",
+   "a1": "#dc97ff",
+   "a2": "#22d3ee"
+  },
+  "density": 0.32,
+  "speed": 0.2,
+  "seed": 7,
+  "label": "TEXT SCATTER",
+  "why": "group"
+ },
+ "3d-letter-swap": {
+  "pattern": "splitText",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#b5b5b5",
+   "a1": "#34d399",
+   "a2": "#ff83d1"
+  },
+  "density": 0.29,
+  "speed": 0.13,
+  "seed": 8,
+  "label": "3D LETTER SWAP",
+  "why": "group"
+ },
+ "custom-cursor": {
+  "pattern": "cursorTrail",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c98eff",
+   "a2": "#a3e635"
+  },
+  "density": 0.2,
+  "speed": 0.13,
+  "seed": 9,
+  "label": "CUSTOM CURSOR",
+  "why": "group"
+ },
+ "blur-highlight": {
+  "pattern": "splitText",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.32,
+  "speed": 0.12,
+  "seed": 10,
+  "label": "BLUR HIGHLIGHT",
+  "why": "group"
+ },
+ "globe": {
+  "pattern": "wireGlobe",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#8b9fff",
+   "a2": "#90a3ff"
+  },
+  "density": 0.21,
+  "speed": 0.13,
+  "seed": 11,
+  "label": "GLOBE",
+  "why": "override"
+ },
+ "rotating-cards": {
+  "pattern": "rings",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#a3e635",
+   "a2": "#dc97ff"
+  },
+  "density": 0.46,
+  "speed": 0.14,
+  "seed": 12,
+  "label": "ROTATING CARDS",
+  "why": "keyword:ring"
+ },
+ "draggable-grid": {
+  "pattern": "dotField",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#90a3ff",
+   "a2": "#a1a3ff"
+  },
+  "density": 0.66,
+  "speed": 0.12,
+  "seed": 13,
+  "label": "DRAGGABLE GRID",
+  "why": "keyword:grid"
+ },
+ "comparison-slider": {
+  "pattern": "maskReveal",
+  "palette": {
+   "bg": "#000808",
+   "fg": "#f4f4f5",
+   "a1": "#ff9725",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.45,
+  "speed": 0.12,
+  "seed": 14,
+  "label": "COMPARISON SLIDER",
+  "why": "override"
+ },
+ "shader-reveal": {
+  "pattern": "maskReveal",
+  "palette": {
+   "bg": "#0a0a0a",
+   "fg": "#fff7f7",
+   "a1": "#dc97ff",
+   "a2": "#22d3ee"
+  },
+  "density": 0.95,
+  "speed": 0.13,
+  "seed": 15,
+  "label": "SHADER REVEAL",
+  "why": "override"
+ },
+ "device": {
+  "pattern": "cardStack",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#dedede",
+   "a1": "#34d399",
+   "a2": "#ff83d1"
+  },
+  "density": 0.7,
+  "speed": 0.13,
+  "seed": 16,
+  "label": "DEVICE",
+  "why": "override"
+ },
+ "simple-graph": {
+  "pattern": "barChart",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#9f9fd6",
+   "a2": "#ffffff"
+  },
+  "density": 0.26,
+  "speed": 0.12,
+  "seed": 17,
+  "label": "SIMPLE GRAPH",
+  "why": "override"
+ },
+ "credit-card": {
+  "pattern": "cardStack",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#efefef",
+   "a1": "#8b9fff",
+   "a2": "#ffffff"
+  },
+  "density": 0.95,
+  "speed": 0.15,
+  "seed": 18,
+  "label": "CREDIT CARD",
+  "why": "override"
+ },
+ "circle-gallery": {
+  "pattern": "rings",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#ff7aff",
+   "a2": "#ff7aff"
+  },
+  "density": 0.27,
+  "speed": 0.2,
+  "seed": 19,
+  "label": "CIRCLE GALLERY",
+  "why": "keyword:circle"
+ },
+ "ai-blob": {
+  "pattern": "gradientBlobs",
+  "palette": {
+   "bg": "#080800",
+   "fg": "#52ffff",
+   "a1": "#4affff",
+   "a2": "#52ffff"
+  },
+  "density": 0.37,
+  "speed": 0.13,
+  "seed": 20,
+  "label": "AI BLOB",
+  "why": "override"
+ },
+ "gradient-carousel": {
+  "pattern": "marqueeStrip",
+  "palette": {
+   "bg": "#101010",
+   "fg": "#d6dede",
+   "a1": "#6bb0b0",
+   "a2": "#75adad"
+  },
+  "density": 0.95,
+  "speed": 0.12,
+  "seed": 21,
+  "label": "GRADIENT CAROUSEL",
+  "why": "keyword:carousel"
+ },
+ "circles": {
+  "pattern": "rings",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#38bdf8",
+   "a2": "#c98eff"
+  },
+  "density": 0.35,
+  "speed": 0.23,
+  "seed": 22,
+  "label": "CIRCLES",
+  "why": "override"
+ },
+ "shader-card": {
+  "pattern": "cardStack",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#f77aff",
+   "a2": "#ff78ff"
+  },
+  "density": 0.38,
+  "speed": 0.15,
+  "seed": 23,
+  "label": "SHADER CARD",
+  "why": "keyword:card"
+ },
+ "preloader": {
+  "pattern": "rings",
+  "palette": {
+   "bg": "#0a0a0a",
+   "fg": "#c5b5f7",
+   "a1": "#b59cef",
+   "a2": "#ad9cef"
+  },
+  "density": 0.95,
+  "speed": 0.29,
+  "seed": 24,
+  "label": "PRELOADER",
+  "why": "override"
+ },
+ "hover-preview": {
+  "pattern": "maskReveal",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#81a3ff",
+   "a2": "#ffffff"
+  },
+  "density": 0.26,
+  "speed": 0.13,
+  "seed": 25,
+  "label": "HOVER PREVIEW",
+  "why": "keyword:preview"
+ },
+ "modal-cards": {
+  "pattern": "cardStack",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#83abff",
+   "a2": "#8ca4ff"
+  },
+  "density": 0.8,
+  "speed": 0.12,
+  "seed": 26,
+  "label": "MODAL CARDS",
+  "why": "group"
+ },
+ "pixelate-hover": {
+  "pattern": "ditherNoise",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#cecece",
+   "a1": "#ff83d1",
+   "a2": "#38bdf8"
+  },
+  "density": 0.95,
+  "speed": 0.12,
+  "seed": 27,
+  "label": "PIXELATE HOVER",
+  "why": "override"
+ },
+ "animated-list": {
+  "pattern": "marqueeStrip",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#a3e635",
+   "a2": "#dc97ff"
+  },
+  "density": 0.21,
+  "speed": 0.15,
+  "seed": 28,
+  "label": "ANIMATED LIST",
+  "why": "keyword:list"
+ },
+ "neon-reveal": {
+  "pattern": "maskReveal",
+  "palette": {
+   "bg": "#080810",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#9b9fff"
+  },
+  "density": 0.75,
+  "speed": 0.14,
+  "seed": 29,
+  "label": "NEON REVEAL",
+  "why": "override"
+ },
+ "depth-card": {
+  "pattern": "cardStack",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#7ea6cf",
+   "a2": "#90a3ff"
+  },
+  "density": 0.58,
+  "speed": 0.17,
+  "seed": 30,
+  "label": "DEPTH CARD",
+  "why": "keyword:card"
+ },
+ "liquid-swap": {
+  "pattern": "maskReveal",
+  "palette": {
+   "bg": "#0a0a0a",
+   "fg": "#f4f4f5",
+   "a1": "#dc97ff",
+   "a2": "#22d3ee"
+  },
+  "density": 0.93,
+  "speed": 0.38,
+  "seed": 31,
+  "label": "LIQUID SWAP",
+  "why": "override"
+ },
+ "parallax-cards": {
+  "pattern": "cardStack",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#34d399",
+   "a2": "#ff83d1"
+  },
+  "density": 0.8,
+  "speed": 0.15,
+  "seed": 32,
+  "label": "PARALLAX CARDS",
+  "why": "group"
+ },
+ "perspective-grid": {
+  "pattern": "perspectiveGrid",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#9b9fff",
+   "a2": "#a1a3ff"
+  },
+  "density": 0.21,
+  "speed": 0.14,
+  "seed": 33,
+  "label": "PERSPECTIVE GRID",
+  "why": "override"
+ },
+ "glitter-warp": {
+  "pattern": "perspectiveGrid",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#9b9fff",
+   "a2": "#8b9fff"
+  },
+  "density": 0.2,
+  "speed": 0.12,
+  "seed": 34,
+  "label": "GLITTER WARP",
+  "why": "override"
+ },
+ "shader-waves": {
+  "pattern": "ribbons",
+  "palette": {
+   "bg": "#0a0a0a",
+   "fg": "#f4f4f5",
+   "a1": "#fe7fff",
+   "a2": "#fe7fff"
+  },
+  "density": 0.29,
+  "speed": 0.23,
+  "seed": 35,
+  "label": "SHADER WAVES",
+  "why": "keyword:wave"
+ },
+ "gradient-blob": {
+  "pattern": "gradientBlobs",
+  "palette": {
+   "bg": "#0a0a0a",
+   "fg": "#ce9cf7",
+   "a1": "#d38fff",
+   "a2": "#d694f7"
+  },
+  "density": 0.95,
+  "speed": 0.16,
+  "seed": 36,
+  "label": "GRADIENT BLOB",
+  "why": "override"
+ },
+ "light-droplets": {
+  "pattern": "gradientBlobs",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#9b9fff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.2,
+  "speed": 0.14,
+  "seed": 37,
+  "label": "LIGHT DROPLETS",
+  "why": "override"
+ },
+ "lightspeed": {
+  "pattern": "perspectiveGrid",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#9b9fff",
+   "a2": "#8b9fff"
+  },
+  "density": 0.27,
+  "speed": 0.26,
+  "seed": 38,
+  "label": "LIGHTSPEED",
+  "why": "override"
+ },
+ "dither-wave": {
+  "pattern": "ditherNoise",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#fe7fff",
+   "a2": "#e783ff"
+  },
+  "density": 0.57,
+  "speed": 0.3,
+  "seed": 39,
+  "label": "DITHER WAVE",
+  "why": "override"
+ },
+ "radial-liquid": {
+  "pattern": "gradientBlobs",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#34d399",
+   "a2": "#ff83d1"
+  },
+  "density": 0.95,
+  "speed": 0.14,
+  "seed": 40,
+  "label": "RADIAL LIQUID",
+  "why": "override"
+ },
+ "chroma-waves": {
+  "pattern": "glitchBars",
+  "palette": {
+   "bg": "#101019",
+   "fg": "#efe6ef",
+   "a1": "#ba8dff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.95,
+  "speed": 0.17,
+  "seed": 41,
+  "label": "CHROMA WAVES",
+  "why": "override"
+ },
+ "mosaic": {
+  "pattern": "ditherNoise",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#22d3ee",
+   "a2": "#fb923c"
+  },
+  "density": 0.45,
+  "speed": 0.23,
+  "seed": 42,
+  "label": "MOSAIC",
+  "why": "override"
+ },
+ "vortex": {
+  "pattern": "rings",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#81a3ff",
+   "a2": "#ffffff"
+  },
+  "density": 0.2,
+  "speed": 0.14,
+  "seed": 43,
+  "label": "VORTEX",
+  "why": "override"
+ },
+ "portal": {
+  "pattern": "gradientBlobs",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#9b9fff",
+   "a2": "#a1a3ff"
+  },
+  "density": 0.52,
+  "speed": 0.21,
+  "seed": 44,
+  "label": "PORTAL",
+  "why": "keyword:glow"
+ },
+ "rising-lines": {
+  "pattern": "gradientBlobs",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#9b9fff"
+  },
+  "density": 0.22,
+  "speed": 0.14,
+  "seed": 45,
+  "label": "RISING LINES",
+  "why": "keyword:glow"
+ },
+ "color-loops": {
+  "pattern": "rings",
+  "palette": {
+   "bg": "#080821",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.21,
+  "speed": 0.12,
+  "seed": 46,
+  "label": "COLOR LOOPS",
+  "why": "keyword:ring"
+ },
+ "rotating-stars": {
+  "pattern": "rings",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#9b9fff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.2,
+  "speed": 0.13,
+  "seed": 47,
+  "label": "ROTATING STARS",
+  "why": "keyword:circle"
+ },
+ "dither-cursor": {
+  "pattern": "ditherNoise",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#9b9fff",
+   "a2": "#a1a3ff"
+  },
+  "density": 0.39,
+  "speed": 0.16,
+  "seed": 48,
+  "label": "DITHER CURSOR",
+  "why": "keyword:dither"
+ },
+ "ascii-cursor": {
+  "pattern": "ditherNoise",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#ffffff",
+   "a1": "#c98eff",
+   "a2": "#a3e635"
+  },
+  "density": 0.95,
+  "speed": 0.41,
+  "seed": 49,
+  "label": "ASCII CURSOR",
+  "why": "keyword:ascii"
+ },
+ "ascii-waves": {
+  "pattern": "ditherNoise",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#22d3ee",
+   "a2": "#fb923c"
+  },
+  "density": 0.27,
+  "speed": 0.2,
+  "seed": 50,
+  "label": "ASCII WAVES",
+  "why": "keyword:ascii"
+ },
+ "synaptic-shift": {
+  "pattern": "rings",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#9b9fff"
+  },
+  "density": 0.47,
+  "speed": 0.24,
+  "seed": 51,
+  "label": "SYNAPTIC SHIFT",
+  "why": "keyword:pulse"
+ },
+ "dot-shift": {
+  "pattern": "gradientBlobs",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#9b9fff",
+   "a2": "#9b9fff"
+  },
+  "density": 0.2,
+  "speed": 0.13,
+  "seed": 52,
+  "label": "DOT SHIFT",
+  "why": "keyword:glow"
+ },
+ "star-burst": {
+  "pattern": "ribbons",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#9b9fff",
+   "a2": "#e189e1"
+  },
+  "density": 0.23,
+  "speed": 0.14,
+  "seed": 53,
+  "label": "STAR BURST",
+  "why": "keyword:stream"
+ },
+ "silk-waves": {
+  "pattern": "ribbons",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#43b8ff",
+   "a2": "#5ab4ff"
+  },
+  "density": 0.32,
+  "speed": 0.18,
+  "seed": 54,
+  "label": "SILK WAVES",
+  "why": "keyword:wave"
+ },
+ "falling-rays": {
+  "pattern": "rings",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#9b9fff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.2,
+  "speed": 0.13,
+  "seed": 55,
+  "label": "FALLING RAYS",
+  "why": "keyword:pulse"
+ },
+ "liquid-bars": {
+  "pattern": "gradientBlobs",
+  "palette": {
+   "bg": "#101019",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#b692ff"
+  },
+  "density": 0.35,
+  "speed": 0.28,
+  "seed": 56,
+  "label": "LIQUID BARS",
+  "why": "keyword:liquid"
+ },
+ "aurora-blur": {
+  "pattern": "gradientBlobs",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#71b4f6",
+   "a2": "#71a3f6"
+  },
+  "density": 0.89,
+  "speed": 0.3,
+  "seed": 57,
+  "label": "AURORA BLUR",
+  "why": "keyword:glow"
+ },
+ "chroma-card": {
+  "pattern": "cardStack",
+  "palette": {
+   "bg": "#000008",
+   "fg": "#f4f4f5",
+   "a1": "#8ca4ff",
+   "a2": "#7ea6cf"
+  },
+  "density": 0.37,
+  "speed": 0.19,
+  "seed": 58,
+  "label": "CHROMA CARD",
+  "why": "group"
+ },
+ "liquid-lines": {
+  "pattern": "gradientBlobs",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#ff83d1",
+   "a2": "#38bdf8"
+  },
+  "density": 0.43,
+  "speed": 0.17,
+  "seed": 59,
+  "label": "LIQUID LINES",
+  "why": "keyword:liquid"
+ },
+ "squircle-shift": {
+  "pattern": "gradientBlobs",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#9b9fff"
+  },
+  "density": 0.23,
+  "speed": 0.14,
+  "seed": 60,
+  "label": "SQUIRCLE SHIFT",
+  "why": "keyword:glow"
+ },
+ "grain-wave": {
+  "pattern": "ribbons",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#ffffff",
+   "a1": "#f78cf7",
+   "a2": "#f794f7"
+  },
+  "density": 0.9,
+  "speed": 0.21,
+  "seed": 61,
+  "label": "GRAIN WAVE",
+  "why": "keyword:ribbon"
+ },
+ "glass-flow": {
+  "pattern": "maskReveal",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#dedede",
+   "a1": "#38bdf8",
+   "a2": "#c98eff"
+  },
+  "density": 0.95,
+  "speed": 0.19,
+  "seed": 62,
+  "label": "GLASS FLOW",
+  "why": "keyword:glass"
+ },
+ "shadow-bars": {
+  "pattern": "dotField",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#a799ff",
+   "a2": "#9599ff"
+  },
+  "density": 0.22,
+  "speed": 0.14,
+  "seed": 63,
+  "label": "SHADOW BARS",
+  "why": "group"
+ },
+ "warp-twister": {
+  "pattern": "perspectiveGrid",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#9b9fff",
+   "a2": "#a1a3ff"
+  },
+  "density": 0.2,
+  "speed": 0.12,
+  "seed": 64,
+  "label": "WARP TWISTER",
+  "why": "keyword:warp"
+ },
+ "center-flow": {
+  "pattern": "rings",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.21,
+  "speed": 0.12,
+  "seed": 65,
+  "label": "CENTER FLOW",
+  "why": "keyword:flow"
+ },
+ "glass-cursor": {
+  "pattern": "cursorTrail",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#7bc5ef",
+   "a1": "#4abdef",
+   "a2": "#63c5ef"
+  },
+  "density": 0.95,
+  "speed": 0.22,
+  "seed": 66,
+  "label": "GLASS CURSOR",
+  "why": "group"
+ },
+ "agentic-ball": {
+  "pattern": "ribbons",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#a5a5a5",
+   "a1": "#ff83d1",
+   "a2": "#38bdf8"
+  },
+  "density": 0.51,
+  "speed": 0.13,
+  "seed": 67,
+  "label": "AGENTIC BALL",
+  "why": "group"
+ },
+ "black-hole": {
+  "pattern": "rings",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#ffffff",
+   "a1": "#a3e635",
+   "a2": "#dc97ff"
+  },
+  "density": 0.95,
+  "speed": 0.19,
+  "seed": 68,
+  "label": "BLACK HOLE",
+  "why": "keyword:ring"
+ },
+ "blurred-rays": {
+  "pattern": "ribbons",
+  "palette": {
+   "bg": "#000010",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#8ca4ff"
+  },
+  "density": 0.34,
+  "speed": 0.15,
+  "seed": 69,
+  "label": "BLURRED RAYS",
+  "why": "keyword:beam"
+ },
+ "click-stack": {
+  "pattern": "cardStack",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#38bdf8",
+   "a2": "#c98eff"
+  },
+  "density": 0.24,
+  "speed": 0.14,
+  "seed": 70,
+  "label": "CLICK STACK",
+  "why": "group"
+ },
+ "flame-paths": {
+  "pattern": "gradientBlobs",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#a194ff"
+  },
+  "density": 0.21,
+  "speed": 0.15,
+  "seed": 71,
+  "label": "FLAME PATHS",
+  "why": "keyword:glow"
+ },
+ "frame-border": {
+  "pattern": "gradientBlobs",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#e08be0",
+   "a2": "#da90da"
+  },
+  "density": 0.37,
+  "speed": 0.12,
+  "seed": 72,
+  "label": "FRAME BORDER",
+  "why": "keyword:glow"
+ },
+ "gradient-bars": {
+  "pattern": "gradientBlobs",
+  "palette": {
+   "bg": "#191919",
+   "fg": "#f4f4f5",
+   "a1": "#c98eff",
+   "a2": "#a3e635"
+  },
+  "density": 0.69,
+  "speed": 0.2,
+  "seed": 73,
+  "label": "GRADIENT BARS",
+  "why": "keyword:gradient"
+ },
+ "halftone-vortex": {
+  "pattern": "ditherNoise",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#e095e0",
+   "a2": "#a1a3ff"
+  },
+  "density": 0.74,
+  "speed": 0.78,
+  "seed": 74,
+  "label": "HALFTONE VORTEX",
+  "why": "keyword:halftone"
+ },
+ "halftone-wave": {
+  "pattern": "ditherNoise",
+  "palette": {
+   "bg": "#101010",
+   "fg": "#f4f4f5",
+   "a1": "#ff83d1",
+   "a2": "#38bdf8"
+  },
+  "density": 0.87,
+  "speed": 0.15,
+  "seed": 75,
+  "label": "HALFTONE WAVE",
+  "why": "keyword:noise"
+ },
+ "infinite-gallery": {
+  "pattern": "marqueeStrip",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#90a3ff",
+   "a2": "#94a6ff"
+  },
+  "density": 0.45,
+  "speed": 0.18,
+  "seed": 76,
+  "label": "INFINITE GALLERY",
+  "why": "keyword:gallery"
+ },
+ "liquid-ascii": {
+  "pattern": "ditherNoise",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#fb923c",
+   "a2": "#34d399"
+  },
+  "density": 0.22,
+  "speed": 0.19,
+  "seed": 77,
+  "label": "LIQUID ASCII",
+  "why": "keyword:ascii"
+ },
+ "metallic-swirl": {
+  "pattern": "gradientBlobs",
+  "palette": {
+   "bg": "#0a0a0a",
+   "fg": "#ffffff",
+   "a1": "#38bdf8",
+   "a2": "#c98eff"
+  },
+  "density": 0.95,
+  "speed": 0.18,
+  "seed": 78,
+  "label": "METALLIC SWIRL",
+  "why": "keyword:liquid"
+ },
+ "retro-lines": {
+  "pattern": "perspectiveGrid",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#9b9fff",
+   "a2": "#9b9fff"
+  },
+  "density": 0.2,
+  "speed": 0.13,
+  "seed": 79,
+  "label": "RETRO LINES",
+  "why": "keyword:horizon"
+ },
+ "rubber-fluid": {
+  "pattern": "dotField",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.28,
+  "speed": 0.64,
+  "seed": 80,
+  "label": "RUBBER FLUID",
+  "why": "group"
+ },
+ "simple-swirl": {
+  "pattern": "gradientBlobs",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.24,
+  "speed": 0.12,
+  "seed": 81,
+  "label": "SIMPLE SWIRL",
+  "why": "keyword:glow"
+ },
+ "square-matrix": {
+  "pattern": "ribbons",
+  "palette": {
+   "bg": "#190819",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.38,
+  "speed": 0.18,
+  "seed": 82,
+  "label": "SQUARE MATRIX",
+  "why": "keyword:wave"
+ },
+ "star-swipe": {
+  "pattern": "perspectiveGrid",
+  "palette": {
+   "bg": "#101010",
+   "fg": "#f4f4f5",
+   "a1": "#d28dd2",
+   "a2": "#a1a3ff"
+  },
+  "density": 0.47,
+  "speed": 0.21,
+  "seed": 83,
+  "label": "STAR SWIPE",
+  "why": "keyword:warp"
+ },
+ "swirl-blend": {
+  "pattern": "maskReveal",
+  "palette": {
+   "bg": "#290029",
+   "fg": "#f4f4f5",
+   "a1": "#ff7fff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.38,
+  "speed": 0.18,
+  "seed": 84,
+  "label": "SWIRL BLEND",
+  "why": "keyword:blend"
+ },
+ "text-cube": {
+  "pattern": "splitText",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#fb923c",
+   "a2": "#34d399"
+  },
+  "density": 0.2,
+  "speed": 0.14,
+  "seed": 85,
+  "label": "TEXT CUBE",
+  "why": "group"
+ },
+ "warped-card": {
+  "pattern": "perspectiveGrid",
+  "palette": {
+   "bg": "#000008",
+   "fg": "#f4f4f5",
+   "a1": "#ebab55",
+   "a2": "#ff9017"
+  },
+  "density": 0.66,
+  "speed": 0.13,
+  "seed": 86,
+  "label": "WARPED CARD",
+  "why": "keyword:warp"
+ },
+ "watercolor": {
+  "pattern": "maskReveal",
+  "palette": {
+   "bg": "#0a0a0a",
+   "fg": "#ffffff",
+   "a1": "#dc97ff",
+   "a2": "#22d3ee"
+  },
+  "density": 0.95,
+  "speed": 0.17,
+  "seed": 87,
+  "label": "WATERCOLOR",
+  "why": "keyword:blend"
+ },
+ "fog-sphere": {
+  "pattern": "wireGlobe",
+  "palette": {
+   "bg": "#100808",
+   "fg": "#f4f4f5",
+   "a1": "#ff7aff",
+   "a2": "#a194ff"
+  },
+  "density": 0.28,
+  "speed": 0.16,
+  "seed": 88,
+  "label": "FOG SPHERE",
+  "why": "keyword:sphere"
+ },
+ "ascii-tiles": {
+  "pattern": "ditherNoise",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#c98eff",
+   "a2": "#a3e635"
+  },
+  "density": 0.44,
+  "speed": 0.31,
+  "seed": 89,
+  "label": "ASCII TILES",
+  "why": "keyword:ascii"
+ },
+ "cursor-wave": {
+  "pattern": "cursorTrail",
+  "palette": {
+   "bg": "#080800",
+   "fg": "#f4f4f5",
+   "a1": "#8b9fff",
+   "a2": "#81a3ff"
+  },
+  "density": 0.22,
+  "speed": 0.14,
+  "seed": 90,
+  "label": "CURSOR WAVE",
+  "why": "group"
+ },
+ "twilight-lines": {
+  "pattern": "rings",
+  "palette": {
+   "bg": "#080010",
+   "fg": "#f4f4f5",
+   "a1": "#9599ff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.33,
+  "speed": 0.15,
+  "seed": 91,
+  "label": "TWILIGHT LINES",
+  "why": "keyword:pulse"
+ },
+ "chroma-blinds": {
+  "pattern": "glitchBars",
+  "palette": {
+   "bg": "#000010",
+   "fg": "#f4f4f5",
+   "a1": "#8ca4ff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.36,
+  "speed": 0.25,
+  "seed": 92,
+  "label": "CHROMA BLINDS",
+  "why": "keyword:chroma"
+ },
+ "pixel-reveal": {
+  "pattern": "ditherNoise",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#deded6",
+   "a1": "#fb923c",
+   "a2": "#34d399"
+  },
+  "density": 0.95,
+  "speed": 0.13,
+  "seed": 93,
+  "label": "PIXEL REVEAL",
+  "why": "keyword:pixel"
+ },
+ "parallax-carousel": {
+  "pattern": "marqueeStrip",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#81a3ff",
+   "a2": "#8b9fff"
+  },
+  "density": 0.79,
+  "speed": 0.13,
+  "seed": 94,
+  "label": "PARALLAX CAROUSEL",
+  "why": "keyword:carousel"
+ },
+ "glass-tiles": {
+  "pattern": "maskReveal",
+  "palette": {
+   "bg": "#000008",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.32,
+  "speed": 0.19,
+  "seed": 95,
+  "label": "GLASS TILES",
+  "why": "keyword:glass"
+ },
+ "parallax-pills": {
+  "pattern": "cardStack",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#ffffff",
+   "a1": "#34d399",
+   "a2": "#ff83d1"
+  },
+  "density": 0.95,
+  "speed": 0.15,
+  "seed": 96,
+  "label": "PARALLAX PILLS",
+  "why": "keyword:pill"
+ },
+ "blinking-squares": {
+  "pattern": "gradientBlobs",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#9599ff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.22,
+  "speed": 0.13,
+  "seed": 97,
+  "label": "BLINKING SQUARES",
+  "why": "keyword:ink"
+ },
+ "user-cursor": {
+  "pattern": "cursorTrail",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#22d3ee",
+   "a2": "#fb923c"
+  },
+  "density": 0.28,
+  "speed": 0.14,
+  "seed": 98,
+  "label": "USER CURSOR",
+  "why": "group"
+ },
+ "magic-transform": {
+  "pattern": "barChart",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#9b9fff",
+   "a2": "#90a3ff"
+  },
+  "density": 0.24,
+  "speed": 0.13,
+  "seed": 99,
+  "label": "MAGIC TRANSFORM",
+  "why": "keyword:data"
+ },
+ "circle-stack": {
+  "pattern": "rings",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#a5adad",
+   "a1": "#84a6ff",
+   "a2": "#ffffff"
+  },
+  "density": 0.34,
+  "speed": 0.23,
+  "seed": 100,
+  "label": "CIRCLE STACK",
+  "why": "keyword:circle"
+ },
+ "particle-image": {
+  "pattern": "marqueeStrip",
+  "palette": {
+   "bg": "#0a0a0a",
+   "fg": "#d6dee6",
+   "a1": "#fb923c",
+   "a2": "#34d399"
+  },
+  "density": 0.95,
+  "speed": 0.15,
+  "seed": 101,
+  "label": "PARTICLE IMAGE",
+  "why": "keyword:gallery"
+ },
+ "skewed-carousel": {
+  "pattern": "marqueeStrip",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#c5d6e6",
+   "a1": "#38bdf8",
+   "a2": "#c98eff"
+  },
+  "density": 0.83,
+  "speed": 0.65,
+  "seed": 102,
+  "label": "SKEWED CAROUSEL",
+  "why": "keyword:carousel"
+ },
+ "tumble-carousel": {
+  "pattern": "marqueeStrip",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#c5d6e6",
+   "a1": "#8b9fff",
+   "a2": "#ffffff"
+  },
+  "density": 0.51,
+  "speed": 0.54,
+  "seed": 103,
+  "label": "TUMBLE CAROUSEL",
+  "why": "keyword:carousel"
+ },
+ "tilted-tiles": {
+  "pattern": "marqueeStrip",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#34d399",
+   "a2": "#ff83d1"
+  },
+  "density": 0.95,
+  "speed": 0.32,
+  "seed": 104,
+  "label": "TILTED TILES",
+  "why": "keyword:gallery"
+ },
+ "squares-terminal": {
+  "pattern": "perspectiveGrid",
+  "palette": {
+   "bg": "#100810",
+   "fg": "#f4f4f5",
+   "a1": "#ff7aff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.23,
+  "speed": 0.26,
+  "seed": 105,
+  "label": "SQUARES TERMINAL",
+  "why": "keyword:grid"
+ },
+ "neural-float": {
+  "pattern": "ribbons",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#9b9fff"
+  },
+  "density": 0.27,
+  "speed": 0.19,
+  "seed": 106,
+  "label": "NEURAL FLOAT",
+  "why": "keyword:filament"
+ },
+ "wireframe-ball": {
+  "pattern": "barChart",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#ff83d1",
+   "a2": "#38bdf8"
+  },
+  "density": 0.2,
+  "speed": 0.12,
+  "seed": 107,
+  "label": "WIREFRAME BALL",
+  "why": "keyword:metric"
+ },
+ "blinking-dots": {
+  "pattern": "gradientBlobs",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#8b9fff",
+   "a2": "#9599ff"
+  },
+  "density": 0.2,
+  "speed": 0.13,
+  "seed": 108,
+  "label": "BLINKING DOTS",
+  "why": "keyword:ink"
+ },
+ "specter-orb": {
+  "pattern": "gradientBlobs",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#83abff"
+  },
+  "density": 0.25,
+  "speed": 0.13,
+  "seed": 109,
+  "label": "SPECTER ORB",
+  "why": "keyword:smoke"
+ },
+ "speeding-text": {
+  "pattern": "marqueeStrip",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#38bdf8",
+   "a2": "#c98eff"
+  },
+  "density": 0.36,
+  "speed": 0.17,
+  "seed": 110,
+  "label": "SPEEDING TEXT",
+  "why": "keyword:marquee"
+ },
+ "pixel-rain": {
+  "pattern": "ditherNoise",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#9599ff",
+   "a2": "#9599ff"
+  },
+  "density": 0.21,
+  "speed": 0.16,
+  "seed": 111,
+  "label": "PIXEL RAIN",
+  "why": "keyword:pixel"
+ },
+ "mosaic-waves": {
+  "pattern": "ditherNoise",
+  "palette": {
+   "bg": "#000010",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.29,
+  "speed": 0.19,
+  "seed": 112,
+  "label": "MOSAIC WAVES",
+  "why": "keyword:mosaic"
+ },
+ "pixel-magnet": {
+  "pattern": "ditherNoise",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#81a3ff",
+   "a2": "#81a3ff"
+  },
+  "density": 0.2,
+  "speed": 0.13,
+  "seed": 113,
+  "label": "PIXEL MAGNET",
+  "why": "keyword:pixel"
+ },
+ "rolling-blinds": {
+  "pattern": "marqueeStrip",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#83abff",
+   "a2": "#8ca4ff"
+  },
+  "density": 0.47,
+  "speed": 0.25,
+  "seed": 114,
+  "label": "ROLLING BLINDS",
+  "why": "keyword:strip"
+ },
+ "neural-tunnel": {
+  "pattern": "ribbons",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#9599ff",
+   "a2": "#9599ff"
+  },
+  "density": 0.31,
+  "speed": 0.35,
+  "seed": 115,
+  "label": "NEURAL TUNNEL",
+  "why": "keyword:strand"
+ },
+ "glowing-wave": {
+  "pattern": "gradientBlobs",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#9cadff",
+   "a1": "#9cadff",
+   "a2": "#8b9feb"
+  },
+  "density": 0.93,
+  "speed": 0.27,
+  "seed": 116,
+  "label": "GLOWING WAVE",
+  "why": "keyword:glow"
+ },
+ "minimal-ripple": {
+  "pattern": "rings",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#83abff",
+   "a2": "#83abff"
+  },
+  "density": 0.28,
+  "speed": 0.36,
+  "seed": 117,
+  "label": "MINIMAL RIPPLE",
+  "why": "keyword:ripple"
+ },
+ "glue-dots": {
+  "pattern": "dotField",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#38bdf8",
+   "a2": "#c98eff"
+  },
+  "density": 0.45,
+  "speed": 0.18,
+  "seed": 118,
+  "label": "GLUE DOTS",
+  "why": "keyword:dot"
+ },
+ "card-spread": {
+  "pattern": "marqueeStrip",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#eff7f7",
+   "a1": "#dc97ff",
+   "a2": "#22d3ee"
+  },
+  "density": 0.95,
+  "speed": 0.29,
+  "seed": 119,
+  "label": "CARD SPREAD",
+  "why": "keyword:gallery"
+ },
+ "page-flip": {
+  "pattern": "maskReveal",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#eff7f7",
+   "a1": "#34d399",
+   "a2": "#ff83d1"
+  },
+  "density": 0.75,
+  "speed": 0.12,
+  "seed": 120,
+  "label": "PAGE FLIP",
+  "why": "keyword:flip"
+ },
+ "bending-marquee": {
+  "pattern": "marqueeStrip",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#ffffff",
+   "a1": "#c98eff",
+   "a2": "#a3e635"
+  },
+  "density": 0.85,
+  "speed": 0.12,
+  "seed": 121,
+  "label": "BENDING MARQUEE",
+  "why": "keyword:marquee"
+ },
+ "aura-blob": {
+  "pattern": "gradientBlobs",
+  "palette": {
+   "bg": "#100810",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#9b9fff"
+  },
+  "density": 0.53,
+  "speed": 0.21,
+  "seed": 122,
+  "label": "AURA BLOB",
+  "why": "keyword:blob"
+ },
+ "aurora-beam": {
+  "pattern": "gradientBlobs",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#5cb8cf",
+   "a2": "#67aacb"
+  },
+  "density": 0.79,
+  "speed": 0.18,
+  "seed": 123,
+  "label": "AURORA BEAM",
+  "why": "keyword:glow"
+ },
+ "thinking-dots": {
+  "pattern": "gradientBlobs",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#9b9fff",
+   "a2": "#9b9fff"
+  },
+  "density": 0.2,
+  "speed": 0.12,
+  "seed": 124,
+  "label": "THINKING DOTS",
+  "why": "keyword:ink"
+ },
+ "rising-particles": {
+  "pattern": "gradientBlobs",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#9b9fff"
+  },
+  "density": 0.21,
+  "speed": 0.15,
+  "seed": 125,
+  "label": "RISING PARTICLES",
+  "why": "keyword:glow"
+ },
+ "landscape": {
+  "pattern": "perspectiveGrid",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#cb88ff"
+  },
+  "density": 0.36,
+  "speed": 0.28,
+  "seed": 126,
+  "label": "LANDSCAPE",
+  "why": "keyword:horizon"
+ },
+ "tech-wall": {
+  "pattern": "gradientBlobs",
+  "palette": {
+   "bg": "#191021",
+   "fg": "#f4f4f5",
+   "a1": "#ff7aff",
+   "a2": "#ff7aff"
+  },
+  "density": 0.31,
+  "speed": 0.26,
+  "seed": 127,
+  "label": "TECH WALL",
+  "why": "keyword:glow"
+ },
+ "spectral-clouds": {
+  "pattern": "barChart",
+  "palette": {
+   "bg": "#0a0a0a",
+   "fg": "#f4f4f5",
+   "a1": "#ff8c9b",
+   "a2": "#ff7af4"
+  },
+  "density": 0.34,
+  "speed": 0.18,
+  "seed": 128,
+  "label": "SPECTRAL CLOUDS",
+  "why": "keyword:metric"
+ },
+ "reel-gallery": {
+  "pattern": "marqueeStrip",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#81a3ff",
+   "a2": "#8b9fff"
+  },
+  "density": 0.62,
+  "speed": 0.26,
+  "seed": 129,
+  "label": "REEL GALLERY",
+  "why": "keyword:reel"
+ },
+ "grid-rise": {
+  "pattern": "cursorTrail",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#e681ff",
+   "a2": "#eb7fff"
+  },
+  "density": 0.35,
+  "speed": 0.36,
+  "seed": 130,
+  "label": "GRID RISE",
+  "why": "group"
+ },
+ "lenticular-carousel": {
+  "pattern": "maskReveal",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#adb5bd",
+   "a1": "#81a3ff",
+   "a2": "#ffffff"
+  },
+  "density": 0.95,
+  "speed": 0.17,
+  "seed": 131,
+  "label": "LENTICULAR CAROUSEL",
+  "why": "keyword:lenticular"
+ },
+ "scroll-stack": {
+  "pattern": "cardStack",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#a3e635",
+   "a2": "#dc97ff"
+  },
+  "density": 0.45,
+  "speed": 0.22,
+  "seed": 132,
+  "label": "SCROLL STACK",
+  "why": "group"
+ },
+ "frame-scrub": {
+  "pattern": "cardStack",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#d6d6d6",
+   "a1": "#fb923c",
+   "a2": "#34d399"
+  },
+  "density": 0.52,
+  "speed": 0.31,
+  "seed": 133,
+  "label": "FRAME SCRUB",
+  "why": "group"
+ },
+ "scroll-mask": {
+  "pattern": "cardStack",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#38bdf8",
+   "a2": "#c98eff"
+  },
+  "density": 0.26,
+  "speed": 0.17,
+  "seed": 134,
+  "label": "SCROLL MASK",
+  "why": "group"
+ },
+ "particle-morph": {
+  "pattern": "ditherNoise",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#a5a5a5",
+   "a1": "#dc97ff",
+   "a2": "#22d3ee"
+  },
+  "density": 0.44,
+  "speed": 0.13,
+  "seed": 135,
+  "label": "PARTICLE MORPH",
+  "why": "keyword:halftone"
+ },
+ "eclipse": {
+  "pattern": "dotField",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#90a3ff",
+   "a2": "#81a3ff"
+  },
+  "density": 0.52,
+  "speed": 0.23,
+  "seed": 136,
+  "label": "ECLIPSE",
+  "why": "group"
+ },
+ "scroll-portal": {
+  "pattern": "perspectiveGrid",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c98eff",
+   "a2": "#a3e635"
+  },
+  "density": 0.21,
+  "speed": 0.13,
+  "seed": 137,
+  "label": "SCROLL PORTAL",
+  "why": "keyword:portal"
+ },
+ "pixel-sculpt": {
+  "pattern": "ditherNoise",
+  "palette": {
+   "bg": "#190000",
+   "fg": "#f4f4f5",
+   "a1": "#f6aa09",
+   "a2": "#ff9f0a"
+  },
+  "density": 0.43,
+  "speed": 0.13,
+  "seed": 138,
+  "label": "PIXEL SCULPT",
+  "why": "keyword:pixel"
+ },
+ "neural-flash": {
+  "pattern": "rings",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#7aa1ff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.21,
+  "speed": 0.13,
+  "seed": 139,
+  "label": "NEURAL FLASH",
+  "why": "keyword:ring"
+ },
+ "inverted-dome": {
+  "pattern": "perspectiveGrid",
+  "palette": {
+   "bg": "#0a0a0a",
+   "fg": "#dedede",
+   "a1": "#a3e635",
+   "a2": "#dc97ff"
+  },
+  "density": 0.95,
+  "speed": 0.95,
+  "seed": 140,
+  "label": "INVERTED DOME",
+  "why": "keyword:grid"
+ },
+ "ravine": {
+  "pattern": "ribbons",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#fb923c",
+   "a2": "#34d399"
+  },
+  "density": 0.22,
+  "speed": 0.13,
+  "seed": 141,
+  "label": "RAVINE",
+  "why": "keyword:ray"
+ },
+ "long-exposure": {
+  "pattern": "gradientBlobs",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#83abff",
+   "a2": "#83abff"
+  },
+  "density": 0.33,
+  "speed": 0.18,
+  "seed": 142,
+  "label": "LONG EXPOSURE",
+  "why": "keyword:glow"
+ },
+ "glowing-ridges": {
+  "pattern": "gradientBlobs",
+  "palette": {
+   "bg": "#080008",
+   "fg": "#f4f4f5",
+   "a1": "#9599ff",
+   "a2": "#9b9fff"
+  },
+  "density": 0.26,
+  "speed": 0.16,
+  "seed": 143,
+  "label": "GLOWING RIDGES",
+  "why": "keyword:glow"
+ },
+ "bend-gallery": {
+  "pattern": "marqueeStrip",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#34d399",
+   "a2": "#ff83d1"
+  },
+  "density": 0.25,
+  "speed": 0.23,
+  "seed": 144,
+  "label": "BEND GALLERY",
+  "why": "keyword:gallery"
+ },
+ "twisting-gallery": {
+  "pattern": "marqueeStrip",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c98eff",
+   "a2": "#a3e635"
+  },
+  "density": 0.29,
+  "speed": 0.31,
+  "seed": 145,
+  "label": "TWISTING GALLERY",
+  "why": "keyword:gallery"
+ },
+ "glass-reveal": {
+  "pattern": "maskReveal",
+  "palette": {
+   "bg": "#212121",
+   "fg": "#f7f7f7",
+   "a1": "#22d3ee",
+   "a2": "#fb923c"
+  },
+  "density": 0.95,
+  "speed": 0.29,
+  "seed": 146,
+  "label": "GLASS REVEAL",
+  "why": "keyword:reveal"
+ },
+ "dolly-gallery": {
+  "pattern": "marqueeStrip",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#ff83d1",
+   "a2": "#38bdf8"
+  },
+  "density": 0.29,
+  "speed": 0.31,
+  "seed": 147,
+  "label": "DOLLY GALLERY",
+  "why": "keyword:gallery"
+ },
+ "tile-reveal": {
+  "pattern": "dotField",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#a3e635",
+   "a2": "#dc97ff"
+  },
+  "density": 0.78,
+  "speed": 0.85,
+  "seed": 148,
+  "label": "TILE REVEAL",
+  "why": "keyword:grid"
+ },
+ "depth-image": {
+  "pattern": "ribbons",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#fb923c",
+   "a2": "#34d399"
+  },
+  "density": 0.35,
+  "speed": 0.14,
+  "seed": 149,
+  "label": "DEPTH IMAGE",
+  "why": "group"
+ },
+ "ascii-ripple": {
+  "pattern": "ditherNoise",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#cb88ff",
+   "a2": "#ffffff"
+  },
+  "density": 0.25,
+  "speed": 0.26,
+  "seed": 150,
+  "label": "ASCII RIPPLE",
+  "why": "override"
+ },
+ "spectral-drape": {
+  "pattern": "dotField",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#8b9fff",
+   "a2": "#90a3ff"
+  },
+  "density": 0.22,
+  "speed": 0.12,
+  "seed": 151,
+  "label": "SPECTRAL DRAPE",
+  "why": "override"
+ },
+ "horizon-bloom": {
+  "pattern": "dotField",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.3,
+  "speed": 0.12,
+  "seed": 152,
+  "label": "HORIZON BLOOM",
+  "why": "override"
+ },
+ "photon-knot": {
+  "pattern": "rings",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.22,
+  "speed": 0.12,
+  "seed": 153,
+  "label": "PHOTON KNOT",
+  "why": "override"
+ },
+ "axial-beam": {
+  "pattern": "ribbons",
+  "palette": {
+   "bg": "#21106b",
+   "fg": "#f4f4f5",
+   "a1": "#fe7fff",
+   "a2": "#ff7aff"
+  },
+  "density": 0.33,
+  "speed": 0.12,
+  "seed": 154,
+  "label": "AXIAL BEAM",
+  "why": "override"
+ },
+ "nexus-rays": {
+  "pattern": "ribbons",
+  "palette": {
+   "bg": "#10083a",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.34,
+  "speed": 0.12,
+  "seed": 155,
+  "label": "NEXUS RAYS",
+  "why": "override"
+ },
+ "hexagonal-vault": {
+  "pattern": "dotField",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#9b9fff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.2,
+  "speed": 0.12,
+  "seed": 156,
+  "label": "HEXAGONAL VAULT",
+  "why": "override"
+ },
+ "prismatic-slats": {
+  "pattern": "perspectiveGrid",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#8b9fff"
+  },
+  "density": 0.23,
+  "speed": 0.12,
+  "seed": 157,
+  "label": "PRISMATIC SLATS",
+  "why": "override"
+ },
+ "luminous-filaments": {
+  "pattern": "ribbons",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.6,
+  "speed": 0.12,
+  "seed": 158,
+  "label": "LUMINOUS FILAMENTS",
+  "why": "override"
+ },
+ "interference-ribbons": {
+  "pattern": "ribbons",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#9b9fff"
+  },
+  "density": 0.41,
+  "speed": 0.12,
+  "seed": 159,
+  "label": "INTERFERENCE RIBBONS",
+  "why": "override"
+ },
+ "voxel-arc": {
+  "pattern": "dotField",
+  "palette": {
+   "bg": "#080810",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.28,
+  "speed": 0.12,
+  "seed": 160,
+  "label": "VOXEL ARC",
+  "why": "override"
+ },
+ "chroma-current": {
+  "pattern": "ribbons",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.28,
+  "speed": 0.12,
+  "seed": 161,
+  "label": "CHROMA CURRENT",
+  "why": "override"
+ },
+ "cloud-atlas": {
+  "pattern": "particleLines",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#b890ff",
+   "a2": "#ad9bff"
+  },
+  "density": 0.32,
+  "speed": 0.12,
+  "seed": 162,
+  "label": "CLOUD ATLAS",
+  "why": "override"
+ },
+ "satin-ridges": {
+  "pattern": "ribbons",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#ff83d1",
+   "a2": "#38bdf8"
+  },
+  "density": 0.47,
+  "speed": 0.12,
+  "seed": 163,
+  "label": "SATIN RIDGES",
+  "why": "keyword:flow"
+ },
+ "concentric-tides": {
+  "pattern": "maskReveal",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#9b9fff",
+   "a2": "#bf91ed"
+  },
+  "density": 0.39,
+  "speed": 0.12,
+  "seed": 164,
+  "label": "CONCENTRIC TIDES",
+  "why": "keyword:glass"
+ },
+ "contour-tide": {
+  "pattern": "ribbons",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#fb923c",
+   "a2": "#34d399"
+  },
+  "density": 0.2,
+  "speed": 0.12,
+  "seed": 165,
+  "label": "CONTOUR TIDE",
+  "why": "keyword:wave"
+ },
+ "spiral-funnel": {
+  "pattern": "rings",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#9b9fff"
+  },
+  "density": 0.31,
+  "speed": 0.12,
+  "seed": 166,
+  "label": "SPIRAL FUNNEL",
+  "why": "keyword:vortex"
+ },
+ "astral-shell": {
+  "pattern": "wireGlobe",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#ba8dff",
+   "a2": "#9797ff"
+  },
+  "density": 0.27,
+  "speed": 0.12,
+  "seed": 167,
+  "label": "ASTRAL SHELL",
+  "why": "keyword:globe"
+ },
+ "binary-orbits": {
+  "pattern": "rings",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#b692ff",
+   "a2": "#9b9fff"
+  },
+  "density": 0.41,
+  "speed": 0.12,
+  "seed": 168,
+  "label": "BINARY ORBITS",
+  "why": "keyword:spiral"
+ },
+ "glyph-tide": {
+  "pattern": "ditherNoise",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#9b9fff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.21,
+  "speed": 0.12,
+  "seed": 169,
+  "label": "GLYPH TIDE",
+  "why": "keyword:ascii"
+ },
+ "terminal-rain": {
+  "pattern": "ditherNoise",
+  "palette": {
+   "bg": "#101019",
+   "fg": "#f4f4f5",
+   "a1": "#ba8dff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.28,
+  "speed": 0.12,
+  "seed": 170,
+  "label": "TERMINAL RAIN",
+  "why": "keyword:ascii"
+ },
+ "glyph-ember": {
+  "pattern": "ditherNoise",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#9b9fff"
+  },
+  "density": 0.44,
+  "speed": 0.12,
+  "seed": 171,
+  "label": "GLYPH EMBER",
+  "why": "keyword:ascii"
+ },
+ "glyph-orb": {
+  "pattern": "wireGlobe",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#9b9fff"
+  },
+  "density": 0.29,
+  "speed": 0.12,
+  "seed": 172,
+  "label": "GLYPH ORB",
+  "why": "keyword:globe"
+ },
+ "glyph-sonar": {
+  "pattern": "ditherNoise",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#9b9fff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.21,
+  "speed": 0.12,
+  "seed": 173,
+  "label": "GLYPH SONAR",
+  "why": "keyword:ascii"
+ },
+ "elastic-lettering": {
+  "pattern": "splitText",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#cecece",
+   "a1": "#38bdf8",
+   "a2": "#c98eff"
+  },
+  "density": 0.47,
+  "speed": 0.12,
+  "seed": 174,
+  "label": "ELASTIC LETTERING",
+  "why": "group"
+ },
+ "signal-type": {
+  "pattern": "splitText",
+  "palette": {
+   "bg": "#080008",
+   "fg": "#f4f4f5",
+   "a1": "#9599ff",
+   "a2": "#8b9fff"
+  },
+  "density": 0.41,
+  "speed": 0.12,
+  "seed": 175,
+  "label": "SIGNAL TYPE",
+  "why": "group"
+ },
+ "spring-lettering": {
+  "pattern": "splitText",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#ffffff",
+   "a1": "#8b9fff",
+   "a2": "#83abff"
+  },
+  "density": 0.59,
+  "speed": 0.12,
+  "seed": 176,
+  "label": "SPRING LETTERING",
+  "why": "group"
+ },
+ "smoke-type": {
+  "pattern": "splitText",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#bdbdbd",
+   "a1": "#c98eff",
+   "a2": "#a3e635"
+  },
+  "density": 0.38,
+  "speed": 0.12,
+  "seed": 177,
+  "label": "SMOKE TYPE",
+  "why": "group"
+ },
+ "rising-ink": {
+  "pattern": "splitText",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#ffffff",
+   "a1": "#22d3ee",
+   "a2": "#fb923c"
+  },
+  "density": 0.63,
+  "speed": 0.12,
+  "seed": 178,
+  "label": "RISING INK",
+  "why": "group"
+ },
+ "domino-lettering": {
+  "pattern": "splitText",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#b5b5b5",
+   "a1": "#ff83d1",
+   "a2": "#38bdf8"
+  },
+  "density": 0.52,
+  "speed": 0.12,
+  "seed": 179,
+  "label": "DOMINO LETTERING",
+  "why": "group"
+ },
+ "glyph-lottery": {
+  "pattern": "marqueeStrip",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#a5a5a5",
+   "a1": "#a3e635",
+   "a2": "#dc97ff"
+  },
+  "density": 0.43,
+  "speed": 0.12,
+  "seed": 180,
+  "label": "GLYPH LOTTERY",
+  "why": "keyword:lottery"
+ },
+ "cipher-reveal": {
+  "pattern": "splitText",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#fb923c",
+   "a2": "#34d399"
+  },
+  "density": 0.36,
+  "speed": 0.12,
+  "seed": 181,
+  "label": "CIPHER REVEAL",
+  "why": "group"
+ },
+ "luminous-type": {
+  "pattern": "splitText",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#38bdf8",
+   "a2": "#c98eff"
+  },
+  "density": 0.29,
+  "speed": 0.12,
+  "seed": 182,
+  "label": "LUMINOUS TYPE",
+  "why": "group"
+ },
+ "orbital-type": {
+  "pattern": "splitText",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#8b9fff",
+   "a2": "#90a3ff"
+  },
+  "density": 0.39,
+  "speed": 0.12,
+  "seed": 183,
+  "label": "ORBITAL TYPE",
+  "why": "group"
+ },
+ "gravity-letters": {
+  "pattern": "splitText",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#34d399",
+   "a2": "#ff83d1"
+  },
+  "density": 0.35,
+  "speed": 0.12,
+  "seed": 184,
+  "label": "GRAVITY LETTERS",
+  "why": "group"
+ },
+ "wave-lettering": {
+  "pattern": "splitText",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#90a3ff",
+   "a2": "#ffffff"
+  },
+  "density": 0.24,
+  "speed": 0.12,
+  "seed": 185,
+  "label": "WAVE LETTERING",
+  "why": "group"
+ },
+ "mesh-lettering": {
+  "pattern": "splitText",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#8b9fff",
+   "a2": "#83abff"
+  },
+  "density": 0.35,
+  "speed": 0.12,
+  "seed": 186,
+  "label": "MESH LETTERING",
+  "why": "group"
+ },
+ "stipple-type": {
+  "pattern": "splitText",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#c5c5c5",
+   "a1": "#ff83d1",
+   "a2": "#38bdf8"
+  },
+  "density": 0.54,
+  "speed": 0.12,
+  "seed": 187,
+  "label": "STIPPLE TYPE",
+  "why": "group"
+ },
+ "vapor-type": {
+  "pattern": "splitText",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#a3e635",
+   "a2": "#dc97ff"
+  },
+  "density": 0.41,
+  "speed": 0.12,
+  "seed": 188,
+  "label": "VAPOR TYPE",
+  "why": "group"
+ },
+ "typographic-wall": {
+  "pattern": "splitText",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#8b9fff",
+   "a2": "#ffffff"
+  },
+  "density": 0.21,
+  "speed": 0.12,
+  "seed": 189,
+  "label": "TYPOGRAPHIC WALL",
+  "why": "group"
+ },
+ "passage-gallery": {
+  "pattern": "perspectiveGrid",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#a194ff"
+  },
+  "density": 0.28,
+  "speed": 0.12,
+  "seed": 190,
+  "label": "PASSAGE GALLERY",
+  "why": "keyword:tunnel"
+ },
+ "constellation-gallery": {
+  "pattern": "wireGlobe",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#9b9fff",
+   "a2": "#ffffff"
+  },
+  "density": 0.47,
+  "speed": 0.12,
+  "seed": 191,
+  "label": "CONSTELLATION GALLERY",
+  "why": "keyword:globe"
+ },
+ "concave-carousel": {
+  "pattern": "marqueeStrip",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.4,
+  "speed": 0.12,
+  "seed": 192,
+  "label": "CONCAVE CAROUSEL",
+  "why": "keyword:carousel"
+ },
+ "orbit-reel": {
+  "pattern": "marqueeStrip",
+  "palette": {
+   "bg": "#000808",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#8b9fff"
+  },
+  "density": 0.3,
+  "speed": 0.12,
+  "seed": 193,
+  "label": "ORBIT REEL",
+  "why": "keyword:carousel"
+ },
+ "depth-ribbon": {
+  "pattern": "ribbons",
+  "palette": {
+   "bg": "#000808",
+   "fg": "#f4f4f5",
+   "a1": "#ff9725",
+   "a2": "#ff7aff"
+  },
+  "density": 0.36,
+  "speed": 0.12,
+  "seed": 194,
+  "label": "DEPTH RIBBON",
+  "why": "keyword:ribbon"
+ },
+ "prism-carousel": {
+  "pattern": "ribbons",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#ff7aff",
+   "a2": "#ff7aff"
+  },
+  "density": 0.35,
+  "speed": 0.12,
+  "seed": 195,
+  "label": "PRISM CAROUSEL",
+  "why": "keyword:flow"
+ },
+ "iris-gallery": {
+  "pattern": "ribbons",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#a3e635",
+   "a2": "#dc97ff"
+  },
+  "density": 0.52,
+  "speed": 0.12,
+  "seed": 196,
+  "label": "IRIS GALLERY",
+  "why": "keyword:iris"
+ },
+ "album-rail": {
+  "pattern": "marqueeStrip",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#b897ca",
+   "a2": "#ffffff"
+  },
+  "density": 0.39,
+  "speed": 0.12,
+  "seed": 197,
+  "label": "ALBUM RAIL",
+  "why": "keyword:carousel"
+ },
+ "expanding-grid": {
+  "pattern": "perspectiveGrid",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#38bdf8",
+   "a2": "#c98eff"
+  },
+  "density": 0.46,
+  "speed": 0.12,
+  "seed": 198,
+  "label": "EXPANDING GRID",
+  "why": "keyword:grid"
+ },
+ "contact-sheet": {
+  "pattern": "ribbons",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#a1a3ff",
+   "a2": "#ffffff"
+  },
+  "density": 0.39,
+  "speed": 0.12,
+  "seed": 199,
+  "label": "CONTACT SHEET",
+  "why": "keyword:stream"
+ },
+ "elastic-reel": {
+  "pattern": "marqueeStrip",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#ff7aff",
+   "a2": "#ff7aff"
+  },
+  "density": 0.34,
+  "speed": 0.12,
+  "seed": 200,
+  "label": "ELASTIC REEL",
+  "why": "keyword:carousel"
+ },
+ "vertical-reel": {
+  "pattern": "rings",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.39,
+  "speed": 0.12,
+  "seed": 201,
+  "label": "MOMENTUM RING",
+  "why": "keyword:ring"
+ },
+ "spin-shutter": {
+  "pattern": "rings",
+  "palette": {
+   "bg": "#000808",
+   "fg": "#f4f4f5",
+   "a1": "#ff7aff",
+   "a2": "#ff7aff"
+  },
+  "density": 0.31,
+  "speed": 0.12,
+  "seed": 202,
+  "label": "SPIN SHUTTER",
+  "why": "keyword:orbit"
+ },
+ "helix-gallery": {
+  "pattern": "rings",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#ff83d1",
+   "a2": "#38bdf8"
+  },
+  "density": 0.54,
+  "speed": 0.12,
+  "seed": 203,
+  "label": "HELIX GALLERY",
+  "why": "keyword:spiral"
+ },
+ "chrome-orbit": {
+  "pattern": "rings",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#90a3ff",
+   "a2": "#ffffff"
+  },
+  "density": 0.35,
+  "speed": 0.12,
+  "seed": 204,
+  "label": "CHROME ORBIT",
+  "why": "keyword:ring"
+ },
+ "chroma-halo": {
+  "pattern": "cursorTrail",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#b5b5f7",
+   "a1": "#aaaaff",
+   "a2": "#9c9ce6"
+  },
+  "density": 0.95,
+  "speed": 0.12,
+  "seed": 205,
+  "label": "CHROMA HALO",
+  "why": "group"
+ },
+ "drafting-cursor": {
+  "pattern": "cursorTrail",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#90a3ff"
+  },
+  "density": 0.26,
+  "speed": 0.12,
+  "seed": 206,
+  "label": "DRAFTING CURSOR",
+  "why": "group"
+ },
+ "glyph-stream": {
+  "pattern": "cursorTrail",
+  "palette": {
+   "bg": "#080800",
+   "fg": "#f4f4f5",
+   "a1": "#c591ff",
+   "a2": "#bc8cff"
+  },
+  "density": 0.29,
+  "speed": 0.12,
+  "seed": 207,
+  "label": "GLYPH STREAM",
+  "why": "group"
+ },
+ "dappled-light": {
+  "pattern": "dotField",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#aa97ff",
+   "a2": "#b3a1ff"
+  },
+  "density": 0.58,
+  "speed": 0.12,
+  "seed": 208,
+  "label": "DAPPLED LIGHT",
+  "why": "group"
+ },
+ "shatter-type": {
+  "pattern": "splitText",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#ffffff",
+   "a1": "#c98eff",
+   "a2": "#a3e635"
+  },
+  "density": 0.76,
+  "speed": 0.12,
+  "seed": 209,
+  "label": "SHATTER TYPE",
+  "why": "group"
+ },
+ "ribbon-trail": {
+  "pattern": "ribbons",
+  "palette": {
+   "bg": "#000800",
+   "fg": "#f4f4f5",
+   "a1": "#8b9fff",
+   "a2": "#83abff"
+  },
+  "density": 0.25,
+  "speed": 0.12,
+  "seed": 210,
+  "label": "RIBBON TRAIL",
+  "why": "keyword:ribbon"
+ },
+ "stardust-cursor": {
+  "pattern": "cursorTrail",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#9b9fff",
+   "a2": "#8b9fff"
+  },
+  "density": 0.2,
+  "speed": 0.12,
+  "seed": 211,
+  "label": "STARDUST CURSOR",
+  "why": "group"
+ },
+ "pigment-trail": {
+  "pattern": "cursorTrail",
+  "palette": {
+   "bg": "#000800",
+   "fg": "#f4f4f5",
+   "a1": "#8b9fff",
+   "a2": "#83abff"
+  },
+  "density": 0.29,
+  "speed": 0.12,
+  "seed": 212,
+  "label": "PIGMENT TRAIL",
+  "why": "group"
+ },
+ "arc-cursor": {
+  "pattern": "cursorTrail",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#9b9fff"
+  },
+  "density": 0.23,
+  "speed": 0.12,
+  "seed": 213,
+  "label": "ARC CURSOR",
+  "why": "group"
+ },
+ "gyroscope-cursor": {
+  "pattern": "cursorTrail",
+  "palette": {
+   "bg": "#080800",
+   "fg": "#f4f4f5",
+   "a1": "#8b9fff",
+   "a2": "#90a3ff"
+  },
+  "density": 0.2,
+  "speed": 0.12,
+  "seed": 214,
+  "label": "GYROSCOPE CURSOR",
+  "why": "group"
+ },
+ "label-orbit": {
+  "pattern": "splitText",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#8b9fff",
+   "a2": "#ad91ff"
+  },
+  "density": 0.27,
+  "speed": 0.12,
+  "seed": 215,
+  "label": "LABEL ORBIT",
+  "why": "group"
+ },
+ "tessera-trail": {
+  "pattern": "splitText",
+  "palette": {
+   "bg": "#080800",
+   "fg": "#f4f4f5",
+   "a1": "#8b9fff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.25,
+  "speed": 0.12,
+  "seed": 216,
+  "label": "TESSERA TRAIL",
+  "why": "group"
+ },
+ "celebration-cursor": {
+  "pattern": "cardStack",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#9b9fff",
+   "a2": "#8b9fff"
+  },
+  "density": 0.23,
+  "speed": 0.12,
+  "seed": 217,
+  "label": "CELEBRATION CURSOR",
+  "why": "keyword:pill"
+ },
+ "snapshot-trail": {
+  "pattern": "cardStack",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#a1a3ff"
+  },
+  "density": 0.58,
+  "speed": 0.12,
+  "seed": 218,
+  "label": "SNAPSHOT TRAIL",
+  "why": "keyword:snapshot"
+ },
+ "elastic-sticker": {
+  "pattern": "marqueeStrip",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#ff78ff",
+   "a2": "#ff7aff"
+  },
+  "density": 0.38,
+  "speed": 0.12,
+  "seed": 219,
+  "label": "ELASTIC STICKER",
+  "why": "keyword:ticker"
+ },
+ "glimmer-wrap": {
+  "pattern": "dotField",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#8b9fff",
+   "a2": "#90a3ff"
+  },
+  "density": 0.21,
+  "speed": 0.12,
+  "seed": 220,
+  "label": "GLIMMER WRAP",
+  "why": "keyword:star"
+ },
+ "ribbon-type": {
+  "pattern": "splitText",
+  "palette": {
+   "bg": "#080800",
+   "fg": "#f4f4f5",
+   "a1": "#fe7fff",
+   "a2": "#ff7aff"
+  },
+  "density": 0.38,
+  "speed": 0.12,
+  "seed": 221,
+  "label": "RIBBON TYPE",
+  "why": "group"
+ },
+ "ghost-type": {
+  "pattern": "splitText",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#38bdf8",
+   "a2": "#c98eff"
+  },
+  "density": 0.35,
+  "speed": 0.12,
+  "seed": 222,
+  "label": "GHOST TYPE",
+  "why": "group"
+ },
+ "text-morph": {
+  "pattern": "splitText",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#ffffff",
+   "a1": "#dc97ff",
+   "a2": "#22d3ee"
+  },
+  "density": 0.57,
+  "speed": 0.12,
+  "seed": 223,
+  "label": "TEXT MORPH",
+  "why": "group"
+ },
+ "tumble-wall": {
+  "pattern": "marqueeStrip",
+  "palette": {
+   "bg": "#000000",
+   "fg": "#f4f4f5",
+   "a1": "#a1a3ff",
+   "a2": "#ffffff"
+  },
+  "density": 0.65,
+  "speed": 0.12,
+  "seed": 224,
+  "label": "TUMBLE WALL",
+  "why": "keyword:gallery"
+ },
+ "loupe-image": {
+  "pattern": "cardStack",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c98eff",
+   "a2": "#a3e635"
+  },
+  "density": 0.9,
+  "speed": 0.12,
+  "seed": 225,
+  "label": "LOUPE IMAGE",
+  "why": "group"
+ },
+ "ember-reveal": {
+  "pattern": "maskReveal",
+  "palette": {
+   "bg": "#210008",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.4,
+  "speed": 0.12,
+  "seed": 226,
+  "label": "EMBER REVEAL",
+  "why": "keyword:reveal"
+ },
+ "pond-image": {
+  "pattern": "gradientBlobs",
+  "palette": {
+   "bg": "#000800",
+   "fg": "#dedede",
+   "a1": "#83abff",
+   "a2": "#ffffff"
+  },
+  "density": 0.93,
+  "speed": 0.12,
+  "seed": 227,
+  "label": "POND IMAGE",
+  "why": "keyword:liquid"
+ },
+ "fading-stars": {
+  "pattern": "marqueeStrip",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.23,
+  "speed": 0.12,
+  "seed": 228,
+  "label": "FADING STARS",
+  "why": "keyword:rail"
+ },
+ "ring-field": {
+  "pattern": "rings",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#81a3ff"
+  },
+  "density": 0.33,
+  "speed": 0.12,
+  "seed": 229,
+  "label": "RING FIELD",
+  "why": "keyword:ring"
+ },
+ "scroll-bend": {
+  "pattern": "perspectiveGrid",
+  "palette": {
+   "bg": "#080808",
+   "fg": "#f4f4f5",
+   "a1": "#c7b3ff",
+   "a2": "#c7b3ff"
+  },
+  "density": 0.41,
+  "speed": 0.12,
+  "seed": 230,
+  "label": "SCROLL BEND",
+  "why": "keyword:speed"
+ }
+}

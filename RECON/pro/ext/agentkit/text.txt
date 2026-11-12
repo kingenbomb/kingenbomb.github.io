@@ -1,0 +1,212 @@
+Library
+Resources
+Agents
+Pricing
+Search...
+⌘
+K
+Sign In
+Get Lifetime Access
+Agent Kit
+20
+Get Started
+Introduction
+Installation
+MCP Server
+Saved
+Browse
+Everything
+Setup
+React Bits Pro Skill
+Design Skills
+Apple Minimal
+Corporate Trust
+Editorial
+Luxury Serif
+Neobrutalism
+Playful Motion
+Swiss Grid
+Terminal Dark
+Prompts
+Agency
+Consumer Hardware
+Developer Tool
+Ecommerce Brand
+Fintech
+Fitness
+Real Estate
+SaaS Landing Page
+Recipes
+Agency Homepage
+Product Launch Page
+SaaS Homepage
+Agent Kit
+
+Design skills, page prompts and full-page recipes you hand to your AI agent.
+
+All
+20
+Skills
+8
+Prompts
+8
+Recipes
+3
+Setup
+1
+React Bits Pro Skill
+
+Teach your agent to install and use React Bits Pro components and blocks correctly on the first try.
+
+View
+Setup
+Apple Minimal
+
+Build product landing pages with Apple's restraint: one idea per viewport, a giant type scale, generous negative space, and the product as the only hero.
+
+View
+Skill
+Corporate Trust
+
+Build enterprise, finance and healthcare pages where credibility is the entire design objective: a conservative palette, a ranked trust ladder, dense organised proof and a demo-request form that a procurement committee finds legible.
+
+View
+Skill
+Editorial
+
+Build magazine-grade editorial landing pages with a real serif display face, an asymmetric 12-column grid, controlled measure in ch, correct drop caps and pull quotes, hairline rules, and images that bleed and break the grid.
+
+View
+Skill
+Luxury Serif
+
+Build high-end fashion, hospitality and jewellery pages where restraint reads as expensive: a high-contrast display serif, wide small-caps tracking, hairline rules and slow, deliberate motion.
+
+View
+Skill
+Neobrutalism
+
+Build loud neobrutalist landing pages with 3px black borders, hard offset shadows with zero blur, saturated flat colour blocks, and chunky type that physically moves when you press it.
+
+View
+Skill
+Playful Motion
+
+Build energetic consumer product pages driven by real spring physics: staggered reveals, scroll-linked transforms, oversized rounded geometry and micro-interactions that stay purposeful and never fight the reader.
+
+View
+Skill
+Swiss Grid
+
+Build landing pages in the International Typographic Style: a visible 12-column modular grid, flush-left grotesque type at three sizes, and one accent used as data.
+
+View
+Skill
+Free
+Terminal Dark
+
+Build developer-tool landing pages that read as software: dark-first surfaces, real compiling code as the hero, terminal motifs, hairline borders, and syntax as palette.
+
+View
+Copy for AI
+Skill
+Agency
+
+Build a studio site where the work is the pitch: selected projects, a real process, named people, and an enquiry form that filters for the clients you want.
+
+View
+Prompt
+Consumer Hardware
+
+Build a product page for a physical consumer device: desire before specs, one honest hero photograph, a spec table buyers actually read, and shipping, warranty and returns resolved before the visitor hunts for them.
+
+View
+Prompt
+Developer Tool
+
+Build a landing page for engineers: real code in the hero, a copy-paste quickstart, honest benchmarks, credible open-source signals, and zero marketing tics that close tabs.
+
+View
+Prompt
+Ecommerce Brand
+
+Build a DTC product page where every unanswered question is a lost sale: hero shot, product story, sizing, variants, shipping and returns as conversion levers, honest reviews, and a mobile-first sticky add-to-cart.
+
+View
+Prompt
+Fintech
+
+Build a financial product page where trust is the design problem: licensing, deposit protection, security, fee transparency, and required risk disclosures placed to convert.
+
+View
+Prompt
+Fitness
+
+Build a fitness page that converts an emotional decision into a booked trial: transformation framing without unfounded claims, schedule UI that works on mobile, honest proof, and transparent pricing.
+
+View
+Prompt
+Real Estate
+
+Build a property page where imagery does the selling for a single listing, development launch, or brokerage, with a shot-ordered gallery, mobile-readable floor plans, spec tables, and a viewing-request conversion.
+
+View
+Prompt
+SaaS Landing Page
+
+Build a SaaS landing page that converts self-serve signups through problem framing, product proof, objection handling, pricing clarity, and a single dominant CTA.
+
+View
+Prompt
+Agency Homepage
+
+A tested 10-block arrangement that assembles a complete creative or technical studio homepage (positioning through enquiry) from React Bits Pro blocks in one prompt.
+
+View
+Recipe
+Product Launch Page
+
+A tested block arrangement that assembles a full product-launch page from React Bits Pro blocks (announcement hero through waitlist capture) in one prompt.
+
+View
+Recipe
+SaaS Homepage
+
+A tested 13-block arrangement that assembles a complete self-serve B2B SaaS homepage (navigation through footer) from React Bits Pro blocks in one prompt.
+
+View
+Recipe
+
+Animated components, blocks, and templates for React. Pay once, ship stunning pages forever.
+
+pro@reactbits.dev
+Site
+Home
+Builder (Beta)
+Pricing
+Testimonials
+FAQs
+Roadmap
+Changelog
+Free Components
+Docs
+Introduction
+Installation
+MCP Server
+Components
+Blocks
+Templates
+Resources
+About
+Use cases
+Comparisons
+Alternatives
+For AI agents
+Legal & Account
+Login
+Affiliate
+License
+Privacy
+Contact
+
+© 2026 pro.reactbits.dev. All rights reserved.

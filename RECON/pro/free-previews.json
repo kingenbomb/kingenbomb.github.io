@@ -1,0 +1,1521 @@
+{
+ "ascii-text": {
+  "category": "text-animations",
+  "name": "ASCII Text",
+  "webm": true,
+  "poster": true,
+  "bytes": 582957
+ },
+ "blur-text": {
+  "category": "text-animations",
+  "name": "Blur Text",
+  "webm": true,
+  "poster": true,
+  "bytes": 61925
+ },
+ "circular-text": {
+  "category": "text-animations",
+  "name": "Circular Text",
+  "webm": true,
+  "poster": true,
+  "bytes": 601678
+ },
+ "count-up": {
+  "category": "text-animations",
+  "name": "Count Up",
+  "webm": true,
+  "poster": true,
+  "bytes": 64666
+ },
+ "curved-loop": {
+  "category": "text-animations",
+  "name": "Curved Loop",
+  "webm": true,
+  "poster": true,
+  "bytes": 287899
+ },
+ "decrypted-text": {
+  "category": "text-animations",
+  "name": "Decrypted Text",
+  "webm": true,
+  "poster": true,
+  "bytes": 114117
+ },
+ "depth-text": {
+  "category": "text-animations",
+  "name": "Depth Text",
+  "webm": true,
+  "poster": true,
+  "bytes": 206572
+ },
+ "echo-text": {
+  "category": "text-animations",
+  "name": "Echo Text",
+  "webm": true,
+  "poster": true,
+  "bytes": 302357
+ },
+ "falling-text": {
+  "category": "text-animations",
+  "name": "Falling Text",
+  "webm": true,
+  "poster": true,
+  "bytes": 366781
+ },
+ "fold-text": {
+  "category": "text-animations",
+  "name": "Fold Text",
+  "webm": true,
+  "poster": true,
+  "bytes": 92021
+ },
+ "fuzzy-text": {
+  "category": "text-animations",
+  "name": "Fuzzy Text",
+  "webm": true,
+  "poster": true,
+  "bytes": 705018
+ },
+ "glitch-text": {
+  "category": "text-animations",
+  "name": "Glitch Text",
+  "webm": true,
+  "poster": true,
+  "bytes": 250563
+ },
+ "gradient-text": {
+  "category": "text-animations",
+  "name": "Gradient Text",
+  "webm": true,
+  "poster": true,
+  "bytes": 38455
+ },
+ "masked-heading": {
+  "category": "text-animations",
+  "name": "Masked Heading",
+  "webm": true,
+  "poster": true,
+  "bytes": 226906
+ },
+ "particle-text": {
+  "category": "text-animations",
+  "name": "Particle Text",
+  "webm": true,
+  "poster": true,
+  "bytes": 519731
+ },
+ "rotating-text": {
+  "category": "text-animations",
+  "name": "Rotating Text",
+  "webm": true,
+  "poster": true,
+  "bytes": 48355
+ },
+ "scrambled-text": {
+  "category": "text-animations",
+  "name": "Scrambled Text",
+  "webm": true,
+  "poster": true,
+  "bytes": 147831
+ },
+ "scroll-float": {
+  "category": "text-animations",
+  "name": "Scroll Float",
+  "webm": true,
+  "poster": true,
+  "bytes": 95309
+ },
+ "scroll-reveal": {
+  "category": "text-animations",
+  "name": "Scroll Reveal",
+  "webm": true,
+  "poster": true,
+  "bytes": 264084
+ },
+ "scroll-velocity": {
+  "category": "text-animations",
+  "name": "Scroll Velocity",
+  "webm": true,
+  "poster": true,
+  "bytes": 285251
+ },
+ "shiny-text": {
+  "category": "text-animations",
+  "name": "Shiny Text",
+  "webm": true,
+  "poster": true,
+  "bytes": 31281
+ },
+ "shuffle": {
+  "category": "text-animations",
+  "name": "Shuffle",
+  "webm": true,
+  "poster": true,
+  "bytes": 68483
+ },
+ "split-flap-text": {
+  "category": "text-animations",
+  "name": "Split Flap Text",
+  "webm": true,
+  "poster": true,
+  "bytes": 153956
+ },
+ "split-text": {
+  "category": "text-animations",
+  "name": "Split Text",
+  "webm": true,
+  "poster": true,
+  "bytes": 81872
+ },
+ "stroke-text": {
+  "category": "text-animations",
+  "name": "Stroke Text",
+  "webm": true,
+  "poster": true,
+  "bytes": 44705
+ },
+ "tech-text": {
+  "category": "text-animations",
+  "name": "Tech Text",
+  "webm": true,
+  "poster": true,
+  "bytes": 243150
+ },
+ "text-cursor": {
+  "category": "text-animations",
+  "name": "Text Cursor",
+  "webm": true,
+  "poster": true,
+  "bytes": 108115
+ },
+ "text-loop": {
+  "category": "text-animations",
+  "name": "Text Loop",
+  "webm": true,
+  "poster": true,
+  "bytes": 253330
+ },
+ "text-pressure": {
+  "category": "text-animations",
+  "name": "Text Pressure",
+  "webm": true,
+  "poster": true,
+  "bytes": 232346
+ },
+ "text-type": {
+  "category": "text-animations",
+  "name": "Text Type",
+  "webm": true,
+  "poster": true,
+  "bytes": 70061
+ },
+ "true-focus": {
+  "category": "text-animations",
+  "name": "True Focus",
+  "webm": true,
+  "poster": true,
+  "bytes": 68470
+ },
+ "variable-proximity": {
+  "category": "text-animations",
+  "name": "Variable Proximity",
+  "webm": true,
+  "poster": true,
+  "bytes": 194938
+ },
+ "warp-text": {
+  "category": "text-animations",
+  "name": "Warp Text",
+  "webm": true,
+  "poster": true,
+  "bytes": 337507
+ },
+ "animated-content": {
+  "category": "animations",
+  "name": "Animated Content",
+  "webm": true,
+  "poster": true,
+  "bytes": 163268
+ },
+ "blob-cursor": {
+  "category": "animations",
+  "name": "Blob Cursor",
+  "webm": true,
+  "poster": true,
+  "bytes": 88919
+ },
+ "click-spark": {
+  "category": "animations",
+  "name": "Click Spark",
+  "webm": true,
+  "poster": true,
+  "bytes": 54462
+ },
+ "crosshair": {
+  "category": "animations",
+  "name": "Crosshair",
+  "webm": true,
+  "poster": true,
+  "bytes": 114992
+ },
+ "crystalized-ball": {
+  "category": "animations",
+  "name": "Crystalized Ball",
+  "webm": true,
+  "poster": true,
+  "bytes": 746075
+ },
+ "cubes": {
+  "category": "animations",
+  "name": "Cubes",
+  "webm": true,
+  "poster": true,
+  "bytes": 496351
+ },
+ "cursor-grid": {
+  "category": "animations",
+  "name": "Cursor Grid",
+  "webm": true,
+  "poster": true,
+  "bytes": 81895
+ },
+ "dither-veil": {
+  "category": "animations",
+  "name": "Dither Veil",
+  "webm": true,
+  "poster": true,
+  "bytes": 746801
+ },
+ "elastic-mesh": {
+  "category": "animations",
+  "name": "Elastic Mesh",
+  "webm": true,
+  "poster": true,
+  "bytes": 135359
+ },
+ "electric-border": {
+  "category": "animations",
+  "name": "Electric Border",
+  "webm": true,
+  "poster": true,
+  "bytes": 203926
+ },
+ "electric-logo": {
+  "category": "animations",
+  "name": "Electric Logo",
+  "webm": true,
+  "poster": true,
+  "bytes": 631449
+ },
+ "fade-content": {
+  "category": "animations",
+  "name": "Fade Content",
+  "webm": true,
+  "poster": true,
+  "bytes": 214849
+ },
+ "ghost-cursor": {
+  "category": "animations",
+  "name": "Ghost Cursor",
+  "webm": true,
+  "poster": true,
+  "bytes": 99083
+ },
+ "glare-hover": {
+  "category": "animations",
+  "name": "Glare Hover",
+  "webm": true,
+  "poster": true,
+  "bytes": 77220
+ },
+ "glow-cursor": {
+  "category": "animations",
+  "name": "Glow Cursor",
+  "webm": true,
+  "poster": true,
+  "bytes": 59037
+ },
+ "gradual-blur": {
+  "category": "animations",
+  "name": "Gradual Blur",
+  "webm": true,
+  "poster": true,
+  "bytes": 468733
+ },
+ "halftone-reveal": {
+  "category": "animations",
+  "name": "Halftone Reveal",
+  "webm": true,
+  "poster": true,
+  "bytes": 447584
+ },
+ "image-trail": {
+  "category": "animations",
+  "name": "Image Trail",
+  "webm": true,
+  "poster": true,
+  "bytes": 279492
+ },
+ "laser-flow": {
+  "category": "animations",
+  "name": "Laser Flow",
+  "webm": true,
+  "poster": true,
+  "bytes": 103751
+ },
+ "logo-loop": {
+  "category": "animations",
+  "name": "Logo Loop",
+  "webm": true,
+  "poster": true,
+  "bytes": 104534
+ },
+ "magnet": {
+  "category": "animations",
+  "name": "Magnet",
+  "webm": true,
+  "poster": true,
+  "bytes": 77364
+ },
+ "meta-balls": {
+  "category": "animations",
+  "name": "Meta Balls",
+  "webm": true,
+  "poster": true,
+  "bytes": 184826
+ },
+ "metallic-paint": {
+  "category": "animations",
+  "name": "Metallic Paint",
+  "webm": true,
+  "poster": true,
+  "bytes": 375166
+ },
+ "noise": {
+  "category": "animations",
+  "name": "Noise",
+  "webm": true,
+  "poster": true,
+  "bytes": 433839
+ },
+ "orbit-images": {
+  "category": "animations",
+  "name": "Orbit Images",
+  "webm": true,
+  "poster": true,
+  "bytes": 257606
+ },
+ "pixel-swap": {
+  "category": "animations",
+  "name": "Pixel Swap",
+  "webm": true,
+  "poster": true,
+  "bytes": 177309
+ },
+ "pixel-trail": {
+  "category": "animations",
+  "name": "Pixel Trail",
+  "webm": true,
+  "poster": true,
+  "bytes": 85729
+ },
+ "pixel-transition": {
+  "category": "animations",
+  "name": "Pixel Transition",
+  "webm": true,
+  "poster": true,
+  "bytes": 144049
+ },
+ "ribbons": {
+  "category": "animations",
+  "name": "Ribbons",
+  "webm": true,
+  "poster": true,
+  "bytes": 93535
+ },
+ "ripple-distortion": {
+  "category": "animations",
+  "name": "Ripple Distortion",
+  "webm": true,
+  "poster": true,
+  "bytes": 639085
+ },
+ "scroll-expand": {
+  "category": "animations",
+  "name": "Scroll Expand",
+  "webm": true,
+  "poster": true,
+  "bytes": 353026
+ },
+ "shape-blur": {
+  "category": "animations",
+  "name": "Shape Blur",
+  "webm": true,
+  "poster": true,
+  "bytes": 96116
+ },
+ "splash-cursor": {
+  "category": "animations",
+  "name": "Splash Cursor",
+  "webm": true,
+  "poster": true,
+  "bytes": 46861
+ },
+ "star-border": {
+  "category": "animations",
+  "name": "Star Border",
+  "webm": true,
+  "poster": true,
+  "bytes": 42819
+ },
+ "sticker-peel": {
+  "category": "animations",
+  "name": "Sticker Peel",
+  "webm": true,
+  "poster": true,
+  "bytes": 101603
+ },
+ "strands": {
+  "category": "animations",
+  "name": "Strands",
+  "webm": true,
+  "poster": true,
+  "bytes": 82534
+ },
+ "swarm-cursor": {
+  "category": "animations",
+  "name": "Swarm Cursor",
+  "webm": true,
+  "poster": true,
+  "bytes": 827225
+ },
+ "target-cursor": {
+  "category": "animations",
+  "name": "Target Cursor",
+  "webm": true,
+  "poster": true,
+  "bytes": 58897
+ },
+ "accordion-gallery": {
+  "category": "components",
+  "name": "Accordion Gallery",
+  "webm": true,
+  "poster": true,
+  "bytes": 334993
+ },
+ "animated-list": {
+  "category": "components",
+  "name": "Animated List",
+  "webm": true,
+  "poster": true,
+  "bytes": 280396
+ },
+ "border-glow": {
+  "category": "components",
+  "name": "Border Glow",
+  "webm": true,
+  "poster": true,
+  "bytes": 46560
+ },
+ "bounce-cards": {
+  "category": "components",
+  "name": "Bounce Cards",
+  "webm": true,
+  "poster": true,
+  "bytes": 303054
+ },
+ "bubble-menu": {
+  "category": "components",
+  "name": "Bubble Menu",
+  "webm": true,
+  "poster": true,
+  "bytes": 124186
+ },
+ "card-nav": {
+  "category": "components",
+  "name": "Card Nav",
+  "webm": true,
+  "poster": true,
+  "bytes": 79269
+ },
+ "card-swap": {
+  "category": "components",
+  "name": "Card Swap",
+  "webm": true,
+  "poster": true,
+  "bytes": 343026
+ },
+ "carousel": {
+  "category": "components",
+  "name": "Carousel",
+  "webm": true,
+  "poster": true,
+  "bytes": 133212
+ },
+ "chroma-grid": {
+  "category": "components",
+  "name": "Chroma Grid",
+  "webm": true,
+  "poster": true,
+  "bytes": 152093
+ },
+ "circular-carousel": {
+  "category": "components",
+  "name": "Circular Carousel",
+  "webm": true,
+  "poster": true,
+  "bytes": 400303
+ },
+ "circular-gallery": {
+  "category": "components",
+  "name": "Circular Gallery",
+  "webm": true,
+  "poster": true,
+  "bytes": 564765
+ },
+ "counter": {
+  "category": "components",
+  "name": "Counter",
+  "webm": true,
+  "poster": true,
+  "bytes": 76876
+ },
+ "curved-input": {
+  "category": "components",
+  "name": "Curved Input",
+  "webm": true,
+  "poster": true,
+  "bytes": 50940
+ },
+ "decay-card": {
+  "category": "components",
+  "name": "Decay Card",
+  "webm": true,
+  "poster": true,
+  "bytes": 204190
+ },
+ "depth-carousel": {
+  "category": "components",
+  "name": "Depth Carousel",
+  "webm": true,
+  "poster": true,
+  "bytes": 205066
+ },
+ "dock": {
+  "category": "components",
+  "name": "Dock",
+  "webm": true,
+  "poster": true,
+  "bytes": 111735
+ },
+ "dome-gallery": {
+  "category": "components",
+  "name": "Dome Gallery",
+  "webm": true,
+  "poster": true,
+  "bytes": 486815
+ },
+ "drift-wall": {
+  "category": "components",
+  "name": "Drift Wall",
+  "webm": true,
+  "poster": true,
+  "bytes": 284664
+ },
+ "elastic-slider": {
+  "category": "components",
+  "name": "Elastic Slider",
+  "webm": true,
+  "poster": true,
+  "bytes": 54948
+ },
+ "flex-carousel": {
+  "category": "components",
+  "name": "Flex Carousel",
+  "webm": true,
+  "poster": true,
+  "bytes": 403889
+ },
+ "flowing-menu": {
+  "category": "components",
+  "name": "Flowing Menu",
+  "webm": true,
+  "poster": true,
+  "bytes": 321001
+ },
+ "fluid-glass": {
+  "category": "components",
+  "name": "Fluid Glass",
+  "webm": true,
+  "poster": true,
+  "bytes": 675284
+ },
+ "flying-posters": {
+  "category": "components",
+  "name": "Flying Posters",
+  "webm": true,
+  "poster": true,
+  "bytes": 143591
+ },
+ "folder": {
+  "category": "components",
+  "name": "Folder",
+  "webm": true,
+  "poster": true,
+  "bytes": 178865
+ },
+ "glass-icons": {
+  "category": "components",
+  "name": "Glass Icons",
+  "webm": true,
+  "poster": true,
+  "bytes": 105602
+ },
+ "glass-surface": {
+  "category": "components",
+  "name": "Glass Surface",
+  "webm": true,
+  "poster": true,
+  "bytes": 176354
+ },
+ "gooey-nav": {
+  "category": "components",
+  "name": "Gooey Nav",
+  "webm": true,
+  "poster": true,
+  "bytes": 82943
+ },
+ "holo-card": {
+  "category": "components",
+  "name": "Holo Card",
+  "webm": true,
+  "poster": true,
+  "bytes": 333499
+ },
+ "infinite-menu": {
+  "category": "components",
+  "name": "Infinite Menu",
+  "webm": true,
+  "poster": true,
+  "bytes": 675439
+ },
+ "infinite-spiral": {
+  "category": "components",
+  "name": "Infinite Spiral",
+  "webm": true,
+  "poster": true,
+  "bytes": 230310
+ },
+ "lanyard": {
+  "category": "components",
+  "name": "Lanyard",
+  "webm": true,
+  "poster": true,
+  "bytes": 545940
+ },
+ "line-sidebar": {
+  "category": "components",
+  "name": "Line Sidebar",
+  "webm": true,
+  "poster": true,
+  "bytes": 114374
+ },
+ "magic-bento": {
+  "category": "components",
+  "name": "Magic Bento",
+  "webm": true,
+  "poster": true,
+  "bytes": 126505
+ },
+ "masonry": {
+  "category": "components",
+  "name": "Masonry",
+  "webm": true,
+  "poster": true,
+  "bytes": 491611
+ },
+ "model-viewer": {
+  "category": "components",
+  "name": "Model Viewer",
+  "webm": true,
+  "poster": true,
+  "bytes": 190344
+ },
+ "morph-slider": {
+  "category": "components",
+  "name": "Morph Slider",
+  "webm": true,
+  "poster": true,
+  "bytes": 648365
+ },
+ "option-wheel": {
+  "category": "components",
+  "name": "Option Wheel",
+  "webm": true,
+  "poster": true,
+  "bytes": 88697
+ },
+ "pill-nav": {
+  "category": "components",
+  "name": "Pill Nav",
+  "webm": true,
+  "poster": true,
+  "bytes": 90552
+ },
+ "pixel-card": {
+  "category": "components",
+  "name": "Pixel Card",
+  "webm": true,
+  "poster": true,
+  "bytes": 316039
+ },
+ "profile-card": {
+  "category": "components",
+  "name": "Profile Card",
+  "webm": true,
+  "poster": true,
+  "bytes": 155629
+ },
+ "reflective-card": {
+  "category": "components",
+  "name": "Reflective Card",
+  "webm": true,
+  "poster": true,
+  "bytes": 138805
+ },
+ "scroll-stack": {
+  "category": "components",
+  "name": "Scroll Stack",
+  "webm": true,
+  "poster": true,
+  "bytes": 263963
+ },
+ "specular-button": {
+  "category": "components",
+  "name": "Specular Button",
+  "webm": true,
+  "poster": true,
+  "bytes": 74575
+ },
+ "spotlight-card": {
+  "category": "components",
+  "name": "Spotlight Card",
+  "webm": true,
+  "poster": true,
+  "bytes": 72779
+ },
+ "stack": {
+  "category": "components",
+  "name": "Stack",
+  "webm": true,
+  "poster": true,
+  "bytes": 214066
+ },
+ "staggered-menu": {
+  "category": "components",
+  "name": "Staggered Menu",
+  "webm": true,
+  "poster": true,
+  "bytes": 69606
+ },
+ "stepper": {
+  "category": "components",
+  "name": "Stepper",
+  "webm": true,
+  "poster": true,
+  "bytes": 140193
+ },
+ "tilted-card": {
+  "category": "components",
+  "name": "Tilted Card",
+  "webm": true,
+  "poster": true,
+  "bytes": 179542
+ },
+ "acid-squares": {
+  "category": "backgrounds",
+  "name": "Acid Squares",
+  "webm": true,
+  "poster": true,
+  "bytes": 675354
+ },
+ "aero-shards": {
+  "category": "backgrounds",
+  "name": "Aero Shards",
+  "webm": true,
+  "poster": true,
+  "bytes": 645952
+ },
+ "antigravity": {
+  "category": "backgrounds",
+  "name": "Antigravity",
+  "webm": true,
+  "poster": true,
+  "bytes": 663293
+ },
+ "aurora": {
+  "category": "backgrounds",
+  "name": "Aurora",
+  "webm": true,
+  "poster": true,
+  "bytes": 39605
+ },
+ "balatro": {
+  "category": "backgrounds",
+  "name": "Balatro",
+  "webm": true,
+  "poster": true,
+  "bytes": 711379
+ },
+ "ballpit": {
+  "category": "backgrounds",
+  "name": "Ballpit",
+  "webm": true,
+  "poster": true,
+  "bytes": 700320
+ },
+ "beams": {
+  "category": "backgrounds",
+  "name": "Beams",
+  "webm": true,
+  "poster": true,
+  "bytes": 189282
+ },
+ "color-bends": {
+  "category": "backgrounds",
+  "name": "Color Bends",
+  "webm": true,
+  "poster": true,
+  "bytes": 71331
+ },
+ "crt-warp": {
+  "category": "backgrounds",
+  "name": "CRT Warp",
+  "webm": true,
+  "poster": true,
+  "bytes": 514210
+ },
+ "dark-veil": {
+  "category": "backgrounds",
+  "name": "Dark Veil",
+  "webm": true,
+  "poster": true,
+  "bytes": 36258
+ },
+ "dither": {
+  "category": "backgrounds",
+  "name": "Dither",
+  "webm": true,
+  "poster": true,
+  "bytes": 936625
+ },
+ "dot-field": {
+  "category": "backgrounds",
+  "name": "Dot Field",
+  "webm": true,
+  "poster": true,
+  "bytes": 263859
+ },
+ "dot-grid": {
+  "category": "backgrounds",
+  "name": "Dot Grid",
+  "webm": true,
+  "poster": true,
+  "bytes": 255053
+ },
+ "evil-eye": {
+  "category": "backgrounds",
+  "name": "Evil Eye",
+  "webm": true,
+  "poster": true,
+  "bytes": 613605
+ },
+ "faulty-terminal": {
+  "category": "backgrounds",
+  "name": "Faulty Terminal",
+  "webm": true,
+  "poster": true,
+  "bytes": 817769
+ },
+ "ferrofluid": {
+  "category": "backgrounds",
+  "name": "Ferrofluid",
+  "webm": true,
+  "poster": true,
+  "bytes": 543873
+ },
+ "floating-lines": {
+  "category": "backgrounds",
+  "name": "Floating Lines",
+  "webm": true,
+  "poster": true,
+  "bytes": 442276
+ },
+ "flux-lines": {
+  "category": "backgrounds",
+  "name": "Flux Lines",
+  "webm": true,
+  "poster": true,
+  "bytes": 518182
+ },
+ "galaxy": {
+  "category": "backgrounds",
+  "name": "Galaxy",
+  "webm": true,
+  "poster": true,
+  "bytes": 265709
+ },
+ "ghost-fibers": {
+  "category": "backgrounds",
+  "name": "Ghost Fibers",
+  "webm": true,
+  "poster": true,
+  "bytes": 391652
+ },
+ "gradient-ascii": {
+  "category": "backgrounds",
+  "name": "Gradient ASCII",
+  "webm": true,
+  "poster": true,
+  "bytes": 356307
+ },
+ "gradient-blinds": {
+  "category": "backgrounds",
+  "name": "Gradient Blinds",
+  "webm": true,
+  "poster": true,
+  "bytes": 311960
+ },
+ "gradient-waves": {
+  "category": "backgrounds",
+  "name": "Gradient Waves",
+  "webm": true,
+  "poster": true,
+  "bytes": 78137
+ },
+ "grainient": {
+  "category": "backgrounds",
+  "name": "Grainient",
+  "webm": true,
+  "poster": true,
+  "bytes": 511466
+ },
+ "grid-distortion": {
+  "category": "backgrounds",
+  "name": "Grid Distortion",
+  "webm": true,
+  "poster": true,
+  "bytes": 356862
+ },
+ "grid-motion": {
+  "category": "backgrounds",
+  "name": "Grid Motion",
+  "webm": true,
+  "poster": true,
+  "bytes": 368771
+ },
+ "grid-scan": {
+  "category": "backgrounds",
+  "name": "Grid Scan",
+  "webm": true,
+  "poster": true,
+  "bytes": 490380
+ },
+ "hyperspeed": {
+  "category": "backgrounds",
+  "name": "Hyperspeed",
+  "webm": true,
+  "poster": true,
+  "bytes": 543133
+ },
+ "iridescence": {
+  "category": "backgrounds",
+  "name": "Iridescence",
+  "webm": true,
+  "poster": true,
+  "bytes": 196429
+ },
+ "letter-glitch": {
+  "category": "backgrounds",
+  "name": "Letter Glitch",
+  "webm": true,
+  "poster": true,
+  "bytes": 338933
+ },
+ "lightfall": {
+  "category": "backgrounds",
+  "name": "Lightfall",
+  "webm": true,
+  "poster": true,
+  "bytes": 575100
+ },
+ "lightning": {
+  "category": "backgrounds",
+  "name": "Lightning",
+  "webm": true,
+  "poster": true,
+  "bytes": 653256
+ },
+ "light-pillar": {
+  "category": "backgrounds",
+  "name": "Light Pillar",
+  "webm": true,
+  "poster": true,
+  "bytes": 181471
+ },
+ "light-rays": {
+  "category": "backgrounds",
+  "name": "Light Rays",
+  "webm": true,
+  "poster": true,
+  "bytes": 39534
+ },
+ "light-tunnel": {
+  "category": "backgrounds",
+  "name": "Light Tunnel",
+  "webm": true,
+  "poster": true,
+  "bytes": 527567
+ },
+ "line-waves": {
+  "category": "backgrounds",
+  "name": "Line Waves",
+  "webm": true,
+  "poster": true,
+  "bytes": 597522
+ },
+ "liquid-chrome": {
+  "category": "backgrounds",
+  "name": "Liquid Chrome",
+  "webm": true,
+  "poster": true,
+  "bytes": 604871
+ },
+ "liquid-ether": {
+  "category": "backgrounds",
+  "name": "Liquid Ether",
+  "webm": true,
+  "poster": true,
+  "bytes": 136198
+ },
+ "magic-rings": {
+  "category": "backgrounds",
+  "name": "Magic Rings",
+  "webm": true,
+  "poster": true,
+  "bytes": 103063
+ },
+ "magnet-lines": {
+  "category": "backgrounds",
+  "name": "Magnet Lines",
+  "webm": true,
+  "poster": true,
+  "bytes": 420720
+ },
+ "micro-slats": {
+  "category": "backgrounds",
+  "name": "Micro Slats",
+  "webm": true,
+  "poster": true,
+  "bytes": 294950
+ },
+ "molten-metal": {
+  "category": "backgrounds",
+  "name": "Molten Metal",
+  "webm": true,
+  "poster": true,
+  "bytes": 107390
+ },
+ "orb": {
+  "category": "backgrounds",
+  "name": "Orb",
+  "webm": true,
+  "poster": true,
+  "bytes": 141476
+ },
+ "particles": {
+  "category": "backgrounds",
+  "name": "Particles",
+  "webm": true,
+  "poster": true,
+  "bytes": 77362
+ },
+ "pattern-waves": {
+  "category": "backgrounds",
+  "name": "Pattern Waves",
+  "webm": true,
+  "poster": true,
+  "bytes": 436078
+ },
+ "pixel-blast": {
+  "category": "backgrounds",
+  "name": "Pixel Blast",
+  "webm": true,
+  "poster": true,
+  "bytes": 579111
+ },
+ "pixel-snow": {
+  "category": "backgrounds",
+  "name": "Pixel Snow",
+  "webm": true,
+  "poster": true,
+  "bytes": 267692
+ },
+ "plasma": {
+  "category": "backgrounds",
+  "name": "Plasma",
+  "webm": true,
+  "poster": true,
+  "bytes": 84830
+ },
+ "plasma-wave": {
+  "category": "backgrounds",
+  "name": "Plasma Wave",
+  "webm": true,
+  "poster": true,
+  "bytes": 194856
+ },
+ "prism": {
+  "category": "backgrounds",
+  "name": "Prism",
+  "webm": true,
+  "poster": true,
+  "bytes": 100304
+ },
+ "prismatic-burst": {
+  "category": "backgrounds",
+  "name": "Prismatic Burst",
+  "webm": true,
+  "poster": true,
+  "bytes": 405525
+ },
+ "radar": {
+  "category": "backgrounds",
+  "name": "Radar",
+  "webm": true,
+  "poster": true,
+  "bytes": 166949
+ },
+ "ripple-grid": {
+  "category": "backgrounds",
+  "name": "Ripple Grid",
+  "webm": true,
+  "poster": true,
+  "bytes": 508835
+ },
+ "scanner": {
+  "category": "backgrounds",
+  "name": "Scanner",
+  "webm": true,
+  "poster": true,
+  "bytes": 363226
+ },
+ "shape-grid": {
+  "category": "backgrounds",
+  "name": "Shape Grid",
+  "webm": false,
+  "poster": false,
+  "bytes": 0
+ },
+ "shape-waves": {
+  "category": "backgrounds",
+  "name": "Shape Waves",
+  "webm": true,
+  "poster": true,
+  "bytes": 232742
+ },
+ "side-rays": {
+  "category": "backgrounds",
+  "name": "Side Rays",
+  "webm": true,
+  "poster": true,
+  "bytes": 44164
+ },
+ "silk": {
+  "category": "backgrounds",
+  "name": "Silk",
+  "webm": true,
+  "poster": true,
+  "bytes": 299454
+ },
+ "sliced-waves": {
+  "category": "backgrounds",
+  "name": "Sliced Waves",
+  "webm": true,
+  "poster": true,
+  "bytes": 311193
+ },
+ "soft-aurora": {
+  "category": "backgrounds",
+  "name": "Soft Aurora",
+  "webm": true,
+  "poster": true,
+  "bytes": 64604
+ },
+ "threads": {
+  "category": "backgrounds",
+  "name": "Threads",
+  "webm": true,
+  "poster": true,
+  "bytes": 406986
+ },
+ "topography": {
+  "category": "backgrounds",
+  "name": "Topography",
+  "webm": true,
+  "poster": true,
+  "bytes": 664972
+ },
+ "waves": {
+  "category": "backgrounds",
+  "name": "Waves",
+  "webm": true,
+  "poster": true,
+  "bytes": 684287
+ },
+ "web-threads": {
+  "category": "backgrounds",
+  "name": "Web Threads",
+  "webm": true,
+  "poster": true,
+  "bytes": 299938
+ },
+ "bell-toggle": {
+  "category": "micro",
+  "name": "Bell Toggle",
+  "webm": true,
+  "poster": true,
+  "bytes": 59077
+ },
+ "branched-menu": {
+  "category": "micro",
+  "name": "Branched Menu",
+  "webm": true,
+  "poster": true,
+  "bytes": 49693
+ },
+ "call-chip": {
+  "category": "micro",
+  "name": "Call Chip",
+  "webm": true,
+  "poster": true,
+  "bytes": 32192
+ },
+ "code-slots": {
+  "category": "micro",
+  "name": "Code Slots",
+  "webm": true,
+  "poster": true,
+  "bytes": 39459
+ },
+ "comet-dial": {
+  "category": "micro",
+  "name": "Comet Dial",
+  "webm": true,
+  "poster": true,
+  "bytes": 52669
+ },
+ "dodge-field": {
+  "category": "micro",
+  "name": "Dodge Field",
+  "webm": true,
+  "poster": true,
+  "bytes": 63585
+ },
+ "flip-card": {
+  "category": "micro",
+  "name": "Flip Card",
+  "webm": true,
+  "poster": true,
+  "bytes": 161453
+ },
+ "folder-float": {
+  "category": "micro",
+  "name": "Folder Float",
+  "webm": true,
+  "poster": true,
+  "bytes": 172347
+ },
+ "fuse-button": {
+  "category": "micro",
+  "name": "Fuse Button",
+  "webm": true,
+  "poster": true,
+  "bytes": 46471
+ },
+ "glide-select": {
+  "category": "micro",
+  "name": "Glide Select",
+  "webm": true,
+  "poster": true,
+  "bytes": 50476
+ },
+ "hold-button": {
+  "category": "micro",
+  "name": "Hold Button",
+  "webm": true,
+  "poster": true,
+  "bytes": 50068
+ },
+ "jelly-radio": {
+  "category": "micro",
+  "name": "Jelly Radio",
+  "webm": true,
+  "poster": true,
+  "bytes": 68236
+ },
+ "lattice-loader": {
+  "category": "micro",
+  "name": "Lattice Loader",
+  "webm": true,
+  "poster": true,
+  "bytes": 37050
+ },
+ "paper-crumple": {
+  "category": "micro",
+  "name": "Paper Crumple",
+  "webm": true,
+  "poster": true,
+  "bytes": 179750
+ },
+ "peek-rating": {
+  "category": "micro",
+  "name": "Peek Rating",
+  "webm": true,
+  "poster": true,
+  "bytes": 60736
+ },
+ "prompt-bar": {
+  "category": "micro",
+  "name": "Prompt Bar",
+  "webm": true,
+  "poster": true,
+  "bytes": 32770
+ },
+ "pulse-heart": {
+  "category": "micro",
+  "name": "Pulse Heart",
+  "webm": true,
+  "poster": true,
+  "bytes": 30704
+ },
+ "refine-frame": {
+  "category": "micro",
+  "name": "Refine Frame",
+  "webm": true,
+  "poster": true,
+  "bytes": 81794
+ },
+ "rubber-segment": {
+  "category": "micro",
+  "name": "Rubber Segment",
+  "webm": true,
+  "poster": true,
+  "bytes": 36273
+ },
+ "scrub-field": {
+  "category": "micro",
+  "name": "Scrub Field",
+  "webm": true,
+  "poster": true,
+  "bytes": 51833
+ },
+ "shredder": {
+  "category": "micro",
+  "name": "Shredder",
+  "webm": true,
+  "poster": true,
+  "bytes": 78449
+ },
+ "slide-commit": {
+  "category": "micro",
+  "name": "Slide Commit",
+  "webm": true,
+  "poster": true,
+  "bytes": 37642
+ },
+ "sling-button": {
+  "category": "micro",
+  "name": "Sling Button",
+  "webm": true,
+  "poster": true,
+  "bytes": 68533
+ },
+ "slosh-gauge": {
+  "category": "micro",
+  "name": "Slosh Gauge",
+  "webm": true,
+  "poster": true,
+  "bytes": 58015
+ },
+ "spring-check": {
+  "category": "micro",
+  "name": "Spring Check",
+  "webm": true,
+  "poster": true,
+  "bytes": 49246
+ },
+ "squish-switch": {
+  "category": "micro",
+  "name": "Squish Switch",
+  "webm": true,
+  "poster": true,
+  "bytes": 28053
+ },
+ "status-mark": {
+  "category": "micro",
+  "name": "Status Mark",
+  "webm": true,
+  "poster": true,
+  "bytes": 47146
+ },
+ "swipe-row": {
+  "category": "micro",
+  "name": "Swipe Row",
+  "webm": true,
+  "poster": true,
+  "bytes": 48101
+ },
+ "swipe-toast": {
+  "category": "micro",
+  "name": "Swipe Toast",
+  "webm": true,
+  "poster": true,
+  "bytes": 46684
+ },
+ "tear-ticket": {
+  "category": "micro",
+  "name": "Tear Ticket",
+  "webm": true,
+  "poster": true,
+  "bytes": 119201
+ },
+ "thought-line": {
+  "category": "micro",
+  "name": "Thought Line",
+  "webm": true,
+  "poster": true,
+  "bytes": 72879
+ },
+ "voice-pill": {
+  "category": "micro",
+  "name": "Voice Pill",
+  "webm": true,
+  "poster": true,
+  "bytes": 45381
+ },
+ "wake-slider": {
+  "category": "micro",
+  "name": "Wake Slider",
+  "webm": true,
+  "poster": true,
+  "bytes": 41554
+ },
+ "warm-tooltip": {
+  "category": "micro",
+  "name": "Warm Tooltip",
+  "webm": true,
+  "poster": true,
+  "bytes": 53767
+ }
+}

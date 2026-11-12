@@ -1,0 +1,19 @@
+{
+  "main": {
+    "display": "flex",
+    "position": "relative",
+    "gridTemplateColumns": "none",
+    "gap": "normal",
+    "padding": "0px",
+    "margin": "0px",
+    "background": "rgb(10, 10, 10)",
+    "borderRadius": "0px",
+    "border": "0px solid rgb(31, 31, 31)",
+    "width": "1168px",
+    "height": "2318.11px",
+    "font": "16px/24px 400 ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"",
+    "color": "rgb(255, 255, 255)",
+    "overflow": "visible",
+    "maxWidth": "none"
+  }
+}

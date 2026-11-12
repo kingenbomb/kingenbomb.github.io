@@ -1,0 +1,12 @@
+/* Global cascade-layer order — declared once, first, so it never depends on
+   runtime injection timing (Chakra injects its `@layer reset` at runtime, which
+   otherwise lands *after* Tailwind's layer statement in a production build and
+   silently outranks every utility).
+
+   reset      — Chakra UI's global reset (lowest: it is only a reset)
+   theme      — Tailwind theme variables
+   base       — reserved
+   components — reserved
+   utilities  — Tailwind utilities (beat the reset)
+   Unlayered CSS (this project's hand-written styles) still beats all of the above. */
+@layer reset, theme, base, components, utilities;

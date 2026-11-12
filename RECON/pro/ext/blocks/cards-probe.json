@@ -1,0 +1,36 @@
+{
+  "count": 45,
+  "hrefs": [
+    "/docs/blocks/tools/bento-builder",
+    "/docs/blocks/hero-section",
+    "/docs/blocks/features",
+    "/docs/blocks/bento",
+    "/docs/blocks/social-proof",
+    "/docs/blocks/contact",
+    "/docs/blocks/footer",
+    "/docs/blocks/comparison"
+  ],
+  "cardHTML": "<a class=\"group relative flex flex-col h-full rounded-xl border bg-muted/50 p-1 transition-all hover:border-foreground/20 hover:shadow-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background\" href=\"/docs/blocks/hero-section?browse=blocks\"><div class=\"relative\"><div aria-hidden=\"true\" class=\"relative aspect-[16/9] w-full overflow-hidden rounded-lg border bg-background\"><div class=\"flex h-full px-8 py-5 flex-col items-center justify-center gap-1.5\"><div class=\"bg-white shadow-[0_1px_2px_rgba(0,0,0,0.04),0_8px_20px_-6px_rgba(0,0,0,0.1)] dark:bg-neutral-700/60 dark:shadow-none dark:ring-1 dark:ring-white/[0.06] mb-1 flex h-3 items-center gap-1 rounded-full px-1.5\"><div class=\"bg-neutral-900 dark:bg-neutral-200 h-1 w-1 rounded-full\"></div><div class=\"bg-neutral-200 dark:bg-neutral-600/40 h-1 w-8 rounded-full\"></div></div><div class=\"bg-neutral-300/90 dark:bg-neutral-500/60 h-2 w-3/5 rounded-full\"></div><div class=\"bg-neutral-300/90 dark:bg-neutral-500/60 h-2 w-2/5 rounded-full\"></div><div class=\"bg-neutral-200 dark:bg-neutral-600/40 h-1 w-1/2 rounded-full\"></div><div class=\"mt-1 flex items-center gap-1.5\"><div class=\"bg-neutral-900 dark:bg-neutral-200 h-3.5 w-10 rounded-full\"></div><div class=\"bg-white shadow-[0_1px_2px_rgba(0,0,0,0.04),0_8px_20px_-6px_rgba(0,0,0,0.1)] dark:bg-neutral-700/60 dark:shadow-none dark:ring-1 dark:ring-white/[0.06] h-3.5 w-10 rounded-full\"></div></div></div></div></div><div class=\"flex flex-col flex-1 p-3 pb-2\"><h3 class=\"font-semibold tracking-tight leading-tight truncate mb-1.5\">Hero Section</h3><p class=\"text-sm text-muted-foreground line-clamp-2 mb-3\">Hero sections in many layouts and styles</p><div class=\"mt-auto flex items-center justify-between pt-1\"><span class=\"text-xs text-muted-foreground\"><span class=\"font-medium text-foreground tabular-nums\">34</span> variants</span><span class=\"inline-flex items-center gap-1 text-xs text-muted-foreground group-hover:text-foreground transition-colors\">Browse<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-arrow-right h-3.5 w-3.5 group-hover:translate-x-0.5 transition-transform\" aria-hidden=\"true\"><path d=\"M5 12h14\"></path><path d=\"m12 5 7 7-7 7\"></path></svg></span></div></div></a>",
+  "cardStyles": {
+    "className": "group relative flex flex-col h-full rounded-xl border bg-muted/50 p-1 transition-all hover:border-foreground/20 hover:shadow-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background",
+    "display": "flex",
+    "width": "352px",
+    "height": "300.375px",
+    "padding": "4px",
+    "borderRadius": "16.8px",
+    "background": "oklab(0.239291 0.0000108778 0.00000478327 / 0.5)",
+    "border": "1px solid rgb(31, 31, 31)",
+    "overflow": "visible"
+  },
+  "gridStyles": {
+    "className": "",
+    "display": "block",
+    "gridTemplateColumns": "none",
+    "gap": "normal",
+    "width": "352px",
+    "padding": "0px"
+  },
+  "gridChildren": 1,
+  "imgs": [],
+  "videos": []
+}

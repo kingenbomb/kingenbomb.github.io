@@ -1,0 +1,26 @@
+{
+  "hits": 23,
+  "cardHTML": "<p class=\"category-name css-wug07u\">Animations</p>",
+  "cardStyles": {
+    "display": "block",
+    "width": "226px",
+    "height": "21px",
+    "padding": "0px",
+    "borderRadius": "0px",
+    "background": "rgba(0, 0, 0, 0)",
+    "border": "0px solid rgb(228, 228, 231)",
+    "className": "category-name css-wug07u"
+  },
+  "gridStyles": {
+    "display": "block",
+    "gridTemplateColumns": "none",
+    "gap": "normal",
+    "className": "",
+    "width": "226px"
+  },
+  "siblings": 2,
+  "firstChildsHTML": [
+    "<p class=\"category-name css-wug07u\">Animations</p>",
+    "<div class=\"chakra-stack sidebar-link-stack css-1lhie03\" spacing=\"0.5\"><a class=\"sidebar-item  \" href=\"/c/animations/crystalized-ball\">Crystalized Ball<span class=\"updated-tag\">Updated</span></a><a class=\"sidebar-item  \" href=\"/c/animations/electric-logo\">Electric Logo<span class=\"updated-tag\">Updated</span></a><a class=\"sidebar-item  \" href=\"/c/animations/dither-veil\">Dither Veil<span class=\"updated-tag\">Updated</span></a><a class=\"sidebar-item  \" href=\"/c/animations/glow-cursor\">Glow Cursor<span class=\"updated-tag\">Updated</span></a><a class=\"sidebar-item  \" href=\"/c/animations/scroll-expand\">Scroll Expand</a><a class=\"sidebar-item  \" href=\"/c/animations/ripple-distortion\">Ripple Distortion<span class=\"updated-tag\">Updated</span></a><a class=\"sidebar-item  \" href=\"/c/animations/elastic-mesh\">Elastic Mesh<span class=\"updated-tag\">Updated</span></a><a class=\"sidebar-item  \" href=\"/c/animations/swarm-cursor\">Swarm Cursor</a><a class=\"sidebar-item  \" href=\"/c/animations/halftone-reveal\">Halftone Reveal<span class=\"updated-tag\">Updated</span></a><a class=\"sidebar-item  \" href=\"/c/animations/pixel-swap\">Pixel Swap</a><a class=\"sidebar-item  \" href=\"/c/animations/cursor-grid\">Cursor Gri"
+  ]
+}

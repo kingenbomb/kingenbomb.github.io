@@ -1,0 +1,102 @@
+[
+  {
+    "text": "React Bits Pro Skill",
+    "cls": "text-base font-medium leading-snug tracking-[-0.01em] sm:text-[1.05rem]",
+    "parent": "flex flex-1 flex-col px-4 pb-4 pt-3"
+  },
+  {
+    "text": "Apple Minimal",
+    "cls": "text-base font-medium leading-snug tracking-[-0.01em] sm:text-[1.05rem]",
+    "parent": "flex flex-1 flex-col px-4 pb-4 pt-3"
+  },
+  {
+    "text": "Corporate Trust",
+    "cls": "text-base font-medium leading-snug tracking-[-0.01em] sm:text-[1.05rem]",
+    "parent": "flex flex-1 flex-col px-4 pb-4 pt-3"
+  },
+  {
+    "text": "Editorial",
+    "cls": "text-base font-medium leading-snug tracking-[-0.01em] sm:text-[1.05rem]",
+    "parent": "flex flex-1 flex-col px-4 pb-4 pt-3"
+  },
+  {
+    "text": "Luxury Serif",
+    "cls": "text-base font-medium leading-snug tracking-[-0.01em] sm:text-[1.05rem]",
+    "parent": "flex flex-1 flex-col px-4 pb-4 pt-3"
+  },
+  {
+    "text": "Neobrutalism",
+    "cls": "text-base font-medium leading-snug tracking-[-0.01em] sm:text-[1.05rem]",
+    "parent": "flex flex-1 flex-col px-4 pb-4 pt-3"
+  },
+  {
+    "text": "Playful Motion",
+    "cls": "text-base font-medium leading-snug tracking-[-0.01em] sm:text-[1.05rem]",
+    "parent": "flex flex-1 flex-col px-4 pb-4 pt-3"
+  },
+  {
+    "text": "Swiss Grid",
+    "cls": "text-base font-medium leading-snug tracking-[-0.01em] sm:text-[1.05rem]",
+    "parent": "flex flex-1 flex-col px-4 pb-4 pt-3"
+  },
+  {
+    "text": "Terminal Dark",
+    "cls": "text-base font-medium leading-snug tracking-[-0.01em] sm:text-[1.05rem]",
+    "parent": "flex flex-1 flex-col px-4 pb-4 pt-3"
+  },
+  {
+    "text": "Agency",
+    "cls": "text-base font-medium leading-snug tracking-[-0.01em] sm:text-[1.05rem]",
+    "parent": "flex flex-1 flex-col px-4 pb-4 pt-3"
+  },
+  {
+    "text": "Consumer Hardware",
+    "cls": "text-base font-medium leading-snug tracking-[-0.01em] sm:text-[1.05rem]",
+    "parent": "flex flex-1 flex-col px-4 pb-4 pt-3"
+  },
+  {
+    "text": "Developer Tool",
+    "cls": "text-base font-medium leading-snug tracking-[-0.01em] sm:text-[1.05rem]",
+    "parent": "flex flex-1 flex-col px-4 pb-4 pt-3"
+  },
+  {
+    "text": "Ecommerce Brand",
+    "cls": "text-base font-medium leading-snug tracking-[-0.01em] sm:text-[1.05rem]",
+    "parent": "flex flex-1 flex-col px-4 pb-4 pt-3"
+  },
+  {
+    "text": "Fintech",
+    "cls": "text-base font-medium leading-snug tracking-[-0.01em] sm:text-[1.05rem]",
+    "parent": "flex flex-1 flex-col px-4 pb-4 pt-3"
+  },
+  {
+    "text": "Fitness",
+    "cls": "text-base font-medium leading-snug tracking-[-0.01em] sm:text-[1.05rem]",
+    "parent": "flex flex-1 flex-col px-4 pb-4 pt-3"
+  },
+  {
+    "text": "Real Estate",
+    "cls": "text-base font-medium leading-snug tracking-[-0.01em] sm:text-[1.05rem]",
+    "parent": "flex flex-1 flex-col px-4 pb-4 pt-3"
+  },
+  {
+    "text": "SaaS Landing Page",
+    "cls": "text-base font-medium leading-snug tracking-[-0.01em] sm:text-[1.05rem]",
+    "parent": "flex flex-1 flex-col px-4 pb-4 pt-3"
+  },
+  {
+    "text": "Agency Homepage",
+    "cls": "text-base font-medium leading-snug tracking-[-0.01em] sm:text-[1.05rem]",
+    "parent": "flex flex-1 flex-col px-4 pb-4 pt-3"
+  },
+  {
+    "text": "Product Launch Page",
+    "cls": "text-base font-medium leading-snug tracking-[-0.01em] sm:text-[1.05rem]",
+    "parent": "flex flex-1 flex-col px-4 pb-4 pt-3"
+  },
+  {
+    "text": "SaaS Homepage",
+    "cls": "text-base font-medium leading-snug tracking-[-0.01em] sm:text-[1.05rem]",
+    "parent": "flex flex-1 flex-col px-4 pb-4 pt-3"
+  }
+]

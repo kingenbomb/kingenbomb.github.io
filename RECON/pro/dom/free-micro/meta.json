@@ -1,0 +1,72 @@
+{
+  "url": "https://reactbits.dev/c/micro",
+  "title": "React Micro Interactions — Free Components | React Bits",
+  "bodyClasses": "",
+  "htmlAttrs": [
+    [
+      "lang",
+      "en"
+    ],
+    [
+      "data-theme",
+      "dark"
+    ],
+    [
+      "data-input-mode",
+      "pointer"
+    ],
+    [
+      "style",
+      "color-scheme: dark;"
+    ]
+  ],
+  "cssHrefs": [
+    "https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=Gochi+Hand&family=Press+Start+2P&family=Google+Sans+Code:ital,wght@0,300..800;1,300..800&display=swap",
+    "/assets/index-Dm9eiIMd.css",
+    "/assets/AnnouncementModal-BIV7mJLF.css",
+    "/assets/ElectricLogo-CPevmvJn.css",
+    "/assets/DocsRoutes-Cy_Goq46.css"
+  ],
+  "videos": [
+    {
+      "src": "https://reactbits.dev/assets/video/springcheck.webm",
+      "poster": "/assets/video/springcheck.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/squishswitch.webm",
+      "poster": "/assets/video/squishswitch.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/statusmark.webm",
+      "poster": "/assets/video/statusmark.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/swiperow.webm",
+      "poster": "/assets/video/swiperow.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/swipetoast.webm",
+      "poster": "/assets/video/swipetoast.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/tearticket.webm",
+      "poster": "/assets/video/tearticket.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/thoughtline.webm",
+      "poster": "/assets/video/thoughtline.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/voicepill.webm",
+      "poster": "/assets/video/voicepill.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/wakeslider.webm",
+      "poster": "/assets/video/wakeslider.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/warmtooltip.webm",
+      "poster": "/assets/video/warmtooltip.webp"
+    }
+  ]
+}

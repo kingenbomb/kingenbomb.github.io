@@ -1,0 +1,31 @@
+{
+  "url": "https://reactbits.dev/c/components",
+  "title": "Interactive React UI Components — Free Library | React Bits",
+  "bodyClasses": "",
+  "htmlAttrs": [
+    [
+      "lang",
+      "en"
+    ],
+    [
+      "data-theme",
+      "dark"
+    ],
+    [
+      "data-input-mode",
+      "pointer"
+    ],
+    [
+      "style",
+      "color-scheme: dark;"
+    ]
+  ],
+  "cssHrefs": [
+    "https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=Gochi+Hand&family=Press+Start+2P&family=Google+Sans+Code:ital,wght@0,300..800;1,300..800&display=swap",
+    "/assets/index-Dm9eiIMd.css",
+    "/assets/AnnouncementModal-BIV7mJLF.css",
+    "/assets/ElectricLogo-CPevmvJn.css",
+    "/assets/DocsRoutes-Cy_Goq46.css"
+  ],
+  "videos": []
+}

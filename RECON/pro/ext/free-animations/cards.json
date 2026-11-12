@@ -1,0 +1,67 @@
+[
+  {
+    "href": "https://pro.reactbits.dev/?utm_source=reactbits.dev&utm_medium=right-panel-card&utm_campaign=free-to-pro&utm_content=right-panel-card",
+    "imgs": [
+      "/assets/pro/components/aurora-beam-poster.webp",
+      "/assets/pro/components/aurora-beam-light.webp",
+      "/assets/react-bits-pro-logo-CbBjiZnb.svg"
+    ],
+    "texts": [
+      "Build the whole product with one library.",
+      "Components, page blocks, app UI, templates, the Agent Kit and page builders, ready to launch.",
+      "230 Components · 300 Blocks",
+      "300 App UI · 15 Templates · 20 Agent Skills",
+      "Explore React Bits Pro"
+    ],
+    "aria": null,
+    "title": null
+  },
+  {
+    "href": "https://www.shadcnblocks.com/?utm_source=reactbits&utm_medium=sponsor&utm_campaign=diamond&ref=reactbits",
+    "imgs": [
+      "/assets/sponsors/shadcnblocks.svg"
+    ],
+    "texts": [],
+    "aria": null,
+    "title": null
+  },
+  {
+    "href": "https://shaders.com/?utm_source=reactbits&utm_medium=sponsor&utm_campaign=diamond&ref=reactbits",
+    "imgs": [
+      "/assets/sponsors/shaders.svg"
+    ],
+    "texts": [],
+    "aria": null,
+    "title": null
+  },
+  {
+    "href": "https://shadcnuikit.com/?utm_source=reactbits&utm_medium=sponsor&utm_campaign=silver&ref=reactbits",
+    "imgs": [
+      "/assets/sponsors/shadcnuikit.svg"
+    ],
+    "texts": [],
+    "aria": null,
+    "title": null
+  },
+  {
+    "href": "https://shadcnstudio.com/?utm_source=reactbits&utm_medium=sponsor&utm_campaign=silver&ref=reactbits",
+    "imgs": [
+      "/assets/sponsors/shadcnstudio.svg"
+    ],
+    "texts": [],
+    "aria": null,
+    "title": null
+  },
+  {
+    "href": "https://pro.reactbits.dev/?utm_source=reactbits.dev&utm_medium=mobile-bar&utm_campaign=free-to-pro&utm_content=mobile-bar",
+    "imgs": [
+      "/assets/pro/components/aurora-beam-poster.webp"
+    ],
+    "texts": [
+      "Components, blocks, app UI, templates, Agent Kit & page builders",
+      "Explore React Bits Pro"
+    ],
+    "aria": "Explore React Bits Pro",
+    "title": null
+  }
+]

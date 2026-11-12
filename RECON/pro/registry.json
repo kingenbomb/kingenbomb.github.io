@@ -1,0 +1,900 @@
+[
+ {
+  "slug": "text-animations",
+  "name": "Text Animations",
+  "items": [
+   {
+    "slug": "ascii-text",
+    "name": "ASCII Text"
+   },
+   {
+    "slug": "blur-text",
+    "name": "Blur Text"
+   },
+   {
+    "slug": "circular-text",
+    "name": "Circular Text"
+   },
+   {
+    "slug": "count-up",
+    "name": "Count Up"
+   },
+   {
+    "slug": "curved-loop",
+    "name": "Curved Loop"
+   },
+   {
+    "slug": "decrypted-text",
+    "name": "Decrypted Text"
+   },
+   {
+    "slug": "depth-text",
+    "name": "Depth Text"
+   },
+   {
+    "slug": "echo-text",
+    "name": "Echo Text"
+   },
+   {
+    "slug": "falling-text",
+    "name": "Falling Text"
+   },
+   {
+    "slug": "fold-text",
+    "name": "Fold Text"
+   },
+   {
+    "slug": "fuzzy-text",
+    "name": "Fuzzy Text"
+   },
+   {
+    "slug": "glitch-text",
+    "name": "Glitch Text"
+   },
+   {
+    "slug": "gradient-text",
+    "name": "Gradient Text"
+   },
+   {
+    "slug": "masked-heading",
+    "name": "Masked Heading"
+   },
+   {
+    "slug": "particle-text",
+    "name": "Particle Text"
+   },
+   {
+    "slug": "rotating-text",
+    "name": "Rotating Text"
+   },
+   {
+    "slug": "scrambled-text",
+    "name": "Scrambled Text"
+   },
+   {
+    "slug": "scroll-float",
+    "name": "Scroll Float"
+   },
+   {
+    "slug": "scroll-reveal",
+    "name": "Scroll Reveal"
+   },
+   {
+    "slug": "scroll-velocity",
+    "name": "Scroll Velocity"
+   },
+   {
+    "slug": "shiny-text",
+    "name": "Shiny Text"
+   },
+   {
+    "slug": "shuffle",
+    "name": "Shuffle"
+   },
+   {
+    "slug": "split-flap-text",
+    "name": "Split Flap Text"
+   },
+   {
+    "slug": "split-text",
+    "name": "Split Text"
+   },
+   {
+    "slug": "stroke-text",
+    "name": "Stroke Text"
+   },
+   {
+    "slug": "tech-text",
+    "name": "Tech Text"
+   },
+   {
+    "slug": "text-cursor",
+    "name": "Text Cursor"
+   },
+   {
+    "slug": "text-loop",
+    "name": "Text Loop"
+   },
+   {
+    "slug": "text-pressure",
+    "name": "Text Pressure"
+   },
+   {
+    "slug": "text-type",
+    "name": "Text Type"
+   },
+   {
+    "slug": "true-focus",
+    "name": "True Focus"
+   },
+   {
+    "slug": "variable-proximity",
+    "name": "Variable Proximity"
+   },
+   {
+    "slug": "warp-text",
+    "name": "Warp Text"
+   }
+  ]
+ },
+ {
+  "slug": "animations",
+  "name": "Animations",
+  "items": [
+   {
+    "slug": "animated-content",
+    "name": "Animated Content"
+   },
+   {
+    "slug": "blob-cursor",
+    "name": "Blob Cursor"
+   },
+   {
+    "slug": "click-spark",
+    "name": "Click Spark"
+   },
+   {
+    "slug": "crosshair",
+    "name": "Crosshair"
+   },
+   {
+    "slug": "crystalized-ball",
+    "name": "Crystalized Ball"
+   },
+   {
+    "slug": "cubes",
+    "name": "Cubes"
+   },
+   {
+    "slug": "cursor-grid",
+    "name": "Cursor Grid"
+   },
+   {
+    "slug": "dither-veil",
+    "name": "Dither Veil"
+   },
+   {
+    "slug": "elastic-mesh",
+    "name": "Elastic Mesh"
+   },
+   {
+    "slug": "electric-border",
+    "name": "Electric Border"
+   },
+   {
+    "slug": "electric-logo",
+    "name": "Electric Logo"
+   },
+   {
+    "slug": "fade-content",
+    "name": "Fade Content"
+   },
+   {
+    "slug": "ghost-cursor",
+    "name": "Ghost Cursor"
+   },
+   {
+    "slug": "glare-hover",
+    "name": "Glare Hover"
+   },
+   {
+    "slug": "glow-cursor",
+    "name": "Glow Cursor"
+   },
+   {
+    "slug": "gradual-blur",
+    "name": "Gradual Blur"
+   },
+   {
+    "slug": "halftone-reveal",
+    "name": "Halftone Reveal"
+   },
+   {
+    "slug": "image-trail",
+    "name": "Image Trail"
+   },
+   {
+    "slug": "laser-flow",
+    "name": "Laser Flow"
+   },
+   {
+    "slug": "logo-loop",
+    "name": "Logo Loop"
+   },
+   {
+    "slug": "magnet",
+    "name": "Magnet"
+   },
+   {
+    "slug": "meta-balls",
+    "name": "Meta Balls"
+   },
+   {
+    "slug": "metallic-paint",
+    "name": "Metallic Paint"
+   },
+   {
+    "slug": "noise",
+    "name": "Noise"
+   },
+   {
+    "slug": "orbit-images",
+    "name": "Orbit Images"
+   },
+   {
+    "slug": "pixel-swap",
+    "name": "Pixel Swap"
+   },
+   {
+    "slug": "pixel-trail",
+    "name": "Pixel Trail"
+   },
+   {
+    "slug": "pixel-transition",
+    "name": "Pixel Transition"
+   },
+   {
+    "slug": "ribbons",
+    "name": "Ribbons"
+   },
+   {
+    "slug": "ripple-distortion",
+    "name": "Ripple Distortion"
+   },
+   {
+    "slug": "scroll-expand",
+    "name": "Scroll Expand"
+   },
+   {
+    "slug": "shape-blur",
+    "name": "Shape Blur"
+   },
+   {
+    "slug": "splash-cursor",
+    "name": "Splash Cursor"
+   },
+   {
+    "slug": "star-border",
+    "name": "Star Border"
+   },
+   {
+    "slug": "sticker-peel",
+    "name": "Sticker Peel"
+   },
+   {
+    "slug": "strands",
+    "name": "Strands"
+   },
+   {
+    "slug": "swarm-cursor",
+    "name": "Swarm Cursor"
+   },
+   {
+    "slug": "target-cursor",
+    "name": "Target Cursor"
+   }
+  ]
+ },
+ {
+  "slug": "components",
+  "name": "Components",
+  "items": [
+   {
+    "slug": "accordion-gallery",
+    "name": "Accordion Gallery"
+   },
+   {
+    "slug": "animated-list",
+    "name": "Animated List"
+   },
+   {
+    "slug": "border-glow",
+    "name": "Border Glow"
+   },
+   {
+    "slug": "bounce-cards",
+    "name": "Bounce Cards"
+   },
+   {
+    "slug": "bubble-menu",
+    "name": "Bubble Menu"
+   },
+   {
+    "slug": "card-nav",
+    "name": "Card Nav"
+   },
+   {
+    "slug": "card-swap",
+    "name": "Card Swap"
+   },
+   {
+    "slug": "carousel",
+    "name": "Carousel"
+   },
+   {
+    "slug": "chroma-grid",
+    "name": "Chroma Grid"
+   },
+   {
+    "slug": "circular-carousel",
+    "name": "Circular Carousel"
+   },
+   {
+    "slug": "circular-gallery",
+    "name": "Circular Gallery"
+   },
+   {
+    "slug": "counter",
+    "name": "Counter"
+   },
+   {
+    "slug": "curved-input",
+    "name": "Curved Input"
+   },
+   {
+    "slug": "decay-card",
+    "name": "Decay Card"
+   },
+   {
+    "slug": "depth-carousel",
+    "name": "Depth Carousel"
+   },
+   {
+    "slug": "dock",
+    "name": "Dock"
+   },
+   {
+    "slug": "dome-gallery",
+    "name": "Dome Gallery"
+   },
+   {
+    "slug": "drift-wall",
+    "name": "Drift Wall"
+   },
+   {
+    "slug": "elastic-slider",
+    "name": "Elastic Slider"
+   },
+   {
+    "slug": "flex-carousel",
+    "name": "Flex Carousel"
+   },
+   {
+    "slug": "flowing-menu",
+    "name": "Flowing Menu"
+   },
+   {
+    "slug": "fluid-glass",
+    "name": "Fluid Glass"
+   },
+   {
+    "slug": "flying-posters",
+    "name": "Flying Posters"
+   },
+   {
+    "slug": "folder",
+    "name": "Folder"
+   },
+   {
+    "slug": "glass-icons",
+    "name": "Glass Icons"
+   },
+   {
+    "slug": "glass-surface",
+    "name": "Glass Surface"
+   },
+   {
+    "slug": "gooey-nav",
+    "name": "Gooey Nav"
+   },
+   {
+    "slug": "holo-card",
+    "name": "Holo Card"
+   },
+   {
+    "slug": "infinite-menu",
+    "name": "Infinite Menu"
+   },
+   {
+    "slug": "infinite-spiral",
+    "name": "Infinite Spiral"
+   },
+   {
+    "slug": "lanyard",
+    "name": "Lanyard"
+   },
+   {
+    "slug": "line-sidebar",
+    "name": "Line Sidebar"
+   },
+   {
+    "slug": "magic-bento",
+    "name": "Magic Bento"
+   },
+   {
+    "slug": "masonry",
+    "name": "Masonry"
+   },
+   {
+    "slug": "model-viewer",
+    "name": "Model Viewer"
+   },
+   {
+    "slug": "morph-slider",
+    "name": "Morph Slider"
+   },
+   {
+    "slug": "option-wheel",
+    "name": "Option Wheel"
+   },
+   {
+    "slug": "pill-nav",
+    "name": "Pill Nav"
+   },
+   {
+    "slug": "pixel-card",
+    "name": "Pixel Card"
+   },
+   {
+    "slug": "profile-card",
+    "name": "Profile Card"
+   },
+   {
+    "slug": "reflective-card",
+    "name": "Reflective Card"
+   },
+   {
+    "slug": "scroll-stack",
+    "name": "Scroll Stack"
+   },
+   {
+    "slug": "specular-button",
+    "name": "Specular Button"
+   },
+   {
+    "slug": "spotlight-card",
+    "name": "Spotlight Card"
+   },
+   {
+    "slug": "stack",
+    "name": "Stack"
+   },
+   {
+    "slug": "staggered-menu",
+    "name": "Staggered Menu"
+   },
+   {
+    "slug": "stepper",
+    "name": "Stepper"
+   },
+   {
+    "slug": "tilted-card",
+    "name": "Tilted Card"
+   }
+  ]
+ },
+ {
+  "slug": "backgrounds",
+  "name": "Backgrounds",
+  "items": [
+   {
+    "slug": "acid-squares",
+    "name": "Acid Squares"
+   },
+   {
+    "slug": "aero-shards",
+    "name": "Aero Shards"
+   },
+   {
+    "slug": "antigravity",
+    "name": "Antigravity"
+   },
+   {
+    "slug": "aurora",
+    "name": "Aurora"
+   },
+   {
+    "slug": "balatro",
+    "name": "Balatro"
+   },
+   {
+    "slug": "ballpit",
+    "name": "Ballpit"
+   },
+   {
+    "slug": "beams",
+    "name": "Beams"
+   },
+   {
+    "slug": "color-bends",
+    "name": "Color Bends"
+   },
+   {
+    "slug": "crt-warp",
+    "name": "CRT Warp"
+   },
+   {
+    "slug": "dark-veil",
+    "name": "Dark Veil"
+   },
+   {
+    "slug": "dither",
+    "name": "Dither"
+   },
+   {
+    "slug": "dot-field",
+    "name": "Dot Field"
+   },
+   {
+    "slug": "dot-grid",
+    "name": "Dot Grid"
+   },
+   {
+    "slug": "evil-eye",
+    "name": "Evil Eye"
+   },
+   {
+    "slug": "faulty-terminal",
+    "name": "Faulty Terminal"
+   },
+   {
+    "slug": "ferrofluid",
+    "name": "Ferrofluid"
+   },
+   {
+    "slug": "floating-lines",
+    "name": "Floating Lines"
+   },
+   {
+    "slug": "flux-lines",
+    "name": "Flux Lines"
+   },
+   {
+    "slug": "galaxy",
+    "name": "Galaxy"
+   },
+   {
+    "slug": "ghost-fibers",
+    "name": "Ghost Fibers"
+   },
+   {
+    "slug": "gradient-ascii",
+    "name": "Gradient ASCII"
+   },
+   {
+    "slug": "gradient-blinds",
+    "name": "Gradient Blinds"
+   },
+   {
+    "slug": "gradient-waves",
+    "name": "Gradient Waves"
+   },
+   {
+    "slug": "grainient",
+    "name": "Grainient"
+   },
+   {
+    "slug": "grid-distortion",
+    "name": "Grid Distortion"
+   },
+   {
+    "slug": "grid-motion",
+    "name": "Grid Motion"
+   },
+   {
+    "slug": "grid-scan",
+    "name": "Grid Scan"
+   },
+   {
+    "slug": "hyperspeed",
+    "name": "Hyperspeed"
+   },
+   {
+    "slug": "iridescence",
+    "name": "Iridescence"
+   },
+   {
+    "slug": "letter-glitch",
+    "name": "Letter Glitch"
+   },
+   {
+    "slug": "lightfall",
+    "name": "Lightfall"
+   },
+   {
+    "slug": "lightning",
+    "name": "Lightning"
+   },
+   {
+    "slug": "light-pillar",
+    "name": "Light Pillar"
+   },
+   {
+    "slug": "light-rays",
+    "name": "Light Rays"
+   },
+   {
+    "slug": "light-tunnel",
+    "name": "Light Tunnel"
+   },
+   {
+    "slug": "line-waves",
+    "name": "Line Waves"
+   },
+   {
+    "slug": "liquid-chrome",
+    "name": "Liquid Chrome"
+   },
+   {
+    "slug": "liquid-ether",
+    "name": "Liquid Ether"
+   },
+   {
+    "slug": "magic-rings",
+    "name": "Magic Rings"
+   },
+   {
+    "slug": "magnet-lines",
+    "name": "Magnet Lines"
+   },
+   {
+    "slug": "micro-slats",
+    "name": "Micro Slats"
+   },
+   {
+    "slug": "molten-metal",
+    "name": "Molten Metal"
+   },
+   {
+    "slug": "orb",
+    "name": "Orb"
+   },
+   {
+    "slug": "particles",
+    "name": "Particles"
+   },
+   {
+    "slug": "pattern-waves",
+    "name": "Pattern Waves"
+   },
+   {
+    "slug": "pixel-blast",
+    "name": "Pixel Blast"
+   },
+   {
+    "slug": "pixel-snow",
+    "name": "Pixel Snow"
+   },
+   {
+    "slug": "plasma",
+    "name": "Plasma"
+   },
+   {
+    "slug": "plasma-wave",
+    "name": "Plasma Wave"
+   },
+   {
+    "slug": "prism",
+    "name": "Prism"
+   },
+   {
+    "slug": "prismatic-burst",
+    "name": "Prismatic Burst"
+   },
+   {
+    "slug": "radar",
+    "name": "Radar"
+   },
+   {
+    "slug": "ripple-grid",
+    "name": "Ripple Grid"
+   },
+   {
+    "slug": "scanner",
+    "name": "Scanner"
+   },
+   {
+    "slug": "shape-grid",
+    "name": "Shape Grid"
+   },
+   {
+    "slug": "shape-waves",
+    "name": "Shape Waves"
+   },
+   {
+    "slug": "side-rays",
+    "name": "Side Rays"
+   },
+   {
+    "slug": "silk",
+    "name": "Silk"
+   },
+   {
+    "slug": "sliced-waves",
+    "name": "Sliced Waves"
+   },
+   {
+    "slug": "soft-aurora",
+    "name": "Soft Aurora"
+   },
+   {
+    "slug": "threads",
+    "name": "Threads"
+   },
+   {
+    "slug": "topography",
+    "name": "Topography"
+   },
+   {
+    "slug": "waves",
+    "name": "Waves"
+   },
+   {
+    "slug": "web-threads",
+    "name": "Web Threads"
+   }
+  ]
+ },
+ {
+  "slug": "micro",
+  "name": "Micro Interactions",
+  "items": [
+   {
+    "slug": "bell-toggle",
+    "name": "Bell Toggle"
+   },
+   {
+    "slug": "branched-menu",
+    "name": "Branched Menu"
+   },
+   {
+    "slug": "call-chip",
+    "name": "Call Chip"
+   },
+   {
+    "slug": "code-slots",
+    "name": "Code Slots"
+   },
+   {
+    "slug": "comet-dial",
+    "name": "Comet Dial"
+   },
+   {
+    "slug": "dodge-field",
+    "name": "Dodge Field"
+   },
+   {
+    "slug": "flip-card",
+    "name": "Flip Card"
+   },
+   {
+    "slug": "folder-float",
+    "name": "Folder Float"
+   },
+   {
+    "slug": "fuse-button",
+    "name": "Fuse Button"
+   },
+   {
+    "slug": "glide-select",
+    "name": "Glide Select"
+   },
+   {
+    "slug": "hold-button",
+    "name": "Hold Button"
+   },
+   {
+    "slug": "jelly-radio",
+    "name": "Jelly Radio"
+   },
+   {
+    "slug": "lattice-loader",
+    "name": "Lattice Loader"
+   },
+   {
+    "slug": "paper-crumple",
+    "name": "Paper Crumple"
+   },
+   {
+    "slug": "peek-rating",
+    "name": "Peek Rating"
+   },
+   {
+    "slug": "prompt-bar",
+    "name": "Prompt Bar"
+   },
+   {
+    "slug": "pulse-heart",
+    "name": "Pulse Heart"
+   },
+   {
+    "slug": "refine-frame",
+    "name": "Refine Frame"
+   },
+   {
+    "slug": "rubber-segment",
+    "name": "Rubber Segment"
+   },
+   {
+    "slug": "scrub-field",
+    "name": "Scrub Field"
+   },
+   {
+    "slug": "shredder",
+    "name": "Shredder"
+   },
+   {
+    "slug": "slide-commit",
+    "name": "Slide Commit"
+   },
+   {
+    "slug": "sling-button",
+    "name": "Sling Button"
+   },
+   {
+    "slug": "slosh-gauge",
+    "name": "Slosh Gauge"
+   },
+   {
+    "slug": "spring-check",
+    "name": "Spring Check"
+   },
+   {
+    "slug": "squish-switch",
+    "name": "Squish Switch"
+   },
+   {
+    "slug": "status-mark",
+    "name": "Status Mark"
+   },
+   {
+    "slug": "swipe-row",
+    "name": "Swipe Row"
+   },
+   {
+    "slug": "swipe-toast",
+    "name": "Swipe Toast"
+   },
+   {
+    "slug": "tear-ticket",
+    "name": "Tear Ticket"
+   },
+   {
+    "slug": "thought-line",
+    "name": "Thought Line"
+   },
+   {
+    "slug": "voice-pill",
+    "name": "Voice Pill"
+   },
+   {
+    "slug": "wake-slider",
+    "name": "Wake Slider"
+   },
+   {
+    "slug": "warm-tooltip",
+    "name": "Warm Tooltip"
+   }
+  ]
+ }
+]

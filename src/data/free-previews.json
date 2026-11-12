@@ -1,0 +1,866 @@
+{
+"ascii-text": {
+"poster": "/assets/video/asciitext.webp",
+"webm": "/assets/video/asciitext.webm"
+},
+"blur-text": {
+"poster": "/assets/video/blurtext.webp",
+"webm": "/assets/video/blurtext.webm"
+},
+"circular-text": {
+"poster": "/assets/video/circulartext.webp",
+"webm": "/assets/video/circulartext.webm"
+},
+"count-up": {
+"poster": "/assets/video/countup.webp",
+"webm": "/assets/video/countup.webm"
+},
+"curved-loop": {
+"poster": "/assets/video/curvedloop.webp",
+"webm": "/assets/video/curvedloop.webm"
+},
+"decrypted-text": {
+"poster": "/assets/video/decryptedtext.webp",
+"webm": "/assets/video/decryptedtext.webm"
+},
+"depth-text": {
+"poster": "/assets/video/depthtext.webp",
+"webm": "/assets/video/depthtext.webm"
+},
+"echo-text": {
+"poster": "/assets/video/echotext.webp",
+"webm": "/assets/video/echotext.webm"
+},
+"falling-text": {
+"poster": "/assets/video/fallingtext.webp",
+"webm": "/assets/video/fallingtext.webm"
+},
+"fold-text": {
+"poster": "/assets/video/foldtext.webp",
+"webm": "/assets/video/foldtext.webm"
+},
+"fuzzy-text": {
+"poster": "/assets/video/fuzzytext.webp",
+"webm": "/assets/video/fuzzytext.webm"
+},
+"glitch-text": {
+"poster": "/assets/video/glitchtext.webp",
+"webm": "/assets/video/glitchtext.webm"
+},
+"gradient-text": {
+"poster": "/assets/video/gradienttext.webp",
+"webm": "/assets/video/gradienttext.webm"
+},
+"masked-heading": {
+"poster": "/assets/video/maskedheading.webp",
+"webm": "/assets/video/maskedheading.webm"
+},
+"particle-text": {
+"poster": "/assets/video/particletext.webp",
+"webm": "/assets/video/particletext.webm"
+},
+"rotating-text": {
+"poster": "/assets/video/rotatingtext.webp",
+"webm": "/assets/video/rotatingtext.webm"
+},
+"scrambled-text": {
+"poster": "/assets/video/scrambledtext.webp",
+"webm": "/assets/video/scrambledtext.webm"
+},
+"scroll-float": {
+"poster": "/assets/video/scrollfloat.webp",
+"webm": "/assets/video/scrollfloat.webm"
+},
+"scroll-reveal": {
+"poster": "/assets/video/scrollreveal.webp",
+"webm": "/assets/video/scrollreveal.webm"
+},
+"scroll-velocity": {
+"poster": "/assets/video/scrollvelocity.webp",
+"webm": "/assets/video/scrollvelocity.webm"
+},
+"shiny-text": {
+"poster": "/assets/video/shinytext.webp",
+"webm": "/assets/video/shinytext.webm"
+},
+"shuffle": {
+"poster": "/assets/video/shuffle.webp",
+"webm": "/assets/video/shuffle.webm"
+},
+"split-flap-text": {
+"poster": "/assets/video/splitflaptext.webp",
+"webm": "/assets/video/splitflaptext.webm"
+},
+"split-text": {
+"poster": "/assets/video/splittext.webp",
+"webm": "/assets/video/splittext.webm"
+},
+"stroke-text": {
+"poster": "/assets/video/stroketext.webp",
+"webm": "/assets/video/stroketext.webm"
+},
+"tech-text": {
+"poster": "/assets/video/techtext.webp",
+"webm": "/assets/video/techtext.webm"
+},
+"text-cursor": {
+"poster": "/assets/video/textcursor.webp",
+"webm": "/assets/video/textcursor.webm"
+},
+"text-loop": {
+"poster": "/assets/video/textloop.webp",
+"webm": "/assets/video/textloop.webm"
+},
+"text-pressure": {
+"poster": "/assets/video/textpressure.webp",
+"webm": "/assets/video/textpressure.webm"
+},
+"text-type": {
+"poster": "/assets/video/texttype.webp",
+"webm": "/assets/video/texttype.webm"
+},
+"true-focus": {
+"poster": "/assets/video/truefocus.webp",
+"webm": "/assets/video/truefocus.webm"
+},
+"variable-proximity": {
+"poster": "/assets/video/variableproximity.webp",
+"webm": "/assets/video/variableproximity.webm"
+},
+"warp-text": {
+"poster": "/assets/video/warptext.webp",
+"webm": "/assets/video/warptext.webm"
+},
+"animated-content": {
+"poster": "/assets/video/animatedcontent.webp",
+"webm": "/assets/video/animatedcontent.webm"
+},
+"blob-cursor": {
+"poster": "/assets/video/blobcursor.webp",
+"webm": "/assets/video/blobcursor.webm"
+},
+"click-spark": {
+"poster": "/assets/video/clickspark.webp",
+"webm": "/assets/video/clickspark.webm"
+},
+"crosshair": {
+"poster": "/assets/video/crosshair.webp",
+"webm": "/assets/video/crosshair.webm"
+},
+"crystalized-ball": {
+"poster": "/assets/video/crystalizedball.webp",
+"webm": "/assets/video/crystalizedball.webm"
+},
+"cubes": {
+"poster": "/assets/video/cubes.webp",
+"webm": "/assets/video/cubes.webm"
+},
+"cursor-grid": {
+"poster": "/assets/video/cursorgrid.webp",
+"webm": "/assets/video/cursorgrid.webm"
+},
+"dither-veil": {
+"poster": "/assets/video/ditherveil.webp",
+"webm": "/assets/video/ditherveil.webm"
+},
+"elastic-mesh": {
+"poster": "/assets/video/elasticmesh.webp",
+"webm": "/assets/video/elasticmesh.webm"
+},
+"electric-border": {
+"poster": "/assets/video/electricborder.webp",
+"webm": "/assets/video/electricborder.webm"
+},
+"electric-logo": {
+"poster": "/assets/video/electriclogo.webp",
+"webm": "/assets/video/electriclogo.webm"
+},
+"fade-content": {
+"poster": "/assets/video/fadecontent.webp",
+"webm": "/assets/video/fadecontent.webm"
+},
+"ghost-cursor": {
+"poster": "/assets/video/ghostcursor.webp",
+"webm": "/assets/video/ghostcursor.webm"
+},
+"glare-hover": {
+"poster": "/assets/video/glarehover.webp",
+"webm": "/assets/video/glarehover.webm"
+},
+"glow-cursor": {
+"poster": "/assets/video/glowcursor.webp",
+"webm": "/assets/video/glowcursor.webm"
+},
+"gradual-blur": {
+"poster": "/assets/video/gradualblur.webp",
+"webm": "/assets/video/gradualblur.webm"
+},
+"halftone-reveal": {
+"poster": "/assets/video/halftonereveal.webp",
+"webm": "/assets/video/halftonereveal.webm"
+},
+"image-trail": {
+"poster": "/assets/video/imagetrail.webp",
+"webm": "/assets/video/imagetrail.webm"
+},
+"laser-flow": {
+"poster": "/assets/video/laserflow.webp",
+"webm": "/assets/video/laserflow.webm"
+},
+"logo-loop": {
+"poster": "/assets/video/logoloop.webp",
+"webm": "/assets/video/logoloop.webm"
+},
+"magnet": {
+"poster": "/assets/video/magnet.webp",
+"webm": "/assets/video/magnet.webm"
+},
+"meta-balls": {
+"poster": "/assets/video/metaballs.webp",
+"webm": "/assets/video/metaballs.webm"
+},
+"metallic-paint": {
+"poster": "/assets/video/metallicpaint.webp",
+"webm": "/assets/video/metallicpaint.webm"
+},
+"noise": {
+"poster": "/assets/video/noise.webp",
+"webm": "/assets/video/noise.webm"
+},
+"orbit-images": {
+"poster": "/assets/video/orbitimages.webp",
+"webm": "/assets/video/orbitimages.webm"
+},
+"pixel-swap": {
+"poster": "/assets/video/pixelswap.webp",
+"webm": "/assets/video/pixelswap.webm"
+},
+"pixel-trail": {
+"poster": "/assets/video/pixeltrail.webp",
+"webm": "/assets/video/pixeltrail.webm"
+},
+"pixel-transition": {
+"poster": "/assets/video/pixeltransition.webp",
+"webm": "/assets/video/pixeltransition.webm"
+},
+"ribbons": {
+"poster": "/assets/video/ribbons.webp",
+"webm": "/assets/video/ribbons.webm"
+},
+"ripple-distortion": {
+"poster": "/assets/video/rippledistortion.webp",
+"webm": "/assets/video/rippledistortion.webm"
+},
+"scroll-expand": {
+"poster": "/assets/video/scrollexpand.webp",
+"webm": "/assets/video/scrollexpand.webm"
+},
+"shape-blur": {
+"poster": "/assets/video/shapeblur.webp",
+"webm": "/assets/video/shapeblur.webm"
+},
+"splash-cursor": {
+"poster": "/assets/video/splashcursor.webp",
+"webm": "/assets/video/splashcursor.webm"
+},
+"star-border": {
+"poster": "/assets/video/starborder.webp",
+"webm": "/assets/video/starborder.webm"
+},
+"sticker-peel": {
+"poster": "/assets/video/stickerpeel.webp",
+"webm": "/assets/video/stickerpeel.webm"
+},
+"strands": {
+"poster": "/assets/video/strands.webp",
+"webm": "/assets/video/strands.webm"
+},
+"swarm-cursor": {
+"poster": "/assets/video/swarmcursor.webp",
+"webm": "/assets/video/swarmcursor.webm"
+},
+"target-cursor": {
+"poster": "/assets/video/targetcursor.webp",
+"webm": "/assets/video/targetcursor.webm"
+},
+"accordion-gallery": {
+"poster": "/assets/video/accordiongallery.webp",
+"webm": "/assets/video/accordiongallery.webm"
+},
+"animated-list": {
+"poster": "/assets/video/animatedlist.webp",
+"webm": "/assets/video/animatedlist.webm"
+},
+"border-glow": {
+"poster": "/assets/video/borderglow.webp",
+"webm": "/assets/video/borderglow.webm"
+},
+"bounce-cards": {
+"poster": "/assets/video/bouncecards.webp",
+"webm": "/assets/video/bouncecards.webm"
+},
+"bubble-menu": {
+"poster": "/assets/video/bubblemenu.webp",
+"webm": "/assets/video/bubblemenu.webm"
+},
+"card-nav": {
+"poster": "/assets/video/cardnav.webp",
+"webm": "/assets/video/cardnav.webm"
+},
+"card-swap": {
+"poster": "/assets/video/cardswap.webp",
+"webm": "/assets/video/cardswap.webm"
+},
+"carousel": {
+"poster": "/assets/video/carousel.webp",
+"webm": "/assets/video/carousel.webm"
+},
+"chroma-grid": {
+"poster": "/assets/video/chromagrid.webp",
+"webm": "/assets/video/chromagrid.webm"
+},
+"circular-carousel": {
+"poster": "/assets/video/circularcarousel.webp",
+"webm": "/assets/video/circularcarousel.webm"
+},
+"circular-gallery": {
+"poster": "/assets/video/circulargallery.webp",
+"webm": "/assets/video/circulargallery.webm"
+},
+"counter": {
+"poster": "/assets/video/counter.webp",
+"webm": "/assets/video/counter.webm"
+},
+"curved-input": {
+"poster": "/assets/video/curvedinput.webp",
+"webm": "/assets/video/curvedinput.webm"
+},
+"decay-card": {
+"poster": "/assets/video/decaycard.webp",
+"webm": "/assets/video/decaycard.webm"
+},
+"depth-carousel": {
+"poster": "/assets/video/depthcarousel.webp",
+"webm": "/assets/video/depthcarousel.webm"
+},
+"dock": {
+"poster": "/assets/video/dock.webp",
+"webm": "/assets/video/dock.webm"
+},
+"dome-gallery": {
+"poster": "/assets/video/domegallery.webp",
+"webm": "/assets/video/domegallery.webm"
+},
+"drift-wall": {
+"poster": "/assets/video/driftwall.webp",
+"webm": "/assets/video/driftwall.webm"
+},
+"elastic-slider": {
+"poster": "/assets/video/elasticslider.webp",
+"webm": "/assets/video/elasticslider.webm"
+},
+"flex-carousel": {
+"poster": "/assets/video/flexcarousel.webp",
+"webm": "/assets/video/flexcarousel.webm"
+},
+"flowing-menu": {
+"poster": "/assets/video/flowingmenu.webp",
+"webm": "/assets/video/flowingmenu.webm"
+},
+"fluid-glass": {
+"poster": "/assets/video/fluidglass.webp",
+"webm": "/assets/video/fluidglass.webm"
+},
+"flying-posters": {
+"poster": "/assets/video/flyingposters.webp",
+"webm": "/assets/video/flyingposters.webm"
+},
+"folder": {
+"poster": "/assets/video/folder.webp",
+"webm": "/assets/video/folder.webm"
+},
+"glass-icons": {
+"poster": "/assets/video/glassicons.webp",
+"webm": "/assets/video/glassicons.webm"
+},
+"glass-surface": {
+"poster": "/assets/video/glasssurface.webp",
+"webm": "/assets/video/glasssurface.webm"
+},
+"gooey-nav": {
+"poster": "/assets/video/gooeynav.webp",
+"webm": "/assets/video/gooeynav.webm"
+},
+"holo-card": {
+"poster": "/assets/video/holocard.webp",
+"webm": "/assets/video/holocard.webm"
+},
+"infinite-menu": {
+"poster": "/assets/video/infinitemenu.webp",
+"webm": "/assets/video/infinitemenu.webm"
+},
+"infinite-spiral": {
+"poster": "/assets/video/infinitespiral.webp",
+"webm": "/assets/video/infinitespiral.webm"
+},
+"lanyard": {
+"poster": "/assets/video/lanyard.webp",
+"webm": "/assets/video/lanyard.webm"
+},
+"line-sidebar": {
+"poster": "/assets/video/linesidebar.webp",
+"webm": "/assets/video/linesidebar.webm"
+},
+"magic-bento": {
+"poster": "/assets/video/magicbento.webp",
+"webm": "/assets/video/magicbento.webm"
+},
+"masonry": {
+"poster": "/assets/video/masonry.webp",
+"webm": "/assets/video/masonry.webm"
+},
+"model-viewer": {
+"poster": "/assets/video/modelviewer.webp",
+"webm": "/assets/video/modelviewer.webm"
+},
+"morph-slider": {
+"poster": "/assets/video/morphslider.webp",
+"webm": "/assets/video/morphslider.webm"
+},
+"option-wheel": {
+"poster": "/assets/video/optionwheel.webp",
+"webm": "/assets/video/optionwheel.webm"
+},
+"pill-nav": {
+"poster": "/assets/video/pillnav.webp",
+"webm": "/assets/video/pillnav.webm"
+},
+"pixel-card": {
+"poster": "/assets/video/pixelcard.webp",
+"webm": "/assets/video/pixelcard.webm"
+},
+"profile-card": {
+"poster": "/assets/video/profilecard.webp",
+"webm": "/assets/video/profilecard.webm"
+},
+"reflective-card": {
+"poster": "/assets/video/reflectivecard.webp",
+"webm": "/assets/video/reflectivecard.webm"
+},
+"scroll-stack": {
+"poster": "/assets/video/scrollstack.webp",
+"webm": "/assets/video/scrollstack.webm"
+},
+"specular-button": {
+"poster": "/assets/video/specularbutton.webp",
+"webm": "/assets/video/specularbutton.webm"
+},
+"spotlight-card": {
+"poster": "/assets/video/spotlightcard.webp",
+"webm": "/assets/video/spotlightcard.webm"
+},
+"stack": {
+"poster": "/assets/video/stack.webp",
+"webm": "/assets/video/stack.webm"
+},
+"staggered-menu": {
+"poster": "/assets/video/staggeredmenu.webp",
+"webm": "/assets/video/staggeredmenu.webm"
+},
+"stepper": {
+"poster": "/assets/video/stepper.webp",
+"webm": "/assets/video/stepper.webm"
+},
+"tilted-card": {
+"poster": "/assets/video/tiltedcard.webp",
+"webm": "/assets/video/tiltedcard.webm"
+},
+"acid-squares": {
+"poster": "/assets/video/acidsquares.webp",
+"webm": "/assets/video/acidsquares.webm"
+},
+"aero-shards": {
+"poster": "/assets/video/aeroshards.webp",
+"webm": "/assets/video/aeroshards.webm"
+},
+"antigravity": {
+"poster": "/assets/video/antigravity.webp",
+"webm": "/assets/video/antigravity.webm"
+},
+"aurora": {
+"poster": "/assets/video/aurora.webp",
+"webm": "/assets/video/aurora.webm"
+},
+"balatro": {
+"poster": "/assets/video/balatro.webp",
+"webm": "/assets/video/balatro.webm"
+},
+"ballpit": {
+"poster": "/assets/video/ballpit.webp",
+"webm": "/assets/video/ballpit.webm"
+},
+"beams": {
+"poster": "/assets/video/beams.webp",
+"webm": "/assets/video/beams.webm"
+},
+"color-bends": {
+"poster": "/assets/video/colorbends.webp",
+"webm": "/assets/video/colorbends.webm"
+},
+"crt-warp": {
+"poster": "/assets/video/crtwarp.webp",
+"webm": "/assets/video/crtwarp.webm"
+},
+"dark-veil": {
+"poster": "/assets/video/darkveil.webp",
+"webm": "/assets/video/darkveil.webm"
+},
+"dither": {
+"poster": "/assets/video/dither.webp",
+"webm": "/assets/video/dither.webm"
+},
+"dot-field": {
+"poster": "/assets/video/dotfield.webp",
+"webm": "/assets/video/dotfield.webm"
+},
+"dot-grid": {
+"poster": "/assets/video/dotgrid.webp",
+"webm": "/assets/video/dotgrid.webm"
+},
+"evil-eye": {
+"poster": "/assets/video/evileye.webp",
+"webm": "/assets/video/evileye.webm"
+},
+"faulty-terminal": {
+"poster": "/assets/video/faultyterminal.webp",
+"webm": "/assets/video/faultyterminal.webm"
+},
+"ferrofluid": {
+"poster": "/assets/video/ferrofluid.webp",
+"webm": "/assets/video/ferrofluid.webm"
+},
+"floating-lines": {
+"poster": "/assets/video/floatinglines.webp",
+"webm": "/assets/video/floatinglines.webm"
+},
+"flux-lines": {
+"poster": "/assets/video/fluxlines.webp",
+"webm": "/assets/video/fluxlines.webm"
+},
+"galaxy": {
+"poster": "/assets/video/galaxy.webp",
+"webm": "/assets/video/galaxy.webm"
+},
+"ghost-fibers": {
+"poster": "/assets/video/ghostfibers.webp",
+"webm": "/assets/video/ghostfibers.webm"
+},
+"gradient-ascii": {
+"poster": "/assets/video/gradientascii.webp",
+"webm": "/assets/video/gradientascii.webm"
+},
+"gradient-blinds": {
+"poster": "/assets/video/gradientblinds.webp",
+"webm": "/assets/video/gradientblinds.webm"
+},
+"gradient-waves": {
+"poster": "/assets/video/gradientwaves.webp",
+"webm": "/assets/video/gradientwaves.webm"
+},
+"grainient": {
+"poster": "/assets/video/grainient.webp",
+"webm": "/assets/video/grainient.webm"
+},
+"grid-distortion": {
+"poster": "/assets/video/griddistortion.webp",
+"webm": "/assets/video/griddistortion.webm"
+},
+"grid-motion": {
+"poster": "/assets/video/gridmotion.webp",
+"webm": "/assets/video/gridmotion.webm"
+},
+"grid-scan": {
+"poster": "/assets/video/gridscan.webp",
+"webm": "/assets/video/gridscan.webm"
+},
+"hyperspeed": {
+"poster": "/assets/video/hyperspeed.webp",
+"webm": "/assets/video/hyperspeed.webm"
+},
+"iridescence": {
+"poster": "/assets/video/iridescence.webp",
+"webm": "/assets/video/iridescence.webm"
+},
+"letter-glitch": {
+"poster": "/assets/video/letterglitch.webp",
+"webm": "/assets/video/letterglitch.webm"
+},
+"lightfall": {
+"poster": "/assets/video/lightfall.webp",
+"webm": "/assets/video/lightfall.webm"
+},
+"lightning": {
+"poster": "/assets/video/lightning.webp",
+"webm": "/assets/video/lightning.webm"
+},
+"light-pillar": {
+"poster": "/assets/video/lightpillar.webp",
+"webm": "/assets/video/lightpillar.webm"
+},
+"light-rays": {
+"poster": "/assets/video/lightrays.webp",
+"webm": "/assets/video/lightrays.webm"
+},
+"light-tunnel": {
+"poster": "/assets/video/lighttunnel.webp",
+"webm": "/assets/video/lighttunnel.webm"
+},
+"line-waves": {
+"poster": "/assets/video/linewaves.webp",
+"webm": "/assets/video/linewaves.webm"
+},
+"liquid-chrome": {
+"poster": "/assets/video/liquidchrome.webp",
+"webm": "/assets/video/liquidchrome.webm"
+},
+"liquid-ether": {
+"poster": "/assets/video/liquidether.webp",
+"webm": "/assets/video/liquidether.webm"
+},
+"magic-rings": {
+"poster": "/assets/video/magicrings.webp",
+"webm": "/assets/video/magicrings.webm"
+},
+"magnet-lines": {
+"poster": "/assets/video/magnetlines.webp",
+"webm": "/assets/video/magnetlines.webm"
+},
+"micro-slats": {
+"poster": "/assets/video/microslats.webp",
+"webm": "/assets/video/microslats.webm"
+},
+"molten-metal": {
+"poster": "/assets/video/moltenmetal.webp",
+"webm": "/assets/video/moltenmetal.webm"
+},
+"orb": {
+"poster": "/assets/video/orb.webp",
+"webm": "/assets/video/orb.webm"
+},
+"particles": {
+"poster": "/assets/video/particles.webp",
+"webm": "/assets/video/particles.webm"
+},
+"pattern-waves": {
+"poster": "/assets/video/patternwaves.webp",
+"webm": "/assets/video/patternwaves.webm"
+},
+"pixel-blast": {
+"poster": "/assets/video/pixelblast.webp",
+"webm": "/assets/video/pixelblast.webm"
+},
+"pixel-snow": {
+"poster": "/assets/video/pixelsnow.webp",
+"webm": "/assets/video/pixelsnow.webm"
+},
+"plasma": {
+"poster": "/assets/video/plasma.webp",
+"webm": "/assets/video/plasma.webm"
+},
+"plasma-wave": {
+"poster": "/assets/video/plasmawave.webp",
+"webm": "/assets/video/plasmawave.webm"
+},
+"prism": {
+"poster": "/assets/video/prism.webp",
+"webm": "/assets/video/prism.webm"
+},
+"prismatic-burst": {
+"poster": "/assets/video/prismaticburst.webp",
+"webm": "/assets/video/prismaticburst.webm"
+},
+"radar": {
+"poster": "/assets/video/radar.webp",
+"webm": "/assets/video/radar.webm"
+},
+"ripple-grid": {
+"poster": "/assets/video/ripplegrid.webp",
+"webm": "/assets/video/ripplegrid.webm"
+},
+"scanner": {
+"poster": "/assets/video/scanner.webp",
+"webm": "/assets/video/scanner.webm"
+},
+"shape-waves": {
+"poster": "/assets/video/shapewaves.webp",
+"webm": "/assets/video/shapewaves.webm"
+},
+"side-rays": {
+"poster": "/assets/video/siderays.webp",
+"webm": "/assets/video/siderays.webm"
+},
+"silk": {
+"poster": "/assets/video/silk.webp",
+"webm": "/assets/video/silk.webm"
+},
+"sliced-waves": {
+"poster": "/assets/video/slicedwaves.webp",
+"webm": "/assets/video/slicedwaves.webm"
+},
+"soft-aurora": {
+"poster": "/assets/video/softaurora.webp",
+"webm": "/assets/video/softaurora.webm"
+},
+"threads": {
+"poster": "/assets/video/threads.webp",
+"webm": "/assets/video/threads.webm"
+},
+"topography": {
+"poster": "/assets/video/topography.webp",
+"webm": "/assets/video/topography.webm"
+},
+"waves": {
+"poster": "/assets/video/waves.webp",
+"webm": "/assets/video/waves.webm"
+},
+"web-threads": {
+"poster": "/assets/video/webthreads.webp",
+"webm": "/assets/video/webthreads.webm"
+},
+"bell-toggle": {
+"poster": "/assets/video/belltoggle.webp",
+"webm": "/assets/video/belltoggle.webm"
+},
+"branched-menu": {
+"poster": "/assets/video/branchedmenu.webp",
+"webm": "/assets/video/branchedmenu.webm"
+},
+"call-chip": {
+"poster": "/assets/video/callchip.webp",
+"webm": "/assets/video/callchip.webm"
+},
+"code-slots": {
+"poster": "/assets/video/codeslots.webp",
+"webm": "/assets/video/codeslots.webm"
+},
+"comet-dial": {
+"poster": "/assets/video/cometdial.webp",
+"webm": "/assets/video/cometdial.webm"
+},
+"dodge-field": {
+"poster": "/assets/video/dodgefield.webp",
+"webm": "/assets/video/dodgefield.webm"
+},
+"flip-card": {
+"poster": "/assets/video/flipcard.webp",
+"webm": "/assets/video/flipcard.webm"
+},
+"folder-float": {
+"poster": "/assets/video/folderfloat.webp",
+"webm": "/assets/video/folderfloat.webm"
+},
+"fuse-button": {
+"poster": "/assets/video/fusebutton.webp",
+"webm": "/assets/video/fusebutton.webm"
+},
+"glide-select": {
+"poster": "/assets/video/glideselect.webp",
+"webm": "/assets/video/glideselect.webm"
+},
+"hold-button": {
+"poster": "/assets/video/holdbutton.webp",
+"webm": "/assets/video/holdbutton.webm"
+},
+"jelly-radio": {
+"poster": "/assets/video/jellyradio.webp",
+"webm": "/assets/video/jellyradio.webm"
+},
+"lattice-loader": {
+"poster": "/assets/video/latticeloader.webp",
+"webm": "/assets/video/latticeloader.webm"
+},
+"paper-crumple": {
+"poster": "/assets/video/papercrumple.webp",
+"webm": "/assets/video/papercrumple.webm"
+},
+"peek-rating": {
+"poster": "/assets/video/peekrating.webp",
+"webm": "/assets/video/peekrating.webm"
+},
+"prompt-bar": {
+"poster": "/assets/video/promptbar.webp",
+"webm": "/assets/video/promptbar.webm"
+},
+"pulse-heart": {
+"poster": "/assets/video/pulseheart.webp",
+"webm": "/assets/video/pulseheart.webm"
+},
+"refine-frame": {
+"poster": "/assets/video/refineframe.webp",
+"webm": "/assets/video/refineframe.webm"
+},
+"rubber-segment": {
+"poster": "/assets/video/rubbersegment.webp",
+"webm": "/assets/video/rubbersegment.webm"
+},
+"scrub-field": {
+"poster": "/assets/video/scrubfield.webp",
+"webm": "/assets/video/scrubfield.webm"
+},
+"shredder": {
+"poster": "/assets/video/shredder.webp",
+"webm": "/assets/video/shredder.webm"
+},
+"slide-commit": {
+"poster": "/assets/video/slidecommit.webp",
+"webm": "/assets/video/slidecommit.webm"
+},
+"sling-button": {
+"poster": "/assets/video/slingbutton.webp",
+"webm": "/assets/video/slingbutton.webm"
+},
+"slosh-gauge": {
+"poster": "/assets/video/sloshgauge.webp",
+"webm": "/assets/video/sloshgauge.webm"
+},
+"spring-check": {
+"poster": "/assets/video/springcheck.webp",
+"webm": "/assets/video/springcheck.webm"
+},
+"squish-switch": {
+"poster": "/assets/video/squishswitch.webp",
+"webm": "/assets/video/squishswitch.webm"
+},
+"status-mark": {
+"poster": "/assets/video/statusmark.webp",
+"webm": "/assets/video/statusmark.webm"
+},
+"swipe-row": {
+"poster": "/assets/video/swiperow.webp",
+"webm": "/assets/video/swiperow.webm"
+},
+"swipe-toast": {
+"poster": "/assets/video/swipetoast.webp",
+"webm": "/assets/video/swipetoast.webm"
+},
+"tear-ticket": {
+"poster": "/assets/video/tearticket.webp",
+"webm": "/assets/video/tearticket.webm"
+},
+"thought-line": {
+"poster": "/assets/video/thoughtline.webp",
+"webm": "/assets/video/thoughtline.webm"
+},
+"voice-pill": {
+"poster": "/assets/video/voicepill.webp",
+"webm": "/assets/video/voicepill.webm"
+},
+"wake-slider": {
+"poster": "/assets/video/wakeslider.webp",
+"webm": "/assets/video/wakeslider.webm"
+},
+"warm-tooltip": {
+"poster": "/assets/video/warmtooltip.webp",
+"webm": "/assets/video/warmtooltip.webm"
+}
+}

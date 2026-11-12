@@ -1,0 +1,80 @@
+{
+  "url": "https://reactbits.dev/c/text-animations",
+  "title": "React Text Animations — Free Components | React Bits",
+  "bodyClasses": "",
+  "htmlAttrs": [
+    [
+      "lang",
+      "en"
+    ],
+    [
+      "data-theme",
+      "dark"
+    ],
+    [
+      "data-input-mode",
+      "pointer"
+    ],
+    [
+      "style",
+      "color-scheme: dark;"
+    ]
+  ],
+  "cssHrefs": [
+    "https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=Gochi+Hand&family=Press+Start+2P&family=Google+Sans+Code:ital,wght@0,300..800;1,300..800&display=swap",
+    "/assets/index-Dm9eiIMd.css",
+    "/assets/AnnouncementModal-BIV7mJLF.css",
+    "/assets/ElectricLogo-CPevmvJn.css",
+    "/assets/DocsRoutes-Cy_Goq46.css"
+  ],
+  "videos": [
+    {
+      "src": "https://reactbits.dev/assets/video/shuffle.webm",
+      "poster": "/assets/video/shuffle.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/splitflaptext.webm",
+      "poster": "/assets/video/splitflaptext.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/splittext.webm",
+      "poster": "/assets/video/splittext.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/stroketext.webm",
+      "poster": "/assets/video/stroketext.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/techtext.webm",
+      "poster": "/assets/video/techtext.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/textcursor.webm",
+      "poster": "/assets/video/textcursor.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/textloop.webm",
+      "poster": "/assets/video/textloop.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/textpressure.webm",
+      "poster": "/assets/video/textpressure.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/texttype.webm",
+      "poster": "/assets/video/texttype.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/truefocus.webm",
+      "poster": "/assets/video/truefocus.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/variableproximity.webm",
+      "poster": "/assets/video/variableproximity.webp"
+    },
+    {
+      "src": "https://reactbits.dev/assets/video/warptext.webm",
+      "poster": "/assets/video/warptext.webp"
+    }
+  ]
+}

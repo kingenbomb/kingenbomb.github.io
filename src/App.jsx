@@ -1,8 +1,10 @@
 import { Suspense, lazy } from 'react';
 import { Link, NavLink, Route, Routes, useLocation, useParams } from 'react-router-dom';
 import { allComponents, categories } from './registry';
+import CategoryBrowse from './pages/CategoryBrowse.jsx';
 
 const RsuiteSection = lazy(() => import('./rsuite/RsuiteSection.jsx'));
+const ProApp = lazy(() => import('./pro/ProApp.jsx'));
 
 function Home() {
   const total = categories.reduce((sum, category) => sum + category.items.length, 0);
@@ -32,6 +34,24 @@ function Home() {
           </div>
         </section>
       ))}
+      <section className="home-section">
+        <h2 className="home-section-title">
+          Catalog pages
+          <span>{categories.length + 1}</span>
+        </h2>
+        <div className="home-grid">
+          {categories.map(category => (
+            <Link key={`page-${category.slug}`} to={`/c/${category.slug}`} className="home-card">
+              <span className="home-card-name">{category.name}</span>
+              <span className="home-card-cat">{category.items.length} components · browse</span>
+            </Link>
+          ))}
+          <Link to="/pro/docs/components" className="home-card">
+            <span className="home-card-name">React Bits Pro</span>
+            <span className="home-card-cat">230 components · 22 blocks · 38 app ui · 15 templates · 20 agent skills</span>
+          </Link>
+        </div>
+      </section>
       <section className="home-section">
         <h2 className="home-section-title">
           React Suite UI
@@ -91,6 +111,13 @@ export default function App() {
       </Suspense>
     );
   }
+  if (location.pathname === '/pro' || location.pathname.startsWith('/pro/')) {
+    return (
+      <Suspense fallback={<div className="page-loading">Loading React Bits Pro…</div>}>
+        <ProApp />
+      </Suspense>
+    );
+  }
   return (
     <div className="site">
       <aside className="sidebar">
@@ -101,8 +128,25 @@ export default function App() {
         <div className="sidebar-scroll">
           <div className="sidebar-group">
             <p className="sidebar-heading">
+              Browse
+              <span className="sidebar-count">{categories.length}</span>
+            </p>
+            <nav className="sidebar-nav">
+              {categories.map(category => (
+                <NavLink
+                  key={`browse-${category.slug}`}
+                  to={`/c/${category.slug}`}
+                  className={({ isActive }) => `sidebar-link${isActive ? ' is-active' : ''}`}
+                >
+                  {category.name}
+                </NavLink>
+              ))}
+            </nav>
+          </div>
+          <div className="sidebar-group">
+            <p className="sidebar-heading">
               More libraries
-              <span className="sidebar-count">1</span>
+              <span className="sidebar-count">2</span>
             </p>
             <nav className="sidebar-nav">
               <NavLink
@@ -110,6 +154,12 @@ export default function App() {
                 className={({ isActive }) => `sidebar-link${isActive ? ' is-active' : ''}`}
               >
                 React Suite UI
+              </NavLink>
+              <NavLink
+                to="/pro/docs/components"
+                className={({ isActive }) => `sidebar-link${isActive ? ' is-active' : ''}`}
+              >
+                React Bits Pro
               </NavLink>
             </nav>
           </div>
@@ -145,6 +195,7 @@ export default function App() {
       <main className="content">
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="/c/:category" element={<CategoryBrowse />} />
           <Route path="/:categorySlug/:slug" element={<ComponentPage />} />
           <Route path="*" element={<NotFound />} />
         </Routes>

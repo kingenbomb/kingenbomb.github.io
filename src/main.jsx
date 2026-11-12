@@ -4,6 +4,7 @@ import { HashRouter } from 'react-router-dom';
 import { ChakraProvider, defaultSystem } from '@chakra-ui/react';
 import { Toaster } from 'sonner';
 import App from './App.jsx';
+import './css/layers.css';
 import './css/fonts.css';
 import './css/variables.css';
 import './css/preview-slider.css';
