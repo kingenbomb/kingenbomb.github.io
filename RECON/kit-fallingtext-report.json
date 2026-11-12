@@ -1,0 +1,21 @@
+{
+  "url": "http://localhost:5173/#/text-animations/falling-text",
+  "label": "kit-fallingtext",
+  "title": "React Bits Clone · Component Playground",
+  "h1": "Falling Text",
+  "split": {
+    "chars": 0,
+    "words": 0,
+    "lines": 0
+  },
+  "after": {
+    "toasts": 0,
+    "visibleChars": 0
+  },
+  "hover": null,
+  "consoleErrors": [],
+  "consoleWarnings": 4,
+  "consoleTotal": 10,
+  "pageErrors": [],
+  "netFailures": []
+}

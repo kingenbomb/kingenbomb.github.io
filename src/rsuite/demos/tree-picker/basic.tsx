@@ -1,0 +1,27 @@
+import { TreePicker, VStack } from 'rsuite';
+import { mockTreeData } from '@/utils/mock';
+
+const data = mockTreeData({
+  limits: [3, 3, 4],
+  labels: (layer, value, faker) => {
+    const methodName = ['jobArea', 'jobType', 'firstName'];
+    return faker.person[methodName[layer]]();
+  }
+});
+
+const App = () => (
+  <VStack>
+    <TreePicker defaultExpandAll data={data} w={246} />
+    <TreePicker
+      defaultExpandAll
+      data={data}
+      searchable={false}
+      w={246}
+      placeholder="Select without search"
+    />
+  </VStack>
+);
+
+
+
+export default App;

@@ -1,0 +1,13 @@
+import { ProgressCircle, HStack } from 'rsuite';
+
+const App = () => (
+  <HStack spacing={20}>
+    <ProgressCircle percent={30} strokeWidth={4} w={100} />
+    <ProgressCircle percent={30} strokeWidth={8} w={100} />
+    <ProgressCircle percent={30} strokeWidth={12} w={100} />
+  </HStack>
+);
+
+
+
+export default App;

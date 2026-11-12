@@ -1,0 +1,30 @@
+import { useState } from 'react';
+import React from 'react';
+import { Nav, VStack } from 'rsuite';
+
+const Navbar = ({ active, onSelect, ...props }) => {
+  return (
+    <Nav {...props} activeKey={active} onSelect={onSelect}>
+      <Nav.Item eventKey="home">Home</Nav.Item>
+      <Nav.Item eventKey="products">Products</Nav.Item>
+      <Nav.Item eventKey="services">Services</Nav.Item>
+      <Nav.Item eventKey="contact">Contact Us</Nav.Item>
+    </Nav>
+  );
+};
+
+const App = () => {
+  const [active, setActive] = React.useState('home');
+
+  return (
+    <VStack spacing={30}>
+      <Navbar active={active} onSelect={setActive} />
+      <Navbar appearance="tabs" active={active} onSelect={setActive} />
+      <Navbar appearance="subtle" active={active} onSelect={setActive} />
+    </VStack>
+  );
+};
+
+
+
+export default App;

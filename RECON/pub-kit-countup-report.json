@@ -1,0 +1,39 @@
+{
+  "url": "https://8080-agqt3cjoogjlubc56sgytoztjq.instabox.tech/#/text-animations/count-up",
+  "label": "pub-kit-countup",
+  "title": "React Bits Clone · Component Playground",
+  "h1": "Count Up",
+  "split": {
+    "chars": 0,
+    "words": 0,
+    "lines": 0
+  },
+  "after": {
+    "toasts": 0,
+    "visibleChars": 0
+  },
+  "hover": null,
+  "consoleErrors": [
+    {
+      "type": "error",
+      "text": "Failed to load resource: the server responded with a status of 404 ()"
+    },
+    {
+      "type": "error",
+      "text": "Failed to load resource: the server responded with a status of 404 ()"
+    }
+  ],
+  "consoleWarnings": 0,
+  "consoleTotal": 2,
+  "pageErrors": [],
+  "netFailures": [
+    {
+      "url": "https://8080-agqt3cjoogjlubc56sgytoztjq.instabox.tech/node_modules/geist/dist/fonts/geist-sans/Geist-Variable.woff2",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "url": "https://8080-agqt3cjoogjlubc56sgytoztjq.instabox.tech/node_modules/geist/dist/fonts/geist-mono/GeistMono-Variable.woff2",
+      "err": "net::ERR_ABORTED"
+    }
+  ]
+}

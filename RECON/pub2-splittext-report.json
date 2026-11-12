@@ -1,0 +1,25 @@
+{
+  "url": "https://8080-agqt3cjoogjlubc56sgytoztjq.instabox.tech/#/text-animations/split-text",
+  "label": "pub2-splittext",
+  "title": "React Bits Clone · Component Playground",
+  "h1": "Split Text",
+  "split": {
+    "chars": 10,
+    "words": 0,
+    "lines": 0
+  },
+  "after": {
+    "toasts": 1,
+    "visibleChars": 10
+  },
+  "hover": {
+    "transform": "none",
+    "translate": "0px -16.08px",
+    "opacity": "1"
+  },
+  "consoleErrors": [],
+  "consoleWarnings": 0,
+  "consoleTotal": 0,
+  "pageErrors": [],
+  "netFailures": []
+}

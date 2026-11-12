@@ -1,0 +1,27 @@
+import { DatePicker } from 'rsuite';
+
+const App = () => (
+  <DatePicker
+    format="yyyy-MM-dd HH:mm:ss"
+    w={260}
+    locale={{
+      sunday: 'Su',
+      monday: 'Mo',
+      tuesday: 'Tu',
+      wednesday: 'We',
+      thursday: 'Th',
+      friday: 'Fr',
+      saturday: 'Sa',
+      ok: 'OK',
+      today: 'Today',
+      yesterday: 'Yesterday',
+      hours: 'Hours',
+      minutes: 'Minutes',
+      seconds: 'Seconds'
+    }}
+  />
+);
+
+
+
+export default App;

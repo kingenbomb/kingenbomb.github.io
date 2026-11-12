@@ -1,0 +1,7 @@
+{
+  "base": "http://localhost:4173",
+  "categoryFilter": "components",
+  "total": 48,
+  "ok": 48,
+  "failures": []
+}

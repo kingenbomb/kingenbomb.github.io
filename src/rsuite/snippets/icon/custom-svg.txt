@@ -1,0 +1,8 @@
+import { HStack } from 'rsuite';
+import Icon from '@rsuite/icons/Icon';
+
+const SvgIcon = <svg>...</svg>;
+
+return () => {
+  return <Icon as={SvgIcon} />;
+};

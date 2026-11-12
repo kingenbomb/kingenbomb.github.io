@@ -1,0 +1,29 @@
+import { useRef } from 'react';
+import React from 'react';
+import { Affix, Button, Placeholder } from 'rsuite';
+
+const App = () => {
+  const container = React.useRef();
+  return (
+    <>
+      <div ref={container} style={{ background: 'black' }}>
+        <Placeholder.Paragraph rows={6} />
+        <Affix
+          top={0}
+          container={() => {
+            return container.current;
+          }}
+        >
+          <Button appearance="primary" style={{ marginLeft: 100 }}>
+            Top 0 (container)
+          </Button>
+        </Affix>
+        <Placeholder.Paragraph rows={6} />
+      </div>
+      <Placeholder.Paragraph rows={20} />
+    </>
+  );
+};
+
+
+export default App;

@@ -1,0 +1,24 @@
+import { Card, Text } from 'rsuite';
+
+const App = () => {
+  return (
+    <Card width={320}>
+      <Card.Header>
+        <Text size="lg" bold>
+          John Doe
+        </Text>
+      </Card.Header>
+      <Card.Body>
+        A passionate developer with a love for learning new technologies. Enjoys building innovative
+        solutions and solving problems.
+      </Card.Body>
+      <Card.Footer>
+        <Text muted>Joined in January 2023</Text>
+      </Card.Footer>
+    </Card>
+  );
+};
+
+
+
+export default App;

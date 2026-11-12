@@ -1,0 +1,10 @@
+node_modules/
+dist/
+dist.tar.gz
+
+# 只读的官方仓库镜像快照，构建不引用（可从 DavidHDev/react-bits 重新拉取）
+vendor/
+
+# 验证截图体积较大，不入库
+RECON/screenshots/
+RECON/*.log

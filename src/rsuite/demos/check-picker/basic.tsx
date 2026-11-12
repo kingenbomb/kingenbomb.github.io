@@ -1,0 +1,33 @@
+import { CheckPicker, VStack } from 'rsuite';
+
+const data = [
+  'Eugenia',
+  'Bryan',
+  'Linda',
+  'Nancy',
+  'Lloyd',
+  'Alice',
+  'Julia',
+  'Albert',
+  'Louisa',
+  'Lester',
+  'Lola',
+  'Lydia',
+  'Hal',
+  'Hannah',
+  'Harriet',
+  'Hattie',
+  'Hazel',
+  'Hilda'
+].map(item => ({ label: item, value: item }));
+
+const App = () => (
+  <VStack>
+    <CheckPicker data={data} w={224} />
+    <CheckPicker data={data} searchable={false} w={224} placeholder="Select without search" />
+  </VStack>
+);
+
+
+
+export default App;

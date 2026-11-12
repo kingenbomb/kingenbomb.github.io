@@ -1,0 +1,6 @@
+import createIconFont from '@rsuite/icons/createIconFont';
+
+const IconFont = createIconFont({
+  // Icon resource: https://www.iconfont.cn/
+  scriptUrl: '//at.alicdn.com/t/font_2144422_r174s9i1orl.js'
+});

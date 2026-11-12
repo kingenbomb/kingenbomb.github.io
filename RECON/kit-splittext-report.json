@@ -1,0 +1,25 @@
+{
+  "url": "http://localhost:5173/#/text-animations/split-text",
+  "label": "kit-splittext",
+  "title": "React Bits Clone · Component Playground",
+  "h1": "Split Text",
+  "split": {
+    "chars": 0,
+    "words": 0,
+    "lines": 0
+  },
+  "after": {
+    "toasts": 1,
+    "visibleChars": 10
+  },
+  "hover": {
+    "transform": "none",
+    "translate": "0px -16.09px",
+    "opacity": "1"
+  },
+  "consoleErrors": [],
+  "consoleWarnings": 4,
+  "consoleTotal": 10,
+  "pageErrors": [],
+  "netFailures": []
+}

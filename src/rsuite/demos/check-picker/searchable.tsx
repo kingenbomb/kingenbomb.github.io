@@ -1,0 +1,15 @@
+import { CheckPicker } from 'rsuite';
+
+const data = ['Eugenia', 'Bryan', 'Linda', 'Nancy', 'Lloyd', 'Alice', 'Julia', 'Albert'].map(
+  item => ({ label: item, value: item })
+);
+
+const App = () => (
+  <>
+    <CheckPicker data={data} searchable={false} w={224} />
+  </>
+);
+
+
+
+export default App;

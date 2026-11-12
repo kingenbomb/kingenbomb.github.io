@@ -1,0 +1,21 @@
+{
+  "url": "http://localhost:5173/#/micro/prompt-bar",
+  "label": "kit2-promptbar",
+  "title": "React Bits Clone · Component Playground",
+  "h1": "Prompt Bar",
+  "split": {
+    "chars": 0,
+    "words": 0,
+    "lines": 0
+  },
+  "after": {
+    "toasts": 0,
+    "visibleChars": 0
+  },
+  "hover": null,
+  "consoleErrors": [],
+  "consoleWarnings": 0,
+  "consoleTotal": 3,
+  "pageErrors": [],
+  "netFailures": []
+}

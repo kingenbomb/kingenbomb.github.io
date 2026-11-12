@@ -1,0 +1,21 @@
+{
+  "url": "http://localhost:5173/#/text-animations/blur-text",
+  "label": "kit-blurtext",
+  "title": "React Bits Clone · Component Playground",
+  "h1": "Blur Text",
+  "split": {
+    "chars": 0,
+    "words": 0,
+    "lines": 0
+  },
+  "after": {
+    "toasts": 1,
+    "visibleChars": 0
+  },
+  "hover": null,
+  "consoleErrors": [],
+  "consoleWarnings": 4,
+  "consoleTotal": 7,
+  "pageErrors": [],
+  "netFailures": []
+}

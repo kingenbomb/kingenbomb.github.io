@@ -1,0 +1,34 @@
+import { CheckTreePicker } from 'rsuite';
+import { mockTreeData } from '@/utils/mock';
+
+const data = mockTreeData({
+  limits: [3, 3, 4],
+  labels: (layer, value, faker) => {
+    const methodName = ['jobArea', 'jobType', 'firstName'];
+    return faker.person[methodName[layer]]();
+  }
+});
+
+const App = () => (
+  <>
+    <CheckTreePicker
+      defaultExpandAll
+      data={data}
+      appearance="default"
+      placeholder="Default"
+      w={280}
+    />
+    <hr />
+    <CheckTreePicker
+      defaultExpandAll
+      data={data}
+      appearance="subtle"
+      placeholder="Subtle"
+      w={280}
+    />
+  </>
+);
+
+
+
+export default App;

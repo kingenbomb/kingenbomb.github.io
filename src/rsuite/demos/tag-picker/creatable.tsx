@@ -1,0 +1,37 @@
+import { TagPicker } from 'rsuite';
+
+const data = ['Eugenia', 'Bryan', 'Linda', 'Nancy', 'Lloyd', 'Alice', 'Julia', 'Albert'].map(
+  item => ({
+    label: item,
+    value: item,
+    role: Math.random() > 0.5 ? 'Owner' : 'Guest'
+  })
+);
+
+const App = () => (
+  <>
+    <TagPicker
+      creatable
+      data={data}
+      w={300}
+      onCreate={(value, item) => {
+        console.log(value, item);
+      }}
+    />
+    <hr />
+    <TagPicker
+      creatable
+      data={data}
+      w={300}
+      groupBy="role"
+      placeholder="Group Select"
+      onCreate={(value, item) => {
+        console.log(value, item);
+      }}
+    />
+  </>
+);
+
+
+
+export default App;

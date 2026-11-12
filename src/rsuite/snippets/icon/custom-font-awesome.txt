@@ -1,0 +1,3 @@
+import * as faCamera from '@fortawesome/free-solid-svg-icons/faCamera';
+import * as faReact from '@fortawesome/free-brands-svg-icons/faReact';
+import * as faAddressBook from '@fortawesome/free-regular-svg-icons/faAddressBook';

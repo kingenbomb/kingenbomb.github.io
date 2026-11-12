@@ -1,0 +1,41 @@
+import { useState } from 'react';
+import React from 'react';
+import { Checkbox, CheckboxGroup, VStack } from 'rsuite';
+
+const data = ['A', 'B'];
+
+const App = () => {
+  const [value, setValue] = React.useState(['A']);
+
+  const handleCheckAll = (value, checked) => setValue(checked ? data : []);
+  const handleChange = value => setValue(value);
+
+  return (
+    <VStack spacing={12}>
+      <Checkbox
+        indeterminate={value.length > 0 && value.length < data.length}
+        checked={value.length === data.length}
+        onChange={handleCheckAll}
+      >
+        Parent Checkbox
+      </Checkbox>
+
+      <CheckboxGroup
+        name="checkboxList"
+        value={value}
+        onChange={handleChange}
+        style={{ marginInlineStart: 24 }}
+      >
+        {data.map(item => (
+          <Checkbox key={item} value={item}>
+            Child Checkbox {item}
+          </Checkbox>
+        ))}
+      </CheckboxGroup>
+    </VStack>
+  );
+};
+
+
+
+export default App;

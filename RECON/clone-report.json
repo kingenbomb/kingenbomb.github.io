@@ -1,0 +1,30 @@
+{
+  "url": "http://localhost:5173",
+  "label": "clone",
+  "title": "Split Text · ReactBits Clone",
+  "h1": "Split Text",
+  "split": {
+    "chars": 10,
+    "words": 0,
+    "lines": 0
+  },
+  "after": {
+    "toasts": 0,
+    "visibleChars": 10
+  },
+  "hover": {
+    "transform": "none",
+    "translate": "0px -13.51px",
+    "opacity": "1"
+  },
+  "consoleErrors": [
+    {
+      "type": "error",
+      "text": "Failed to load resource: the server responded with a status of 404 (Not Found)"
+    }
+  ],
+  "consoleWarnings": 0,
+  "consoleTotal": 4,
+  "pageErrors": [],
+  "netFailures": []
+}

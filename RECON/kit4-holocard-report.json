@@ -1,0 +1,21 @@
+{
+  "url": "http://localhost:4173/#/components/holo-card",
+  "label": "kit4-holocard",
+  "title": "React Bits Clone · Component Playground",
+  "h1": "Holo Card",
+  "split": {
+    "chars": 0,
+    "words": 0,
+    "lines": 0
+  },
+  "after": {
+    "toasts": 0,
+    "visibleChars": 0
+  },
+  "hover": null,
+  "consoleErrors": [],
+  "consoleWarnings": 0,
+  "consoleTotal": 0,
+  "pageErrors": [],
+  "netFailures": []
+}
