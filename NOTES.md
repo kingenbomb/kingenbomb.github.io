@@ -88,12 +88,18 @@ ssh instabox 'rm -rf /data/home/splittext-web/* && tar -xzf /data/home/splittext
 
 ## 验证记录（RECON/）
 
-- **最终全站扫描（公网，217 个路由）：217/217 通过、0 报错** — `RECON/sweep-report.json`
-- 分批扫描报告：`RECON/sweep-{animations,components,backgrounds}.json`，均为 38/38、48/48、64/64
+- **最终全站扫描（GitHub Pages 公网，217 个路由）：217/217 通过、0 报错** —
+  `RECON/sweep-report.json`（base = `https://kingenbomb.github.io`），逐条日志 `RECON/sweep-ghpages-root.log`
+- 部署首轮验证：`RECON/ghpages-root-report.json`（SplitText：拆字 10、悬停 lift −16.1px、0 报错）
+- **子路径部署会挂**（2026-11-12 踩过）：`/reactbits-clone/` 下扫描出约 15 个 FAIL，全是带图片/视频/glb 的页面；
+  根因是 demo 源码里写死的 `/assets/...` 绝对路径不随 `base` 改写。`RECON/ghpages-report.json`（子路径）
+  与 `RECON/ghpages-root-report.json`（根域）对比即证据。
+- 历史（InstaBox 时代）：`RECON/sweep-report.instabox.json` 217/217；分批报告 `RECON/sweep-{animations,components,backgrounds}.json` 为 38/38、48/48、64/64
 - Batch 1 探针：SplitText 拆字 10、悬停 lift -16px、完成 toast 触发；各批抽查（Fuse Button/Paper Crumple/Silk 等）均 0 报错
 - 已修复问题：latticeLoaderCode.js 下载损坏、Geist 字体打包、各批遗漏的 public 资源（paper-crumple.jpg、masked-heading.mp4、/assets/demo/*、/assets/3d/*、click-soft.mp3 等）、vgpu 降级 0.3.1、sweep 脚本浏览器内存泄漏（每 15 页重启+空页重试）
 - `RECON/probe.mjs` 用法：`node RECON/probe.mjs --url <url> --out RECON --label <name>`；`RECON/sweep.mjs <baseUrl> [categorySlug]` 全站或按分类扫描；`RECON/fetch-category.ps1 -Category <Name>` 下载+同步新分类
-- Windows 跑 sweep 注意：重型 WebGL 页连续跑会 OOM，脚本已内置浏览器重启
+- Windows 跑 sweep 注意：重型 WebGL 页连续跑会 OOM，脚本已内置浏览器重启；首条路由常因 CDN 冷启动慢，
+  之后稳定在 3~5 秒/条（重 WebGL 页可达数分钟）
 
 ## 待办 / 后续可选优化
 
