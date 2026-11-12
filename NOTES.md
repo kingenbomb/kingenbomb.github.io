@@ -50,19 +50,39 @@ npm run dev      # http://localhost:5173
 npm run build    # 产物在 dist/
 ```
 
-## 部署（InstaBox 机器 instabox-11）
+## 部署
 
-- 公网 URL：**https://8080-agqt3cjoogjlubc56sgytoztjq.instabox.tech**
-- 服务器目录：`/data/home/splittext-web`（静态 dist 解包）
-- 常驻：systemd 服务 `splittext-web`（`instabox-port _serve /data/home/splittext-web 8080`，Restart=always，开机自启）
-- 机器保活：本机计划任务 + 机器内 systemd keepalive（每 20 分钟）防止 30 分钟闲置自动暂停
+### 当前：GitHub Pages（2026-11-12 起）
 
-### 更新部署
+- 公网 URL：**https://kingenbomb.github.io/**
+- 仓库：https://github.com/kingenbomb/kingenbomb.github.io（user site 仓库，public）
+- 方式：`.github/workflows/deploy.yml` — push 到 `main` 即触发 `npm ci` + `npm run build` → `actions/deploy-pages`
+- **必须部署在域名根**：`public/assets/**` 的图片/视频/glb 在 demo 里是写死的 `/assets/...` 绝对路径，
+  挂子路径（`/reactbits-clone/`）会全部 404 —— 2026-11-12 第一次就踩了这个坑，扫描出一批
+  masked-heading / flying-posters / circular-gallery 失败。所以用 `<user>.github.io` 仓库而非 project page。
+- 其他配置：`base: './'` + HashRouter（无需 SPA fallback）+ `public/.nojekyll`
+- 体积：入库 27.6 MB / 2783 文件；`vendor/`（23 MB 官方镜像）、`dist/`、`RECON/screenshots/` 均不入库
+
+更新部署 = 直接 push：
 
 ```powershell
-npm run build
+cd D:\mm\reactbits-splittext-clone
+git add -A && git commit -m "..." && git push
+gh run watch   # 可选，看构建
+```
+
+Actions 里两个无害告警：`actions/*@v4` 被强制跑在 Node 24（Node 20 弃用）、`ubuntu-latest` 2026-10-19 起迁 Ubuntu 26。
+
+### 旧：InstaBox 机器 instabox-11（已失效，勿用）
+
+原地址 `https://8080-agqt3cjoogjlubc56sgytoztjq.instabox.tech` 已于 2026-11 返回 404，
+`id_ed25519_instabox` 证书也连不上（`Permission denied (publickey)`）。实例疑似被回收/暂停。
+历史产物保留：`RECON/sweep-report.instabox.json`、`RECON/deployed-report.json`。
+
+当时的部署方式（存档）：
+```powershell
 tar -czf dist.tar.gz -C dist .
-scp -P 2222 -i C:\Users\zack_\.ssh\id_ed25519_instabox -o CertificateFile=C:\Users\zack_\.ssh\id_ed25519_instabox-cert.pub D:\mm\reactbits-splittext-clone\dist.tar.gz m_agqt3cjoogjlubc56sgytoztjq@api.instabox.sh:/data/home/splittext-web.tar.gz
+scp -P 2222 -i C:\Users\zack_\.ssh\id_ed25519_instabox -o CertificateFile=... D:\mm\reactbits-splittext-clone\dist.tar.gz m_agqt3cjoogjlubc56sgytoztjq@api.instabox.sh:/data/home/splittext-web.tar.gz
 ssh instabox 'rm -rf /data/home/splittext-web/* && tar -xzf /data/home/splittext-web.tar.gz -C /data/home/splittext-web && sudo systemctl restart splittext-web'
 ```
 

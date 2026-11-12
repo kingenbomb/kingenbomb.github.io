@@ -12,9 +12,12 @@ reactbits.dev 的本地复刻版：五个分类 **217 个组件**，每个组件
 
 ## 在线体验
 
-https://kingenbomb.github.io/reactbits-clone/
+https://kingenbomb.github.io/
 
-> HashRouter + `base: './'`，任意子路径托管都能跑，无需 SPA fallback。
+> HashRouter，无需 SPA fallback。
+> **但必须部署在域名根**：`public/assets/**` 里的图片/视频/glb 在 demo 源码中是写死的绝对路径
+> （`/assets/demo/...`），挂在 `/子路径/` 下会全部 404。所以用 `<user>.github.io` 仓库，
+> 不要用 project page。
 
 ## 本地运行
 

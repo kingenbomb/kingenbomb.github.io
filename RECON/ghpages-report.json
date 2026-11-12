@@ -1,0 +1,25 @@
+{
+  "url": "https://kingenbomb.github.io/reactbits-clone/#/text-animations/split-text",
+  "label": "ghpages",
+  "title": "React Bits Clone · Component Playground",
+  "h1": "Split Text",
+  "split": {
+    "chars": 10,
+    "words": 0,
+    "lines": 0
+  },
+  "after": {
+    "toasts": 1,
+    "visibleChars": 10
+  },
+  "hover": {
+    "transform": "none",
+    "translate": "0px -16.1px",
+    "opacity": "1"
+  },
+  "consoleErrors": [],
+  "consoleWarnings": 0,
+  "consoleTotal": 0,
+  "pageErrors": [],
+  "netFailures": []
+}
